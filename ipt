@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,CANAL OFF FHD ¹
+#EXTINF:-1,CANAL OFF FHD ¹ group-title="canais sport"
 http://forceie.com:2082/sony123/sony123/57483
-#EXTINF:-1,CANAL OFF FHD ²
+#EXTINF:-1,CANAL OFF FHD ² group-title="canais sport"
 http://forceie.com:2082/sony123/sony123/31180
 #EXTINF:-1,CANAL OFF HD ²
 http://forceie.com:2082/sony123/sony123/7943
@@ -11,7 +11,7 @@ http://forceie.com:2082/sony123/sony123/7942
 http://forceie.com:2082/sony123/sony123/86584
 #EXTINF:-1,GLOBO FLORIANOPOLIS FHD ¹
 http://forceie.com:2082/sony123/sony123/86586
-#EXTINF:-1,RECORD 4K ¹
+#EXTINF:-1,RECORD 4K ¹ group-title="canais Brasil"
 http://forceie.com:2082/sony123/sony123/58912
 #EXTINF:-1,RECORD SP HD ²
 http://forceie.com:2082/sony123/sony123/7690
