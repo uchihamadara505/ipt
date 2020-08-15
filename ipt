@@ -187,694 +187,1628 @@ http://forceie.com:2082/sony123/sony123/291
 
 
 
-#EXTINF:-1 group-title="Canais Outros" ,BR: A&E
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5599
-#EXTINF:-1,BR: A&E HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9477
-#EXTINF:-1,BR: AMC Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9471
-#EXTINF:-1,BR: AMC HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9397
-#EXTINF:-1,BR: AMC SD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9278
-#EXTINF:-1,BR: Animal Planet 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9242
-#EXTINF:-1,BR: Animal Planet Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9126
-#EXTINF:-1,BR: Animal Planet HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9411
-#EXTINF:-1,BR: Arte 1 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9399
+#EXTINF:-1 group-title="Canais Brasil 2" ,BR: A&E
+http://ingrid.ltd:25461/Juan123456/Juan123456/41359
+#EXTINF:-1,BR: AMC
+http://ingrid.ltd:25461/Juan123456/Juan123456/41358
+#EXTINF:-1,BR: Animal Planet
+http://ingrid.ltd:25461/Juan123456/Juan123456/41357
+#EXTINF:-1,BR: ARTE 1
+http://ingrid.ltd:25461/Juan123456/Juan123456/41356
 #EXTINF:-1,BR: AXN
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5601
-#EXTINF:-1,BR: Baby TV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9279
-#EXTINF:-1,BR: Band
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9280
-#EXTINF:-1,BR: Band 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9232
-#EXTINF:-1,BR: Band Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9127
-#EXTINF:-1,BR: Band HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9353
-#EXTINF:-1,BR: Band News
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5602
-#EXTINF:-1,BR: Band News Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9128
-#EXTINF:-1,BR: Band Sports
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5603
-#EXTINF:-1,BR: Band Sports Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9129
-#EXTINF:-1,BR: Bis Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9211
-#EXTINF:-1,BR: Bis HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9396
-#EXTINF:-1,BR: Boomerang
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9296
-#EXTINF:-1,BR: Boomerang Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9166
-#EXTINF:-1,BR: Boomerang HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5604
+http://ingrid.ltd:25461/Juan123456/Juan123456/41355
+#EXTINF:-1,BR: BABY TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41354
+#EXTINF:-1,BR: BAND CAMPINAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41353
+#EXTINF:-1,BR: BAND NEWS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41352
+#EXTINF:-1,BR: BAND SPORTS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41351
+#EXTINF:-1,BR: BIS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41350
+#EXTINF:-1,BR: BOOMERANG
+http://ingrid.ltd:25461/Juan123456/Juan123456/41349
 #EXTINF:-1,BR: Canal Brasil
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5640
-#EXTINF:-1,BR: Canal Brasil Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9167
-#EXTINF:-1,BR: Canal Brasil HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9400
-#EXTINF:-1,BR: Canal Sony
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5605
-#EXTINF:-1,BR: Canal Sony Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9191
-#EXTINF:-1,BR: Canal Sony HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9401
-#EXTINF:-1,BR: Cartoon Network 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9245
-#EXTINF:-1,BR: Cartoon Network Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9130
-#EXTINF:-1,BR: Cinemax Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9168
-#EXTINF:-1,BR: Cinemax HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9403
-#EXTINF:-1,BR: Combate
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5608
-#EXTINF:-1,BR: Combate 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9233
-#EXTINF:-1,BR: Combate Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9131
-#EXTINF:-1,BR: Combate HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9404
-#EXTINF:-1,BR: Comedy Central
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5609
-#EXTINF:-1,BR: Comedy Central HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9405
-#EXTINF:-1,BR: Discovery Channel
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5610
-#EXTINF:-1,BR: Discovery Channel 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9238
-#EXTINF:-1,BR: Discovery Channel Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9199
-#EXTINF:-1,BR: Discovery Channel HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9406
-#EXTINF:-1,BR: Discovery H&H
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5612
-#EXTINF:-1,BR: Discovery H&H Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9218
-#EXTINF:-1,BR: Discovery H&H HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9407
-#EXTINF:-1,BR: Discovery Kids
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9292
-#EXTINF:-1,BR: Discovery Kids Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9170
-#EXTINF:-1,BR: Discovery Kids HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9355
-#EXTINF:-1,BR: Discovery Science Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9205
-#EXTINF:-1,BR: Discovery Science HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5611
-#EXTINF:-1,BR: Discovery Science SD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9311
-#EXTINF:-1,BR: Discovery Theater
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9310
-#EXTINF:-1,BR: Discovery Theater Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9169
-#EXTINF:-1,BR: Discovery Theater HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9408
-#EXTINF:-1,BR: Discovery Turbo
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5613
-#EXTINF:-1,BR: Discovery Turbo Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9132
-#EXTINF:-1,BR: Discovery World
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9312
-#EXTINF:-1,BR: Discovery World Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9171
-#EXTINF:-1,BR: Discovery World HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9409
-#EXTINF:-1,BR: Disney Channel
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5614
-#EXTINF:-1,BR: Disney Channel Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9172
-#EXTINF:-1,BR: Disney Channel HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9410
-#EXTINF:-1,BR: Disney Jr
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5615
-#EXTINF:-1,BR: Disney Jr Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9173
-#EXTINF:-1,BR: Disney Jr HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9356
-#EXTINF:-1,BR: Disney XD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5616
-#EXTINF:-1,BR: Disney XD Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9174
-#EXTINF:-1,BR: Disney XD HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9395
-#EXTINF:-1,BR: E Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9473
+http://ingrid.ltd:25461/Juan123456/Juan123456/41348
+#EXTINF:-1,BR: CANCAO NOVA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41347
+#EXTINF:-1,BR: CURTA!
+http://ingrid.ltd:25461/Juan123456/Juan123456/41341
+#EXTINF:-1,BR: COMBATE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41344
+#EXTINF:-1,BR: COMEDY CENTRAL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41343
+#EXTINF:-1,BR: CULTURA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41342
+#EXTINF:-1,BR: DISCOVERY CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41339
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION
+http://ingrid.ltd:25461/Juan123456/Juan123456/41338
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH
+http://ingrid.ltd:25461/Juan123456/Juan123456/41337
+#EXTINF:-1,BR: DISCOVERY KIDS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41336
+#EXTINF:-1,BR: DISCOVERY SCIENCE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41335
+#EXTINF:-1,BR: DISCOVERY THEATER
+http://ingrid.ltd:25461/Juan123456/Juan123456/41334
+#EXTINF:-1,BR: DISCOVERY TLC
+http://ingrid.ltd:25461/Juan123456/Juan123456/41333
+#EXTINF:-1,BR: DISCOVERY TURBO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41332
+#EXTINF:-1,BR: DISCOVERY WORLD
+http://ingrid.ltd:25461/Juan123456/Juan123456/41331
+#EXTINF:-1,BR: DISNEY CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41330
+#EXTINF:-1,BR: DISNEY JNR
+http://ingrid.ltd:25461/Juan123456/Juan123456/41329
+#EXTINF:-1,BR: DISNEY XD
+http://ingrid.ltd:25461/Juan123456/Juan123456/41328
+#EXTINF:-1,BR: E!
+http://ingrid.ltd:25461/Juan123456/Juan123456/41327
+#EXTINF:-1,BR: ESPN BRASIL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41325
 #EXTINF:-1,BR: ESPN
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9316
-#EXTINF:-1,BR: ESPN 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9313
-#EXTINF:-1,BR: ESPN 2 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9133
-#EXTINF:-1,BR: ESPN 2 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5670
-#EXTINF:-1,BR: ESPN 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9250
-#EXTINF:-1,BR: ESPN Brasil
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9297
-#EXTINF:-1,BR: ESPN Brasil HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5644
-#EXTINF:-1,BR: ESPN Extra
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5646
-#EXTINF:-1,BR: ESPN Extra HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9357
-#EXTINF:-1,BR: ESPN Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9226
-#EXTINF:-1,BR: ESPN HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5645
-#EXTINF:-1,BR: Esporte Interativo Ao Vivo
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9429
-#EXTINF:-1,BR: Eurochannel Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9230
-#EXTINF:-1,BR: Fashion Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9198
-#EXTINF:-1,BR: Fashion TV HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9415
-#EXTINF:-1,BR: Film Arts
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9298
-#EXTINF:-1,BR: Film Arts Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9197
-#EXTINF:-1,BR: Fish TV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5663
-#EXTINF:-1,BR: Fish TV Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9202
-#EXTINF:-1,BR: Food Network
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9299
-#EXTINF:-1,BR: Food Network HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9423
-#EXTINF:-1,BR: Fox
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5617
-#EXTINF:-1,BR: Fox Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9134
-#EXTINF:-1,BR: Fox HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9433
-#EXTINF:-1,BR: Fox Life
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5618
-#EXTINF:-1,BR: Fox Life Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9135
-#EXTINF:-1,BR: Fox Life HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9358
-#EXTINF:-1,BR: Fox Premium 1 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9434
-#EXTINF:-1,BR: Fox Premium 2 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9359
-#EXTINF:-1,BR: Fox Premium Full HD 1
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9136
-#EXTINF:-1,BR: Fox Premium Full HD 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9137
-#EXTINF:-1,BR: Fox Sports 2 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9247
-#EXTINF:-1,BR: Fox Sports 2 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5648
-#EXTINF:-1,BR: Fox Sports 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9240
-#EXTINF:-1,BR: Fox Sports Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9138
-#EXTINF:-1,BR: Fox Sports Full HD 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9139
-#EXTINF:-1,BR: Fox Sports HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5647
-#EXTINF:-1,BR: Fox Sports SD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9284
+http://ingrid.ltd:25461/Juan123456/Juan123456/41326
+#EXTINF:-1,BR: ESPN2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41324
+#EXTINF:-1,BR: FISH TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41323
+#EXTINF:-1,BR: FOOD NETWORK
+http://ingrid.ltd:25461/Juan123456/Juan123456/41322
+#EXTINF:-1,BR: FOX
+http://ingrid.ltd:25461/Juan123456/Juan123456/41321
+#EXTINF:-1,BR: FOX LIFE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41320
+#EXTINF:-1,BR: FOX PREMIUM 1
+http://ingrid.ltd:25461/Juan123456/Juan123456/41319
+#EXTINF:-1,BR: FOX PREMIUM 2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41318
+#EXTINF:-1,BR: FOX SPORTS 2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41316
+#EXTINF:-1,BR: FOX SPORTS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41317
+#EXTINF:-1,BR: FUTURA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41315
 #EXTINF:-1,BR: FX
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9285
-#EXTINF:-1,BR: FX Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9176
-#EXTINF:-1,BR: FX HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9436
-#EXTINF:-1,BR: Gazeta 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9252
-#EXTINF:-1,BR: Globo 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9234
-#EXTINF:-1,BR: Globo Brasilia
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9324
-#EXTINF:-1,BR: Globo Brasilia HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9264
-#EXTINF:-1,BR: Globo Curitiba
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9342
-#EXTINF:-1,BR: Globo EPTV Campinas
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9329
-#EXTINF:-1,BR: Globo EPTV Ribeirao Preto
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9330
-#EXTINF:-1,BR: Globo EPTV Sao Carlos
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9331
-#EXTINF:-1,BR: Globo Full HD Goias
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9265
-#EXTINF:-1,BR: Globo HD 2 RJ
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9256
-#EXTINF:-1,BR: Globo HD SP
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9261
-#EXTINF:-1,BR: Globo Inter TV Cabugi
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9333
-#EXTINF:-1,BR: Globo Mato Grosso Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9273
-#EXTINF:-1,BR: Globo Mato Grosso HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9274
-#EXTINF:-1,BR: Globo Minas
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9323
-#EXTINF:-1,BR: Globo Minas Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9271
-#EXTINF:-1,BR: Globo News Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9262
-#EXTINF:-1,BR: Globo News Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9465
-#EXTINF:-1,BR: Globo News HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5650
-#EXTINF:-1,BR: Globo Nordeste
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9332
-#EXTINF:-1,BR: Globo Nordeste Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9260
-#EXTINF:-1,BR: Globo NSC Florianopolis Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9267
-#EXTINF:-1,BR: Globo NSC Florianopolis HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9268
-#EXTINF:-1,BR: Globo Porto Alegre
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9343
-#EXTINF:-1,BR: Globo RBS Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9269
-#EXTINF:-1,BR: Globo RBS HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9270
-#EXTINF:-1,BR: Globo RBS Porto Alegre
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9341
-#EXTINF:-1,BR: Globo Rede Amazonica Manaus
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9334
-#EXTINF:-1,BR: Globo RJ
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9325
-#EXTINF:-1,BR: Globo RJ Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9277
-#EXTINF:-1,BR: Globo RJ HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9266
-#EXTINF:-1,BR: Globo RPC TV Curitiva HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9263
-#EXTINF:-1,BR: Globo SP
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9319
-#EXTINF:-1,BR: Globo TV Anhaguera Goiania
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9326
-#EXTINF:-1,BR: Globo TV Bahia
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9335
-#EXTINF:-1,BR: Globo TV Cambugi
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9257
-#EXTINF:-1,BR: Globo TV Centro America Cuiabá
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9336
-#EXTINF:-1,BR: Globo TV Liberal Belem
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9337
-#EXTINF:-1,BR: Globo TV Mirante HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9276
-#EXTINF:-1,BR: Globo TV Mirante Maranhao Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9275
-#EXTINF:-1,BR: Globo TV Tem Bauru
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9327
-#EXTINF:-1,BR: Globo TV Tem Sorocaba
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9328
-#EXTINF:-1,BR: Globo TV Tribuna Santos
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9339
-#EXTINF:-1,BR: Globo TV Vanguarda S. J. Dos Campos
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9338
-#EXTINF:-1,BR: Globo TV Verdes Mares
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9340
-#EXTINF:-1,BR: Globo Verdes Mares HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9258
-#EXTINF:-1,BR: Gloob
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5652
-#EXTINF:-1,BR: Gloob Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9177
-#EXTINF:-1,BR: Gloob HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9393
+http://ingrid.ltd:25461/Juan123456/Juan123456/41314
+#EXTINF:-1,BR: GLOBO AMAZONAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41313
+#EXTINF:-1,BR: GLOBO BAHIA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41312
+#EXTINF:-1,BR: GLOBO BR: ASILIA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41311
+#EXTINF:-1,BR: GLOBO CUIABA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41310
+#EXTINF:-1,BR: GLOBO EPTV CAMPINAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41309
+#EXTINF:-1,BR: GLOBO EPTV RIBEIR
+http://ingrid.ltd:25461/Juan123456/Juan123456/41308
+#EXTINF:-1,BR: GLOBO EPTV SAO CARLOS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41307
+#EXTINF:-1,BR: GLOBO INTERNACIONAL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41306
+#EXTINF:-1,BR: GLOBO MINAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41305
+#EXTINF:-1,BR: GLOBO NEWS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41304
+#EXTINF:-1,BR: GLOBO NORDESTE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41303
+#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41302
+#EXTINF:-1,BR: GLOBO RIBEIR
+http://ingrid.ltd:25461/Juan123456/Juan123456/41301
+#EXTINF:-1,BR: GLOBO RIO GRANDE DO NORTE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41300
+#EXTINF:-1,BR: GLOBO RJ
+http://ingrid.ltd:25461/Juan123456/Juan123456/41299
+#EXTINF:-1,BR: GLOBO RPC TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41298
+#EXTINF:-1,BR: GLOBOSAT
+http://ingrid.ltd:25461/Juan123456/Juan123456/41291
+#EXTINF:-1,BR: GLOBO SP
+http://ingrid.ltd:25461/Juan123456/Juan123456/41297
+#EXTINF:-1,BR: GLOBO TV BELEM
+http://ingrid.ltd:25461/Juan123456/Juan123456/41296
+#EXTINF:-1,BR: GLOBO TV TEM SOROCABA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41295
+#EXTINF:-1,BR: GLOBO TV TRIBUNA SANTOS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41294
+#EXTINF:-1,BR: GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41293
+#EXTINF:-1,BR: GLOBO TV VERDES MARES FORTALEZA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41292
+#EXTINF:-1,BR: GLOOB
+http://ingrid.ltd:25461/Juan123456/Juan123456/41290
 #EXTINF:-1,BR: GNT
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5653
-#EXTINF:-1,BR: GNT Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9201
-#EXTINF:-1,BR: Guia Futebol Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9219
-#EXTINF:-1,BR: H2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5619
-#EXTINF:-1,BR: H2 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9140
-#EXTINF:-1,BR: H2 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9430
+http://ingrid.ltd:25461/Juan123456/Juan123456/41289
 #EXTINF:-1,BR: HBO
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5620
+http://ingrid.ltd:25461/Juan123456/Juan123456/41287
 #EXTINF:-1,BR: HBO 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5621
-#EXTINF:-1,BR: HBO 2 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9141
-#EXTINF:-1,BR: HBO 2 HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9361
-#EXTINF:-1,BR: HBO 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9255
-#EXTINF:-1,BR: HBO Family
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5622
-#EXTINF:-1,BR: HBO Family Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9203
-#EXTINF:-1,BR: HBO Family HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9435
-#EXTINF:-1,BR: HBO Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9142
-#EXTINF:-1,BR: HBO HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9360
-#EXTINF:-1,BR: HBO Plus
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5623
-#EXTINF:-1,BR: HBO Plus Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9143
-#EXTINF:-1,BR: HBO Plus HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9362
-#EXTINF:-1,BR: HBO Signature
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5654
-#EXTINF:-1,BR: HBO Signature Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9178
-#EXTINF:-1,BR: HBO Signature HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9425
-#EXTINF:-1,BR: HGTV Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5651
-#EXTINF:-1,BR: History
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5624
-#EXTINF:-1,BR: History Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9466
-#EXTINF:-1,BR: History HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9363
-#EXTINF:-1,BR: ID
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9320
-#EXTINF:-1,BR: ID Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9467
-#EXTINF:-1,BR: ID HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9427
-#EXTINF:-1,BR: Ideal TV Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9220
-#EXTINF:-1,BR: Lifetime
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5655
-#EXTINF:-1,BR: Lifetime Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9179
-#EXTINF:-1,BR: Love Natural Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9204
-#EXTINF:-1,BR: Mais Globo Sat
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5669
-#EXTINF:-1,BR: Mais Globo Sat Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9212
-#EXTINF:-1,BR: Max
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5656
-#EXTINF:-1,BR: Max Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9180
-#EXTINF:-1,BR: Max Prime
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5657
-#EXTINF:-1,BR: Max Prime (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9447
-#EXTINF:-1,BR: Max Prime Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9144
-#EXTINF:-1,BR: Max Prime HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9364
-#EXTINF:-1,BR: Max UP (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9445
-#EXTINF:-1,BR: Max UP Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9210
-#EXTINF:-1,BR: Mega Pix
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5658
-#EXTINF:-1,BR: Mega Pix 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9246
-#EXTINF:-1,BR: Mega Pix Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9227
-#EXTINF:-1,BR: Mega Pix HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9416
-#EXTINF:-1,BR: Mega TV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9321
-#EXTINF:-1,BR: Mega TV Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9221
+http://ingrid.ltd:25461/Juan123456/Juan123456/41286
+#EXTINF:-1,BR: HBO FAMILY
+http://ingrid.ltd:25461/Juan123456/Juan123456/41285
+#EXTINF:-1,BR: HBO PLUS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41284
+#EXTINF:-1,BR: HBO PLUS*E
+http://ingrid.ltd:25461/Juan123456/Juan123456/41283
+#EXTINF:-1,BR: HBO SIGNATURE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41282
+#EXTINF:-1,BR: HISTORY CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41281
+#EXTINF:-1,BR: H2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41288
+#EXTINF:-1,BR: INVESTIGA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41280
+#EXTINF:-1,BR: LIFETIME
+http://ingrid.ltd:25461/Juan123456/Juan123456/41279
+#EXTINF:-1,BR: MAX PRIME
+http://ingrid.ltd:25461/Juan123456/Juan123456/41278
+#EXTINF:-1,BR: MAX PRIME*E
+http://ingrid.ltd:25461/Juan123456/Juan123456/41277
+#EXTINF:-1,BR: MAX UP
+http://ingrid.ltd:25461/Juan123456/Juan123456/41276
+#EXTINF:-1,BR: MEGAPIX
+http://ingrid.ltd:25461/Juan123456/Juan123456/41275
 #EXTINF:-1,BR: MTV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5649
-#EXTINF:-1,BR: MTV Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9181
-#EXTINF:-1,BR: MTV HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9367
-#EXTINF:-1,BR: MTV Live Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9145
-#EXTINF:-1,BR: MTV Live HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9368
-#EXTINF:-1,BR: Multishow
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9295
-#EXTINF:-1,BR: Multishow 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9244
-#EXTINF:-1,BR: Multishow Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9182
-#EXTINF:-1,BR: Music Box
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9351
-#EXTINF:-1,BR: Natgeo
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5625
-#EXTINF:-1,BR: Natgeo 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9248
-#EXTINF:-1,BR: Natgeo Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9146
-#EXTINF:-1,BR: Natgeo HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9431
-#EXTINF:-1,BR: Natgeo Kids Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9147
-#EXTINF:-1,BR: Natgeo Kids HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9414
-#EXTINF:-1,BR: Natgeo Wild
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9301
-#EXTINF:-1,BR: Natgeo Wild Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9183
-#EXTINF:-1,BR: Natgeo Wild HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9428
-#EXTINF:-1,BR: Nick
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5659
-#EXTINF:-1,BR: Nick Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9225
-#EXTINF:-1,BR: Nick HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9422
-#EXTINF:-1,BR: Nick Jr
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5660
-#EXTINF:-1,BR: Nick Jr Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9184
-#EXTINF:-1,BR: Nick Jr HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9369
-#EXTINF:-1,BR: Off
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9309
-#EXTINF:-1,BR: Off Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9213
-#EXTINF:-1,BR: Off Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9457
-#EXTINF:-1,BR: Paramount
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5661
-#EXTINF:-1,BR: Paramount Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9185
-#EXTINF:-1,BR: Paramount HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9437
-#EXTINF:-1,BR: Play tv
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9286
-#EXTINF:-1,BR: Premier 2 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9159
-#EXTINF:-1,BR: Premier 3 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9160
-#EXTINF:-1,BR: Premier 4 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9161
-#EXTINF:-1,BR: Premier 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9237
-#EXTINF:-1,BR: Premier Club Full HD 1
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9158
-#EXTINF:-1,BR: Premier Clube HD 1
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9370
-#EXTINF:-1,BR: Premier Full HD 5
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9186
-#EXTINF:-1,BR: Premier Full HD 6
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9187
-#EXTINF:-1,BR: Premier Full HD 7
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9200
-#EXTINF:-1,BR: Premier HD 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9372
-#EXTINF:-1,BR: Premier HD 3
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9373
-#EXTINF:-1,BR: Premier HD 4
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9371
-#EXTINF:-1,BR: Premier HD 5
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9374
-#EXTINF:-1,BR: Premier HD 6
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9375
-#EXTINF:-1,BR: Premiere Clubes Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5662
-#EXTINF:-1,BR: Prime box sd
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9289
-#EXTINF:-1,BR: Record Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9163
-#EXTINF:-1,BR: Record News Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9164
-#EXTINF:-1,BR: Record SP
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9344
-#EXTINF:-1,BR: Rede Gospel
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9293
-#EXTINF:-1,BR: Rede Gospel Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9222
-#EXTINF:-1,BR: Rede TV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5664
-#EXTINF:-1,BR: Rede TV 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9236
-#EXTINF:-1,BR: Rede TV 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9254
-#EXTINF:-1,BR: Rede TV Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9231
-#EXTINF:-1,BR: Rede TV HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9438
-#EXTINF:-1,BR: RIT SD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9304
-#EXTINF:-1,BR: SBT 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9241
-#EXTINF:-1,BR: SBT Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9189
-#EXTINF:-1,BR: SBT SP HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9378
-#EXTINF:-1,BR: Shop Time HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9398
-#EXTINF:-1,BR: Shoptime
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9345
-#EXTINF:-1,BR: Smithsonian Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9223
-#EXTINF:-1,BR: Space
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5626
-#EXTINF:-1,BR: Space 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9251
-#EXTINF:-1,BR: Space Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9156
-#EXTINF:-1,BR: Space HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9432
-#EXTINF:-1,BR: Sport TV
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5665
-#EXTINF:-1,BR: Sport TV2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5666
-#EXTINF:-1,BR: Sport TV3
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5667
-#EXTINF:-1,BR: Sportv
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9350
-#EXTINF:-1,BR: Sportv 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9243
-#EXTINF:-1,BR: Sportv Alternativo sd
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9303
-#EXTINF:-1,BR: Sportv Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9155
-#EXTINF:-1,BR: SPORTV Full HD (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9468
-#EXTINF:-1,BR: Sportv Full HD 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9157
-#EXTINF:-1,BR: Sportv Full HD 3 (h265)
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9469
-#EXTINF:-1,BR: Sportv HD 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9379
-#EXTINF:-1,BR: Sportv HD 3
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9380
-#EXTINF:-1,BR: Studio Universal
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5668
-#EXTINF:-1,BR: Syfy
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5627
-#EXTINF:-1,BR: Syfy Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9192
-#EXTINF:-1,BR: Syfy HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9421
+http://ingrid.ltd:25461/Juan123456/Juan123456/41274
+#EXTINF:-1,BR: MTV LIVE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41273
+#EXTINF:-1,BR: MUSIC BOX BRAZIL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41272
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
+http://ingrid.ltd:25461/Juan123456/Juan123456/41269
+#EXTINF:-1,BR: NAT GEO KIDS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41271
+#EXTINF:-1,BR: NATGEO WILD
+http://ingrid.ltd:25461/Juan123456/Juan123456/41270
+#EXTINF:-1,BR: NICKELODEON
+http://ingrid.ltd:25461/Juan123456/Juan123456/41267
+#EXTINF:-1,BR: NICK JR
+http://ingrid.ltd:25461/Juan123456/Juan123456/41268
+#EXTINF:-1,BR: OFF
+http://ingrid.ltd:25461/Juan123456/Juan123456/41266
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41265
+#EXTINF:-1,BR: PREMIERE 1
+http://ingrid.ltd:25461/Juan123456/Juan123456/41264
+#EXTINF:-1,BR: PREMIERE 2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41263
+#EXTINF:-1,BR: PREMIERE 3
+http://ingrid.ltd:25461/Juan123456/Juan123456/41262
+#EXTINF:-1,BR: PREMIERE 4
+http://ingrid.ltd:25461/Juan123456/Juan123456/41261
+#EXTINF:-1,BR: PREMIERE 5
+http://ingrid.ltd:25461/Juan123456/Juan123456/41260
+#EXTINF:-1,BR: PREMIERE 6
+http://ingrid.ltd:25461/Juan123456/Juan123456/41259
+#EXTINF:-1,BR: PREMIERE 7
+http://ingrid.ltd:25461/Juan123456/Juan123456/41258
+#EXTINF:-1,BR: PREMIERE 8
+http://ingrid.ltd:25461/Juan123456/Juan123456/41257
+#EXTINF:-1,BR: PREMIERE CLUBES
+http://ingrid.ltd:25461/Juan123456/Juan123456/41256
+#EXTINF:-1,BR: RECORD
+http://ingrid.ltd:25461/Juan123456/Juan123456/41255
+#EXTINF:-1,BR: RECORD AMAZONAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41254
+#EXTINF:-1,BR: RECORD CAMPINAS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41253
+#EXTINF:-1,BR: RECORD ESP. SANTO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41252
+#EXTINF:-1,BR: RECORD MG
+http://ingrid.ltd:25461/Juan123456/Juan123456/41251
+#EXTINF:-1,BR: RECORD NEWS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41250
+#EXTINF:-1,BR: RECORD NORDESTE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41249
+#EXTINF:-1,BR: RECORD SP
+http://ingrid.ltd:25461/Juan123456/Juan123456/41248
+#EXTINF:-1,BR: REDE FAMILIA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41247
+#EXTINF:-1,BR: REDE TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41246
+#EXTINF:-1,BR: REDE VIDA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41245
+#EXTINF:-1,BR: RIT TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41244
+#EXTINF:-1,BR: SBT
+http://ingrid.ltd:25461/Juan123456/Juan123456/41243
+#EXTINF:-1,BR: SBT TV CIDADE VERDE PIAUI
+http://ingrid.ltd:25461/Juan123456/Juan123456/41242
+#EXTINF:-1,BR: SONY
+http://ingrid.ltd:25461/Juan123456/Juan123456/41241
+#EXTINF:-1,BR: SPACE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41240
+#EXTINF:-1,BR: SPORTV
+http://ingrid.ltd:25461/Juan123456/Juan123456/41239
+#EXTINF:-1,BR: SPORTV 2
+http://ingrid.ltd:25461/Juan123456/Juan123456/41238
+#EXTINF:-1,BR: SPORTV 3
+http://ingrid.ltd:25461/Juan123456/Juan123456/41237
+#EXTINF:-1,BR: STUDIO UNIVERSAL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41236
+#EXTINF:-1,BR: SYFY
+http://ingrid.ltd:25461/Juan123456/Juan123456/41235
 #EXTINF:-1,BR: TBS
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5628
-#EXTINF:-1,BR: TBS Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9193
-#EXTINF:-1,BR: TBS HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9381
+http://ingrid.ltd:25461/Juan123456/Juan123456/41234
 #EXTINF:-1,BR: TCM
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5629
-#EXTINF:-1,BR: Telecine Action Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9154
-#EXTINF:-1,BR: Telecine Action HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9382
-#EXTINF:-1,BR: Telecine Cult
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5631
-#EXTINF:-1,BR: Telecine Cult Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9228
-#EXTINF:-1,BR: Telecine Cult HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9420
-#EXTINF:-1,BR: Telecine Fun
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5632
-#EXTINF:-1,BR: Telecine Fun Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9153
-#EXTINF:-1,BR: Telecine Fun HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9383
-#EXTINF:-1,BR: Telecine Pipoca
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5633
-#EXTINF:-1,BR: Telecine Pipoca Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9152
-#EXTINF:-1,BR: Telecine Pipoca HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9384
-#EXTINF:-1,BR: Telecine Premium
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5634
-#EXTINF:-1,BR: Telecine Premium 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9253
-#EXTINF:-1,BR: Telecine Premium Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9151
-#EXTINF:-1,BR: Telecine Premium HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9385
-#EXTINF:-1,BR: Telecine Touch
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5635
-#EXTINF:-1,BR: Telecine Touch Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9150
-#EXTINF:-1,BR: Telecine Touch HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9386
-#EXTINF:-1,BR: TLC
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9346
-#EXTINF:-1,BR: TLC Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9206
-#EXTINF:-1,BR: TLC HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9387
+http://ingrid.ltd:25461/Juan123456/Juan123456/41233
+#EXTINF:-1,BR: TELECINE CULT
+http://ingrid.ltd:25461/Juan123456/Juan123456/41231
+#EXTINF:-1,BR: TELECINE FUN
+http://ingrid.ltd:25461/Juan123456/Juan123456/41230
+#EXTINF:-1,BR: TELECINE PIPOCA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41229
+#EXTINF:-1,BR: TELECINE PREMIUM
+http://ingrid.ltd:25461/Juan123456/Juan123456/41228
+#EXTINF:-1,BR: TELECINE TOUCH
+http://ingrid.ltd:25461/Juan123456/Juan123456/41227
+#EXTINF:-1,BR: TERRA VIVA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41226
 #EXTINF:-1,BR: TNT
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5636
-#EXTINF:-1,BR: TNT 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9239
-#EXTINF:-1,BR: TNT Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9207
-#EXTINF:-1,BR: TNT HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9412
-#EXTINF:-1,BR: TNT Series
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5637
-#EXTINF:-1,BR: TNT Series 4K
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9249
-#EXTINF:-1,BR: TNT Series Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9149
-#EXTINF:-1,BR: TNT Series HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9388
-#EXTINF:-1,BR: Tooncast
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9305
-#EXTINF:-1,BR: Tooncast HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9419
-#EXTINF:-1,BR: Travel Box Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9215
-#EXTINF:-1,BR: TV Cultura Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9194
-#EXTINF:-1,BR: TV Cultura HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9389
-#EXTINF:-1,BR: TV Gazeta Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9224
-#EXTINF:-1,BR: TV Gazeta HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9390
-#EXTINF:-1,BR: TV Globo
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5671
-#EXTINF:-1,BR: TV Novo Tempo Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9216
+http://ingrid.ltd:25461/Juan123456/Juan123456/41225
+#EXTINF:-1,BR: TNT S
+http://ingrid.ltd:25461/Juan123456/Juan123456/41224
+#EXTINF:-1,BR: TV BOA VONTADE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41222
+#EXTINF:-1,BR: TV ESCOLA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41221
+#EXTINF:-1,BR: TV GAZETA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41220
+#EXTINF:-1,BR: TV SENADO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41219
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41218
 #EXTINF:-1,BR: VH1
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9352
-#EXTINF:-1,BR: VH1 Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9196
-#EXTINF:-1,BR: Viva
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9349
-#EXTINF:-1,BR: Viva Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9208
-#EXTINF:-1,BR: Warner Channel Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9148
-#EXTINF:-1,BR: Warner HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5639
-#EXTINF:-1,BR: Wohoo Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9209
-#EXTINF:-1,BR: Zoomo Full HD
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9214
+http://ingrid.ltd:25461/Juan123456/Juan123456/41217
+#EXTINF:-1,BR: VIVA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41216
+#EXTINF:-1,BR: WARNER CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41215
+#EXTINF:-1,BR: WOOHOO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41214
+
+
+  
+#EXTINF:-1 group-title="Canais Brasil 3" ,BR| AMC FHD
+http://silvertv.net:1997/Majdi/Majdi123/62815
+#EXTINF:-1,BR| AMC HD
+http://silvertv.net:1997/Majdi/Majdi123/62816
+#EXTINF:-1,BR| AMC SD
+http://silvertv.net:1997/Majdi/Majdi123/62817
+#EXTINF:-1,BR| ANIMAL PLANET FHD
+http://silvertv.net:1997/Majdi/Majdi123/62818
+#EXTINF:-1,BR| ANIMAL PLANET HD
+http://silvertv.net:1997/Majdi/Majdi123/62819
+#EXTINF:-1,BR| ANIMAL PLANET SD
+http://silvertv.net:1997/Majdi/Majdi123/62820
+#EXTINF:-1,BR| ARTE 1 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62821
+#EXTINF:-1,BR| ARTE 1 HD
+http://silvertv.net:1997/Majdi/Majdi123/62822
+#EXTINF:-1,BR| ARTE 1 SD
+http://silvertv.net:1997/Majdi/Majdi123/62823
+#EXTINF:-1,BR| AXN FHD
+http://silvertv.net:1997/Majdi/Majdi123/62824
+#EXTINF:-1,BR| AXN HD
+http://silvertv.net:1997/Majdi/Majdi123/62825
+#EXTINF:-1,BR| AXN SD
+http://silvertv.net:1997/Majdi/Majdi123/62826
+#EXTINF:-1,BR| BABY TV HD
+http://silvertv.net:1997/Majdi/Majdi123/62827
+#EXTINF:-1,BR| BABY TV SD
+http://silvertv.net:1997/Majdi/Majdi123/62828
+#EXTINF:-1,BR| BAND CAMPINAS SD
+http://silvertv.net:1997/Majdi/Majdi123/62829
+#EXTINF:-1,BR| BAND NEWS FHD
+http://silvertv.net:1997/Majdi/Majdi123/62830
+#EXTINF:-1,BR| BAND NEWS HD
+http://silvertv.net:1997/Majdi/Majdi123/62831
+#EXTINF:-1,BR| BAND NEWS SD
+http://silvertv.net:1997/Majdi/Majdi123/62832
+#EXTINF:-1,BR| BAND RJ HD
+http://silvertv.net:1997/Majdi/Majdi123/62833
+#EXTINF:-1,BR| BAND SP FHD
+http://silvertv.net:1997/Majdi/Majdi123/62834
+#EXTINF:-1,BR| BAND SP HD
+http://silvertv.net:1997/Majdi/Majdi123/62835
+#EXTINF:-1,BR| BAND SP SD
+http://silvertv.net:1997/Majdi/Majdi123/62836
+#EXTINF:-1,BR| BAND SPORTS HD
+http://silvertv.net:1997/Majdi/Majdi123/62837
+#EXTINF:-1,BR| BAND SPORTS SD
+http://silvertv.net:1997/Majdi/Majdi123/62838
+#EXTINF:-1,BR| BBB 20:  Mosaico
+http://silvertv.net:1997/Majdi/Majdi123/62839
+#EXTINF:-1,BR| BBB 20: Confessionario
+http://silvertv.net:1997/Majdi/Majdi123/62840
+#EXTINF:-1,BR| BBB 20: Cozinha Camarote
+http://silvertv.net:1997/Majdi/Majdi123/62841
+#EXTINF:-1,BR| BBB 20: Cozinha VIP
+http://silvertv.net:1997/Majdi/Majdi123/62842
+#EXTINF:-1,BR| BBB 20: Jardim Camarote
+http://silvertv.net:1997/Majdi/Majdi123/62843
+#EXTINF:-1,BR| BBB 20: Piscina
+http://silvertv.net:1997/Majdi/Majdi123/62844
+#EXTINF:-1,BR| BBB 20: Principal
+http://silvertv.net:1997/Majdi/Majdi123/62845
+#EXTINF:-1,BR| BBB 20: Quarto Camarote 1
+http://silvertv.net:1997/Majdi/Majdi123/62846
+#EXTINF:-1,BR| BBB 20: Quarto Ceu
+http://silvertv.net:1997/Majdi/Majdi123/62847
+#EXTINF:-1,BR| BBB 20: Quarto Vila
+http://silvertv.net:1997/Majdi/Majdi123/62848
+#EXTINF:-1,BR| BIS HD
+http://silvertv.net:1997/Majdi/Majdi123/62849
+#EXTINF:-1,BR| BIS SD
+http://silvertv.net:1997/Majdi/Majdi123/62850
+#EXTINF:-1,BR| BOOMERANG FHD
+http://silvertv.net:1997/Majdi/Majdi123/62851
+#EXTINF:-1,BR| BOOMERANG HD
+http://silvertv.net:1997/Majdi/Majdi123/62852
+#EXTINF:-1,BR| BOOMERANG SD
+http://silvertv.net:1997/Majdi/Majdi123/62853
+#EXTINF:-1,BR| CAMPEONATO CATARINENSE
+http://silvertv.net:1997/Majdi/Majdi123/62854
+#EXTINF:-1,BR| CANAL BRASIL SD
+http://silvertv.net:1997/Majdi/Majdi123/62855
+#EXTINF:-1,BR| CANCAO NOVA SD
+http://silvertv.net:1997/Majdi/Majdi123/62856
+#EXTINF:-1,BR| CARTOON NETWORK FHD
+http://silvertv.net:1997/Majdi/Majdi123/62857
+#EXTINF:-1,BR| CARTOON NETWORK HD
+http://silvertv.net:1997/Majdi/Majdi123/62858
+#EXTINF:-1,BR| CARTOON NETWORK SD
+http://silvertv.net:1997/Majdi/Majdi123/62859
+#EXTINF:-1,BR| CHEF TV HD
+http://silvertv.net:1997/Majdi/Majdi123/62860
+#EXTINF:-1,BR| CINEMAX FHD
+http://silvertv.net:1997/Majdi/Majdi123/62861
+#EXTINF:-1,BR| CINEMAX HD
+http://silvertv.net:1997/Majdi/Majdi123/62862
+#EXTINF:-1,BR| CINEMAX SD
+http://silvertv.net:1997/Majdi/Majdi123/62863
+#EXTINF:-1,BR| COMBATE FHD
+http://silvertv.net:1997/Majdi/Majdi123/62864
+#EXTINF:-1,BR| COMBATE HD
+http://silvertv.net:1997/Majdi/Majdi123/62865
+#EXTINF:-1,BR| COMBATE SD
+http://silvertv.net:1997/Majdi/Majdi123/62866
+#EXTINF:-1,BR| COMEDY CENTRAL FHD
+http://silvertv.net:1997/Majdi/Majdi123/62867
+#EXTINF:-1,BR| COMEDY CENTRAL HD
+http://silvertv.net:1997/Majdi/Majdi123/62868
+#EXTINF:-1,BR| COMEDY CENTRAL SD
+http://silvertv.net:1997/Majdi/Majdi123/62869
+#EXTINF:-1,BR| CULTURA HD
+http://silvertv.net:1997/Majdi/Majdi123/62870
+#EXTINF:-1,BR| CURTA! HD
+http://silvertv.net:1997/Majdi/Majdi123/62871
+#EXTINF:-1,BR| CURTA! SD
+http://silvertv.net:1997/Majdi/Majdi123/62872
+#EXTINF:-1,BR| DAZN 1 HD
+http://silvertv.net:1997/Majdi/Majdi123/62873
+#EXTINF:-1,BR| DAZN 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62874
+#EXTINF:-1,BR| DAZN 3 HD
+http://silvertv.net:1997/Majdi/Majdi123/62875
+#EXTINF:-1,BR| DAZN 4 HD
+http://silvertv.net:1997/Majdi/Majdi123/62876
+#EXTINF:-1,BR| DISCOVERY CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/62877
+#EXTINF:-1,BR| DISCOVERY CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/62878
+#EXTINF:-1,BR| DISCOVERY CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/62879
+#EXTINF:-1,BR| DISCOVERY CIVILIZATION FHD
+http://silvertv.net:1997/Majdi/Majdi123/62880
+#EXTINF:-1,BR| DISCOVERY CIVILIZATION HD
+http://silvertv.net:1997/Majdi/Majdi123/62881
+#EXTINF:-1,BR| DISCOVERY CIVILIZATION SD
+http://silvertv.net:1997/Majdi/Majdi123/62882
+#EXTINF:-1,BR| DISCOVERY HOME & HEALTH FHD
+http://silvertv.net:1997/Majdi/Majdi123/62883
+#EXTINF:-1,BR| DISCOVERY HOME & HEALTH HD
+http://silvertv.net:1997/Majdi/Majdi123/62884
+#EXTINF:-1,BR| DISCOVERY HOME & HEALTH SD
+http://silvertv.net:1997/Majdi/Majdi123/62885
+#EXTINF:-1,BR| DISCOVERY KIDS FHD
+http://silvertv.net:1997/Majdi/Majdi123/62886
+#EXTINF:-1,BR| DISCOVERY KIDS HD
+http://silvertv.net:1997/Majdi/Majdi123/62887
+#EXTINF:-1,BR| DISCOVERY KIDS SD
+http://silvertv.net:1997/Majdi/Majdi123/62888
+#EXTINF:-1,BR| DISCOVERY SCIENCE FHD
+http://silvertv.net:1997/Majdi/Majdi123/62889
+#EXTINF:-1,BR| DISCOVERY SCIENCE HD
+http://silvertv.net:1997/Majdi/Majdi123/62890
+#EXTINF:-1,BR| DISCOVERY SCIENCE SD
+http://silvertv.net:1997/Majdi/Majdi123/62891
+#EXTINF:-1,BR| DISCOVERY THEATER FHD
+http://silvertv.net:1997/Majdi/Majdi123/62892
+#EXTINF:-1,BR| DISCOVERY THEATER HD
+http://silvertv.net:1997/Majdi/Majdi123/62893
+#EXTINF:-1,BR| DISCOVERY THEATER SD
+http://silvertv.net:1997/Majdi/Majdi123/62894
+#EXTINF:-1,BR| DISCOVERY TLC HD
+http://silvertv.net:1997/Majdi/Majdi123/62895
+#EXTINF:-1,BR| DISCOVERY TLC SD
+http://silvertv.net:1997/Majdi/Majdi123/62896
+#EXTINF:-1,BR| DISCOVERY TURBO FHD
+http://silvertv.net:1997/Majdi/Majdi123/62897
+#EXTINF:-1,BR| DISCOVERY TURBO HD
+http://silvertv.net:1997/Majdi/Majdi123/62898
+#EXTINF:-1,BR| DISCOVERY TURBO SD
+http://silvertv.net:1997/Majdi/Majdi123/62899
+#EXTINF:-1,BR| DISCOVERY WORLD FHD
+http://silvertv.net:1997/Majdi/Majdi123/62900
+#EXTINF:-1,BR| DISCOVERY WORLD HD
+http://silvertv.net:1997/Majdi/Majdi123/62901
+#EXTINF:-1,BR| DISCOVERY WORLD SD
+http://silvertv.net:1997/Majdi/Majdi123/62902
+#EXTINF:-1,BR| DISNEY CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/62903
+#EXTINF:-1,BR| DISNEY CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/62904
+#EXTINF:-1,BR| DISNEY CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/62905
+#EXTINF:-1,BR| DISNEY JR FHD
+http://silvertv.net:1997/Majdi/Majdi123/62906
+#EXTINF:-1,BR| DISNEY JR HD
+http://silvertv.net:1997/Majdi/Majdi123/62907
+#EXTINF:-1,BR| DISNEY JR SD
+http://silvertv.net:1997/Majdi/Majdi123/62908
+#EXTINF:-1,BR| DISNEY XD FHD
+http://silvertv.net:1997/Majdi/Majdi123/62909
+#EXTINF:-1,BR| DISNEY XD HD
+http://silvertv.net:1997/Majdi/Majdi123/62910
+#EXTINF:-1,BR| DISNEY XD SD
+http://silvertv.net:1997/Majdi/Majdi123/62911
+#EXTINF:-1,BR| E! HD
+http://silvertv.net:1997/Majdi/Majdi123/62912
+#EXTINF:-1,BR| E! SD
+http://silvertv.net:1997/Majdi/Majdi123/62913
+#EXTINF:-1,BR| EI PLUS HD
+http://silvertv.net:1997/Majdi/Majdi123/62914
+#EXTINF:-1,BR| ESPN  FHD
+http://silvertv.net:1997/Majdi/Majdi123/62915
+#EXTINF:-1,BR| ESPN 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62916
+#EXTINF:-1,BR| ESPN BRASIL FHD
+http://silvertv.net:1997/Majdi/Majdi123/62917
+#EXTINF:-1,BR| ESPN BRASIL HD
+http://silvertv.net:1997/Majdi/Majdi123/62918
+#EXTINF:-1,BR| ESPN BRASIL SD
+http://silvertv.net:1997/Majdi/Majdi123/62919
+#EXTINF:-1,BR| ESPN EXTRA HD
+http://silvertv.net:1997/Majdi/Majdi123/62920
+#EXTINF:-1,BR| ESPN EXTRA SD
+http://silvertv.net:1997/Majdi/Majdi123/62921
+#EXTINF:-1,BR| ESPN HD
+http://silvertv.net:1997/Majdi/Majdi123/62922
+#EXTINF:-1,BR| ESPN SD
+http://silvertv.net:1997/Majdi/Majdi123/62923
+#EXTINF:-1,BR| FISH TV HD
+http://silvertv.net:1997/Majdi/Majdi123/62924
+#EXTINF:-1,BR| FISH TV SD
+http://silvertv.net:1997/Majdi/Majdi123/62925
+#EXTINF:-1,BR| FOOD NETWORK FHD
+http://silvertv.net:1997/Majdi/Majdi123/62926
+#EXTINF:-1,BR| FOOD NETWORK HD
+http://silvertv.net:1997/Majdi/Majdi123/62927
+#EXTINF:-1,BR| FOOD NETWORK SD
+http://silvertv.net:1997/Majdi/Majdi123/62928
+#EXTINF:-1,BR| FOX FHD
+http://silvertv.net:1997/Majdi/Majdi123/62929
+#EXTINF:-1,BR| FOX HD
+http://silvertv.net:1997/Majdi/Majdi123/62930
+#EXTINF:-1,BR| FOX LIFE HD
+http://silvertv.net:1997/Majdi/Majdi123/62931
+#EXTINF:-1,BR| FOX LIFE SD
+http://silvertv.net:1997/Majdi/Majdi123/62932
+#EXTINF:-1,BR| FOX PREMIUM 1 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62933
+#EXTINF:-1,BR| FOX PREMIUM 1 HD
+http://silvertv.net:1997/Majdi/Majdi123/62934
+#EXTINF:-1,BR| FOX PREMIUM 1 SD
+http://silvertv.net:1997/Majdi/Majdi123/62935
+#EXTINF:-1,BR| FOX PREMIUM 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62936
+#EXTINF:-1,BR| FOX PREMIUM 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62937
+#EXTINF:-1,BR| FOX PREMIUM 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/62938
+#EXTINF:-1,BR| FOX SD
+http://silvertv.net:1997/Majdi/Majdi123/62939
+#EXTINF:-1,BR| FOX SPORTS 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62940
+#EXTINF:-1,BR| FOX SPORTS 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62941
+#EXTINF:-1,BR| FOX SPORTS 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/62942
+#EXTINF:-1,BR| FOX SPORTS FHD
+http://silvertv.net:1997/Majdi/Majdi123/62943
+#EXTINF:-1,BR| FOX SPORTS HD
+http://silvertv.net:1997/Majdi/Majdi123/62944
+#EXTINF:-1,BR| FOX SPORTS SD
+http://silvertv.net:1997/Majdi/Majdi123/62945
+#EXTINF:-1,BR| FX FHD
+http://silvertv.net:1997/Majdi/Majdi123/62946
+#EXTINF:-1,BR| FX HD
+http://silvertv.net:1997/Majdi/Majdi123/62947
+#EXTINF:-1,BR| FX SD
+http://silvertv.net:1997/Majdi/Majdi123/62948
+#EXTINF:-1,BR| GLOBO AMAZONAS SD
+http://silvertv.net:1997/Majdi/Majdi123/62949
+#EXTINF:-1,BR| GLOBO ANHANGUERA GOIANIA SD
+http://silvertv.net:1997/Majdi/Majdi123/62950
+#EXTINF:-1,BR| GLOBO CUIABA SD
+http://silvertv.net:1997/Majdi/Majdi123/62951
+#EXTINF:-1,BR| GLOBO EPTV CAMPINAS HD
+http://silvertv.net:1997/Majdi/Majdi123/62952
+#EXTINF:-1,BR| GLOBO EPTV CAMPINAS SD
+http://silvertv.net:1997/Majdi/Majdi123/62953
+#EXTINF:-1,BR| GLOBO EPTV RIBEIRAO PRETO FHD
+http://silvertv.net:1997/Majdi/Majdi123/62954
+#EXTINF:-1,BR| GLOBO EPTV SAO CARLOS SD
+http://silvertv.net:1997/Majdi/Majdi123/62955
+#EXTINF:-1,BR| GLOBO GAZETA SUL ES HD
+http://silvertv.net:1997/Majdi/Majdi123/62956
+#EXTINF:-1,BR| GLOBO INTERTV CABUGI RN
+http://silvertv.net:1997/Majdi/Majdi123/62957
+#EXTINF:-1,BR| GLOBO ITAPETININGA SD
+http://silvertv.net:1997/Majdi/Majdi123/62958
+#EXTINF:-1,BR| GLOBO MINAS HD
+http://silvertv.net:1997/Majdi/Majdi123/62959
+#EXTINF:-1,BR| GLOBO NEWS FHD
+http://silvertv.net:1997/Majdi/Majdi123/62960
+#EXTINF:-1,BR| GLOBO NEWS HD
+http://silvertv.net:1997/Majdi/Majdi123/62961
+#EXTINF:-1,BR| GLOBO NEWS SD
+http://silvertv.net:1997/Majdi/Majdi123/62962
+#EXTINF:-1,BR| GLOBO NORDESTE SD
+http://silvertv.net:1997/Majdi/Majdi123/62963
+#EXTINF:-1,BR| GLOBO NSC SANTA CATARINA HD
+http://silvertv.net:1997/Majdi/Majdi123/62964
+#EXTINF:-1,BR| GLOBO NSC TV FLORIANOPOLIS HD
+http://silvertv.net:1997/Majdi/Majdi123/62965
+#EXTINF:-1,BR| GLOBO RBS POA HD
+http://silvertv.net:1997/Majdi/Majdi123/62966
+#EXTINF:-1,BR| GLOBO RBS PORTO ALEGRE SD
+http://silvertv.net:1997/Majdi/Majdi123/62967
+#EXTINF:-1,BR| GLOBO RIBEIRAO PRETO SD
+http://silvertv.net:1997/Majdi/Majdi123/62968
+#EXTINF:-1,BR| GLOBO RJ FHD
+http://silvertv.net:1997/Majdi/Majdi123/62969
+#EXTINF:-1,BR| GLOBO RJ HD
+http://silvertv.net:1997/Majdi/Majdi123/62970
+#EXTINF:-1,BR| GLOBO RJ SD
+http://silvertv.net:1997/Majdi/Majdi123/62971
+#EXTINF:-1,BR| GLOBO RPC TV CURITIBA SD
+http://silvertv.net:1997/Majdi/Majdi123/62972
+#EXTINF:-1,BR| GLOBO RPC TV HD
+http://silvertv.net:1997/Majdi/Majdi123/62973
+#EXTINF:-1,BR| GLOBO RPC TV PARANAVAI SD
+http://silvertv.net:1997/Majdi/Majdi123/62974
+#EXTINF:-1,BR| GLOBO SERGIPE HD
+http://silvertv.net:1997/Majdi/Majdi123/62975
+#EXTINF:-1,BR| GLOBO SERRA MAR SD
+http://silvertv.net:1997/Majdi/Majdi123/62976
+#EXTINF:-1,BR| GLOBO SP FHD
+http://silvertv.net:1997/Majdi/Majdi123/62977
+#EXTINF:-1,BR| GLOBO SP HD
+http://silvertv.net:1997/Majdi/Majdi123/62978
+#EXTINF:-1,BR| GLOBO SP SD
+http://silvertv.net:1997/Majdi/Majdi123/62979
+#EXTINF:-1,BR| GLOBO TV BAHIA SD
+http://silvertv.net:1997/Majdi/Majdi123/62980
+#EXTINF:-1,BR| GLOBO TV BELEM SD
+http://silvertv.net:1997/Majdi/Majdi123/62981
+#EXTINF:-1,BR| GLOBO TV RIO SUL HD
+http://silvertv.net:1997/Majdi/Majdi123/62982
+#EXTINF:-1,BR| GLOBO TV TEM SOROCABA SD
+http://silvertv.net:1997/Majdi/Majdi123/62983
+#EXTINF:-1,BR| GLOBO TV TRIBUNA SANTOS SD
+http://silvertv.net:1997/Majdi/Majdi123/62984
+#EXTINF:-1,BR| GLOBO TV VERDES MARES FORTALEZA SD
+http://silvertv.net:1997/Majdi/Majdi123/62985
+#EXTINF:-1,BR| GLOBO TV VITORIA ES HD
+http://silvertv.net:1997/Majdi/Majdi123/62986
+#EXTINF:-1,BR| GLOBOSAT HD
+http://silvertv.net:1997/Majdi/Majdi123/62987
+#EXTINF:-1,BR| GLOBOSAT SD
+http://silvertv.net:1997/Majdi/Majdi123/62988
+#EXTINF:-1,BR| GLOOB FHD
+http://silvertv.net:1997/Majdi/Majdi123/62989
+#EXTINF:-1,BR| GLOOB HD
+http://silvertv.net:1997/Majdi/Majdi123/62990
+#EXTINF:-1,BR| GLOOB SD
+http://silvertv.net:1997/Majdi/Majdi123/62991
+#EXTINF:-1,BR| GLOOBINHO SD
+http://silvertv.net:1997/Majdi/Majdi123/62992
+#EXTINF:-1,BR| GNT HD
+http://silvertv.net:1997/Majdi/Majdi123/62993
+#EXTINF:-1,BR| GNT SD
+http://silvertv.net:1997/Majdi/Majdi123/62994
+#EXTINF:-1,BR| H2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62995
+#EXTINF:-1,BR| H2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62996
+#EXTINF:-1,BR| H2 SD
+http://silvertv.net:1997/Majdi/Majdi123/62997
+#EXTINF:-1,BR| HBO 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/62998
+#EXTINF:-1,BR| HBO 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/62999
+#EXTINF:-1,BR| HBO 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/63000
+#EXTINF:-1,BR| HBO FAMILY HD
+http://silvertv.net:1997/Majdi/Majdi123/63001
+#EXTINF:-1,BR| HBO FAMILY SD
+http://silvertv.net:1997/Majdi/Majdi123/63002
+#EXTINF:-1,BR| HBO FHD
+http://silvertv.net:1997/Majdi/Majdi123/63003
+#EXTINF:-1,BR| HBO HD
+http://silvertv.net:1997/Majdi/Majdi123/63004
+#EXTINF:-1,BR| HBO MUNDI HD
+http://silvertv.net:1997/Majdi/Majdi123/63005
+#EXTINF:-1,BR| HBO MUNDI SD
+http://silvertv.net:1997/Majdi/Majdi123/63006
+#EXTINF:-1,BR| HBO PLUS FHD
+http://silvertv.net:1997/Majdi/Majdi123/63007
+#EXTINF:-1,BR| HBO PLUS HD
+http://silvertv.net:1997/Majdi/Majdi123/63008
+#EXTINF:-1,BR| HBO PLUS SD
+http://silvertv.net:1997/Majdi/Majdi123/63009
+#EXTINF:-1,BR| HBO POP HD
+http://silvertv.net:1997/Majdi/Majdi123/63010
+#EXTINF:-1,BR| HBO POP SD
+http://silvertv.net:1997/Majdi/Majdi123/63011
+#EXTINF:-1,BR| HBO SD
+http://silvertv.net:1997/Majdi/Majdi123/63012
+#EXTINF:-1,BR| HBO SIGNATURE FHD
+http://silvertv.net:1997/Majdi/Majdi123/63013
+#EXTINF:-1,BR| HBO SIGNATURE HD
+http://silvertv.net:1997/Majdi/Majdi123/63014
+#EXTINF:-1,BR| HBO SIGNATURE SD
+http://silvertv.net:1997/Majdi/Majdi123/63015
+#EXTINF:-1,BR| HBO XTREME FHD
+http://silvertv.net:1997/Majdi/Majdi123/63016
+#EXTINF:-1,BR| HBO XTREME HD
+http://silvertv.net:1997/Majdi/Majdi123/63017
+#EXTINF:-1,BR| HBO XTREME SD
+http://silvertv.net:1997/Majdi/Majdi123/63018
+#EXTINF:-1,BR| HISTORY CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63019
+#EXTINF:-1,BR| HISTORY CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/63020
+#EXTINF:-1,BR| HISTORY CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/63021
+#EXTINF:-1,BR| HOT HD
+http://silvertv.net:1997/Majdi/Majdi123/63022
+#EXTINF:-1,BR| ID - INVESTIGACAO DISCOVERY FHD
+http://silvertv.net:1997/Majdi/Majdi123/63023
+#EXTINF:-1,BR| ID - INVESTIGACAO DISCOVERY HD
+http://silvertv.net:1997/Majdi/Majdi123/63024
+#EXTINF:-1,BR| ID INVESTIGACAO DISCOVERY SD
+http://silvertv.net:1997/Majdi/Majdi123/63025
+#EXTINF:-1,BR| LIBERTADORES 1 HD
+http://silvertv.net:1997/Majdi/Majdi123/63026
+#EXTINF:-1,BR| LIBERTADORES 1 SD
+http://silvertv.net:1997/Majdi/Majdi123/63027
+#EXTINF:-1,BR| LIBERTADORES 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/63028
+#EXTINF:-1,BR| LIBERTADORES 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/63029
+#EXTINF:-1,BR| LIFETIME HD
+http://silvertv.net:1997/Majdi/Majdi123/63030
+#EXTINF:-1,BR| LIFETIME SD
+http://silvertv.net:1997/Majdi/Majdi123/63031
+#EXTINF:-1,BR| LIVE FC HD
+http://silvertv.net:1997/Majdi/Majdi123/63032
+#EXTINF:-1,BR| M20 MUSIC
+http://silvertv.net:1997/Majdi/Majdi123/63033
+#EXTINF:-1,BR| MEGAPIX FHD
+http://silvertv.net:1997/Majdi/Majdi123/63034
+#EXTINF:-1,BR| MEGAPIX HD
+http://silvertv.net:1997/Majdi/Majdi123/63035
+#EXTINF:-1,BR| MEGAPIX SD
+http://silvertv.net:1997/Majdi/Majdi123/63036
+#EXTINF:-1,BR| MTV FHD
+http://silvertv.net:1997/Majdi/Majdi123/63037
+#EXTINF:-1,BR| MTV HD
+http://silvertv.net:1997/Majdi/Majdi123/63038
+#EXTINF:-1,BR| MTV LIVE HD
+http://silvertv.net:1997/Majdi/Majdi123/63039
+#EXTINF:-1,BR| MTV SD
+http://silvertv.net:1997/Majdi/Majdi123/63040
+#EXTINF:-1,BR| MULTISHOW FHD
+http://silvertv.net:1997/Majdi/Majdi123/63041
+#EXTINF:-1,BR| MULTISHOW HD
+http://silvertv.net:1997/Majdi/Majdi123/63042
+#EXTINF:-1,BR| MULTISHOW SD
+http://silvertv.net:1997/Majdi/Majdi123/63043
+#EXTINF:-1,BR| MUSIC BOX BRAZIL SD
+http://silvertv.net:1997/Majdi/Majdi123/63044
+#EXTINF:-1,BR| MUSIC TOP
+http://silvertv.net:1997/Majdi/Majdi123/63045
+#EXTINF:-1,BR| NAT GEO KIDS FHD
+http://silvertv.net:1997/Majdi/Majdi123/63046
+#EXTINF:-1,BR| NATGEO KIDS HD
+http://silvertv.net:1997/Majdi/Majdi123/63047
+#EXTINF:-1,BR| NATGEO KIDS SD
+http://silvertv.net:1997/Majdi/Majdi123/63048
+#EXTINF:-1,BR| NATGEO WILD FHD
+http://silvertv.net:1997/Majdi/Majdi123/63049
+#EXTINF:-1,BR| NATGEO WILD HD
+http://silvertv.net:1997/Majdi/Majdi123/63050
+#EXTINF:-1,BR| NATGEO WILD SD
+http://silvertv.net:1997/Majdi/Majdi123/63051
+#EXTINF:-1,BR| NATIONAL GEOGRAPHIC FHD
+http://silvertv.net:1997/Majdi/Majdi123/63052
+#EXTINF:-1,BR| NATIONAL GEOGRAPHIC HD
+http://silvertv.net:1997/Majdi/Majdi123/63053
+#EXTINF:-1,BR| NATIONAL GEOGRAPHIC SD
+http://silvertv.net:1997/Majdi/Majdi123/63054
+#EXTINF:-1,BR| NICK JR FHD
+http://silvertv.net:1997/Majdi/Majdi123/63055
+#EXTINF:-1,BR| NICK JR HD
+http://silvertv.net:1997/Majdi/Majdi123/63056
+#EXTINF:-1,BR| NICK JR SD
+http://silvertv.net:1997/Majdi/Majdi123/63057
+#EXTINF:-1,BR| NICKELODEON HD
+http://silvertv.net:1997/Majdi/Majdi123/63058
+#EXTINF:-1,BR| NICKELODEON SD
+http://silvertv.net:1997/Majdi/Majdi123/63059
+#EXTINF:-1,BR| OFF HD
+http://silvertv.net:1997/Majdi/Majdi123/63060
+#EXTINF:-1,BR| OFF SD
+http://silvertv.net:1997/Majdi/Majdi123/63061
+#EXTINF:-1,BR| PARAMOUNT CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63062
+#EXTINF:-1,BR| PARAMOUNT CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/63063
+#EXTINF:-1,BR| PARAMOUNT CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/63064
+#EXTINF:-1,BR| PLAY TV SD
+http://silvertv.net:1997/Majdi/Majdi123/63065
+#EXTINF:-1,BR| PLAYBOY TV SD
+http://silvertv.net:1997/Majdi/Majdi123/63066
+#EXTINF:-1,BR| POCOYO 24hs
+http://silvertv.net:1997/Majdi/Majdi123/63067
+#EXTINF:-1,BR| PREMIERE 1 SD
+http://silvertv.net:1997/Majdi/Majdi123/63068
+#EXTINF:-1,BR| PREMIERE 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63069
+#EXTINF:-1,BR| PREMIERE 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/63070
+#EXTINF:-1,BR| PREMIERE 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/63071
+#EXTINF:-1,BR| PREMIERE 3 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63072
+#EXTINF:-1,BR| PREMIERE 3 HD
+http://silvertv.net:1997/Majdi/Majdi123/63073
+#EXTINF:-1,BR| PREMIERE 3 SD
+http://silvertv.net:1997/Majdi/Majdi123/63074
+#EXTINF:-1,BR| PREMIERE 4 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63075
+#EXTINF:-1,BR| PREMIERE 4 HD
+http://silvertv.net:1997/Majdi/Majdi123/63076
+#EXTINF:-1,BR| PREMIERE 4 SD
+http://silvertv.net:1997/Majdi/Majdi123/63077
+#EXTINF:-1,BR| PREMIERE 5 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63078
+#EXTINF:-1,BR| PREMIERE 5 HD
+http://silvertv.net:1997/Majdi/Majdi123/63079
+#EXTINF:-1,BR| PREMIERE 5 SD
+http://silvertv.net:1997/Majdi/Majdi123/63080
+#EXTINF:-1,BR| PREMIERE 6 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63081
+#EXTINF:-1,BR| PREMIERE 6 SD
+http://silvertv.net:1997/Majdi/Majdi123/63082
+#EXTINF:-1,BR| PREMIERE 7 SD
+http://silvertv.net:1997/Majdi/Majdi123/63083
+#EXTINF:-1,BR| PREMIERE CLUBES FHD
+http://silvertv.net:1997/Majdi/Majdi123/63084
+#EXTINF:-1,BR| PREMIERE CLUBES HD
+http://silvertv.net:1997/Majdi/Majdi123/63085
+#EXTINF:-1,BR| PREMIERE CLUBES SD
+http://silvertv.net:1997/Majdi/Majdi123/63086
+#EXTINF:-1,BR| PRIME BOX BRASIL SD
+http://silvertv.net:1997/Majdi/Majdi123/63087
+#EXTINF:-1,BR| RECORD AMAZONAS SD
+http://silvertv.net:1997/Majdi/Majdi123/63088
+#EXTINF:-1,BR| RECORD CAMPINAS HD
+http://silvertv.net:1997/Majdi/Majdi123/63089
+#EXTINF:-1,BR| RECORD DF SD
+http://silvertv.net:1997/Majdi/Majdi123/63090
+#EXTINF:-1,BR| RECORD NEWS FHD
+http://silvertv.net:1997/Majdi/Majdi123/63091
+#EXTINF:-1,BR| RECORD NEWS HD
+http://silvertv.net:1997/Majdi/Majdi123/63092
+#EXTINF:-1,BR| RECORD NEWS SD
+http://silvertv.net:1997/Majdi/Majdi123/63093
+#EXTINF:-1,BR| RECORD NORDESTE HD
+http://silvertv.net:1997/Majdi/Majdi123/63094
+#EXTINF:-1,BR| RECORD RJ HD
+http://silvertv.net:1997/Majdi/Majdi123/63095
+#EXTINF:-1,BR| RECORD RJ SD
+http://silvertv.net:1997/Majdi/Majdi123/63096
+#EXTINF:-1,BR| RECORD RS HD
+http://silvertv.net:1997/Majdi/Majdi123/63097
+#EXTINF:-1,BR| RECORD SP HD
+http://silvertv.net:1997/Majdi/Majdi123/63098
+#EXTINF:-1,BR| RECORD SP SD
+http://silvertv.net:1997/Majdi/Majdi123/63099
+#EXTINF:-1,BR| REDE SUPER SD
+http://silvertv.net:1997/Majdi/Majdi123/63100
+#EXTINF:-1,BR| REDE TV HD
+http://silvertv.net:1997/Majdi/Majdi123/63101
+#EXTINF:-1,BR| REDE TV SD
+http://silvertv.net:1997/Majdi/Majdi123/63102
+#EXTINF:-1,BR| REDE VIDA HD
+http://silvertv.net:1997/Majdi/Majdi123/63103
+#EXTINF:-1,BR| REDE VIDA SD
+http://silvertv.net:1997/Majdi/Majdi123/63104
+#EXTINF:-1,BR| RETRO MUSIC TV
+http://silvertv.net:1997/Majdi/Majdi123/63105
+#EXTINF:-1,BR| RIT TV SD
+http://silvertv.net:1997/Majdi/Majdi123/63106
+#EXTINF:-1,BR| SBT FHD
+http://silvertv.net:1997/Majdi/Majdi123/63107
+#EXTINF:-1,BR| SBT GOIAS HD
+http://silvertv.net:1997/Majdi/Majdi123/63108
+#EXTINF:-1,BR| SBT HD
+http://silvertv.net:1997/Majdi/Majdi123/63109
+#EXTINF:-1,BR| SBT NORDESTE FHD
+http://silvertv.net:1997/Majdi/Majdi123/63110
+#EXTINF:-1,BR| SBT NORDESTE HD
+http://silvertv.net:1997/Majdi/Majdi123/63111
+#EXTINF:-1,BR| SBT RJ HD
+http://silvertv.net:1997/Majdi/Majdi123/63112
+#EXTINF:-1,BR| SBT SD
+http://silvertv.net:1997/Majdi/Majdi123/63113
+#EXTINF:-1,BR| SEXTREME SD
+http://silvertv.net:1997/Majdi/Majdi123/63114
+#EXTINF:-1,BR| SEXY HOT SD
+http://silvertv.net:1997/Majdi/Majdi123/63115
+#EXTINF:-1,BR| SEXY SD
+http://silvertv.net:1997/Majdi/Majdi123/63116
+#EXTINF:-1,BR| SMITHSONIAN CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63117
+#EXTINF:-1,BR| SONY FHD
+http://silvertv.net:1997/Majdi/Majdi123/63118
+#EXTINF:-1,BR| SONY HD
+http://silvertv.net:1997/Majdi/Majdi123/63119
+#EXTINF:-1,BR| SONY SD
+http://silvertv.net:1997/Majdi/Majdi123/63120
+#EXTINF:-1,BR| SPACE FHD
+http://silvertv.net:1997/Majdi/Majdi123/63121
+#EXTINF:-1,BR| SPACE HD
+http://silvertv.net:1997/Majdi/Majdi123/63122
+#EXTINF:-1,BR| SPACE SD
+http://silvertv.net:1997/Majdi/Majdi123/63123
+#EXTINF:-1,BR| SPORTV 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63124
+#EXTINF:-1,BR| SPORTV 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/63125
+#EXTINF:-1,BR| SPORTV 2 SD
+http://silvertv.net:1997/Majdi/Majdi123/63126
+#EXTINF:-1,BR| SPORTV 3 FHD
+http://silvertv.net:1997/Majdi/Majdi123/63127
+#EXTINF:-1,BR| SPORTV 3 HD
+http://silvertv.net:1997/Majdi/Majdi123/63128
+#EXTINF:-1,BR| SPORTV 3 SD
+http://silvertv.net:1997/Majdi/Majdi123/63129
+#EXTINF:-1,BR| SPORTV FHD
+http://silvertv.net:1997/Majdi/Majdi123/63130
+#EXTINF:-1,BR| SPORTV HD
+http://silvertv.net:1997/Majdi/Majdi123/63131
+#EXTINF:-1,BR| SPORTV SD
+http://silvertv.net:1997/Majdi/Majdi123/63132
+#EXTINF:-1,BR| STUDIO UNIVERSAL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63133
+#EXTINF:-1,BR| STUDIO UNIVERSAL HD
+http://silvertv.net:1997/Majdi/Majdi123/63134
+#EXTINF:-1,BR| STUDIO UNIVERSAL SD
+http://silvertv.net:1997/Majdi/Majdi123/63135
+#EXTINF:-1,BR| SYFY FHD
+http://silvertv.net:1997/Majdi/Majdi123/63136
+#EXTINF:-1,BR| SYFY HD
+http://silvertv.net:1997/Majdi/Majdi123/63137
+#EXTINF:-1,BR| SYFY SD
+http://silvertv.net:1997/Majdi/Majdi123/63138
+#EXTINF:-1,BR| TBS SD
+http://silvertv.net:1997/Majdi/Majdi123/63139
+#EXTINF:-1,BR| TCM SD
+http://silvertv.net:1997/Majdi/Majdi123/63140
+#EXTINF:-1,BR| TELECINE ACTION FHD
+http://silvertv.net:1997/Majdi/Majdi123/63141
+#EXTINF:-1,BR| TELECINE ACTION HD
+http://silvertv.net:1997/Majdi/Majdi123/63142
+#EXTINF:-1,BR| TELECINE ACTION SD
+http://silvertv.net:1997/Majdi/Majdi123/63143
+#EXTINF:-1,BR| TELECINE CULT FHD
+http://silvertv.net:1997/Majdi/Majdi123/63144
+#EXTINF:-1,BR| TELECINE CULT HD
+http://silvertv.net:1997/Majdi/Majdi123/63145
+#EXTINF:-1,BR| TELECINE CULT SD
+http://silvertv.net:1997/Majdi/Majdi123/63146
+#EXTINF:-1,BR| TELECINE FUN FHD
+http://silvertv.net:1997/Majdi/Majdi123/63147
+#EXTINF:-1,BR| TELECINE FUN HD
+http://silvertv.net:1997/Majdi/Majdi123/63148
+#EXTINF:-1,BR| TELECINE FUN SD
+http://silvertv.net:1997/Majdi/Majdi123/63149
+#EXTINF:-1,BR| TELECINE PIPOCA FHD
+http://silvertv.net:1997/Majdi/Majdi123/63150
+#EXTINF:-1,BR| TELECINE PIPOCA HD
+http://silvertv.net:1997/Majdi/Majdi123/63151
+#EXTINF:-1,BR| TELECINE PIPOCA SD
+http://silvertv.net:1997/Majdi/Majdi123/63152
+#EXTINF:-1,BR| TELECINE PREMIUM FHD
+http://silvertv.net:1997/Majdi/Majdi123/63153
+#EXTINF:-1,BR| TELECINE PREMIUM HD
+http://silvertv.net:1997/Majdi/Majdi123/63154
+#EXTINF:-1,BR| TELECINE PREMIUM SD
+http://silvertv.net:1997/Majdi/Majdi123/63155
+#EXTINF:-1,BR| TELECINE TOUCH FHD
+http://silvertv.net:1997/Majdi/Majdi123/63156
+#EXTINF:-1,BR| TELECINE TOUCH HD
+http://silvertv.net:1997/Majdi/Majdi123/63157
+#EXTINF:-1,BR| TELECINE TOUCH SD
+http://silvertv.net:1997/Majdi/Majdi123/63158
+#EXTINF:-1,BR| TNT FHD
+http://silvertv.net:1997/Majdi/Majdi123/63159
+#EXTINF:-1,BR| TNT HD
+http://silvertv.net:1997/Majdi/Majdi123/63160
+#EXTINF:-1,BR| TNT SD
+http://silvertv.net:1997/Majdi/Majdi123/63161
+#EXTINF:-1,BR| TNT SERIES FHD
+http://silvertv.net:1997/Majdi/Majdi123/63162
+#EXTINF:-1,BR| TNT SERIES HD
+http://silvertv.net:1997/Majdi/Majdi123/63163
+#EXTINF:-1,BR| TNT SERIES SD
+http://silvertv.net:1997/Majdi/Majdi123/63164
+#EXTINF:-1,BR| TOONCAST HD
+http://silvertv.net:1997/Majdi/Majdi123/63165
+#EXTINF:-1,BR| TOONCAST SD
+http://silvertv.net:1997/Majdi/Majdi123/63166
+#EXTINF:-1,BR| TOP LATINO
+http://silvertv.net:1997/Majdi/Majdi123/63167
+#EXTINF:-1,BR| TRUTV SD
+http://silvertv.net:1997/Majdi/Majdi123/63168
+#EXTINF:-1,BR| TV DIARIO HD
+http://silvertv.net:1997/Majdi/Majdi123/63169
+#EXTINF:-1,BR| TV GAZETA SD
+http://silvertv.net:1997/Majdi/Majdi123/63170
+#EXTINF:-1,BR| TV GIDEOES SD
+http://silvertv.net:1997/Majdi/Majdi123/63171
+#EXTINF:-1,BR| TV MUNDIAL
+http://silvertv.net:1997/Majdi/Majdi123/63172
+#EXTINF:-1,BR| TV Novo Tempo
+http://silvertv.net:1997/Majdi/Majdi123/63173
+#EXTINF:-1,BR| TV RA TIM BUM HD
+http://silvertv.net:1997/Majdi/Majdi123/63174
+#EXTINF:-1,BR| TVCine Action FHD
+http://silvertv.net:1997/Majdi/Majdi123/63176
+#EXTINF:-1,BR| TVCine Edition
+http://silvertv.net:1997/Majdi/Majdi123/63177
+#EXTINF:-1,BR| TVCine Edition FHD
+http://silvertv.net:1997/Majdi/Majdi123/63178
+#EXTINF:-1,BR| TVCine Emotion FHD
+http://silvertv.net:1997/Majdi/Majdi123/63180
+#EXTINF:-1,BR| TVCine Top
+http://silvertv.net:1997/Majdi/Majdi123/63181
+#EXTINF:-1,BR| TVCine Top FHD
+http://silvertv.net:1997/Majdi/Majdi123/63182
+#EXTINF:-1,BR| UNIVERSAL CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63183
+#EXTINF:-1,BR| UNIVERSAL CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/63184
+#EXTINF:-1,BR| UNIVERSAL CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/63185
+#EXTINF:-1,BR| VENUS SD
+http://silvertv.net:1997/Majdi/Majdi123/63186
+#EXTINF:-1,BR| VH1 HD
+http://silvertv.net:1997/Majdi/Majdi123/63187
+#EXTINF:-1,BR| VH1 SD
+http://silvertv.net:1997/Majdi/Majdi123/63188
+#EXTINF:-1,BR| VIVA FHD
+http://silvertv.net:1997/Majdi/Majdi123/63189
+#EXTINF:-1,BR| VIVA HD
+http://silvertv.net:1997/Majdi/Majdi123/63190
+#EXTINF:-1,BR| VIVA SD
+http://silvertv.net:1997/Majdi/Majdi123/63191
+#EXTINF:-1,BR| WARNER CHANNEL FHD
+http://silvertv.net:1997/Majdi/Majdi123/63192
+#EXTINF:-1,BR| WARNER CHANNEL HD
+http://silvertv.net:1997/Majdi/Majdi123/63193
+#EXTINF:-1,BR| WARNER CHANNEL SD
+http://silvertv.net:1997/Majdi/Majdi123/63194
+#EXTINF:-1,BR| WOOHOO HD
+http://silvertv.net:1997/Majdi/Majdi123/63195
+#EXTINF:-1,BR| WOOHOO SD
+http://silvertv.net:1997/Majdi/Majdi123/63196
+#EXTINF:-1,BR| ZOOMOO HD
+http://silvertv.net:1997/Majdi/Majdi123/63197
+#EXTINF:-1,BR| ZOOMOO SD
+http://silvertv.net:1997/Majdi/Majdi123/63198
+#EXTINF:-1,BR| Discovery World HEVC
+http://silvertv.net:1997/Majdi/Majdi123/66291
+#EXTINF:-1,BR| CNN BRAZIL FHD
+http://silvertv.net:1997/Majdi/Majdi123/68592
+#EXTINF:-1,BR| CNN BRASIL SD
+http://silvertv.net:1997/Majdi/Majdi123/68593
+#EXTINF:-1,BR| CNN BRASIL HD
+http://silvertv.net:1997/Majdi/Majdi123/68594
+
+
+#EXTINF:-1 group-title="Canais Brasil 4" ,BR:A&E FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65659
+#EXTINF:-1,BR:A&E HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2531
+#EXTINF:-1,BR:A&E SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65660
+#EXTINF:-1,BR:AMC FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65661
+#EXTINF:-1,BR:AMC HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2530
+#EXTINF:-1,BR:AMC SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65662
+#EXTINF:-1,BR:AXN FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65667
+#EXTINF:-1,BR:AXN HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2527
+#EXTINF:-1,BR:AXN SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65668
+#EXTINF:-1,BR:BBB 2020
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2452
+#EXTINF:-1,BR:Cinemax FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65677
+#EXTINF:-1,BR:Cinemax HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2518
+#EXTINF:-1,BR:Cinemax SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65678
+#EXTINF:-1,BR:Fox FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65717
+#EXTINF:-1,BR:Fox HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2494
+#EXTINF:-1,BR:Fox SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65723
+#EXTINF:-1,BR:Fox Premium 1 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65719
+#EXTINF:-1,BR:Fox Permium 1 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2492
+#EXTINF:-1,BR:Fox Premium 1 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65720
+#EXTINF:-1,BR:Fox Premium 2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65721
+#EXTINF:-1,BR:Fox Premium 2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2491
+#EXTINF:-1,BR:Fox Premium 2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65722
+#EXTINF:-1,BR:Fx FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65728
+#EXTINF:-1,BR:FX HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2488
+#EXTINF:-1,BR:Fx SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65729
+#EXTINF:-1,BR:Max
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2471
+#EXTINF:-1,BR:Max Prime
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2470
+#EXTINF:-1,BR:Max Up
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2469
+#EXTINF:-1,BR:Megapix FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65758
+#EXTINF:-1,BR:MegaPix HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2468
+#EXTINF:-1,BR:Megapix SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65759
+#EXTINF:-1,BR:Paramount Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65773
+#EXTINF:-1,BR:Paramount Channel HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2458
+#EXTINF:-1,BR:Paramount Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65774
+#EXTINF:-1,BR:Space FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65787
+#EXTINF:-1,BR:Space HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2446
+#EXTINF:-1,BR:Space SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65788
+#EXTINF:-1,BR:Studio Universal FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65795
+#EXTINF:-1,BR:Studio Universal HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2442
+#EXTINF:-1,BR:Studio Universal SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65796
+#EXTINF:-1,BR:Syfy FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65797
+#EXTINF:-1,BR:SYFY HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2441
+#EXTINF:-1,BR:Syfy SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65798
+#EXTINF:-1,BR:TLC HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2433
+#EXTINF:-1,BR:TBS HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2440
+#EXTINF:-1,BR:Tbs SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65799
+#EXTINF:-1,BR:TNT FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65812
+#EXTINF:-1,BR:TNT HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2432
+#EXTINF:-1,BR:TNT SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65813
+#EXTINF:-1,BR:TNT Series FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65814
+#EXTINF:-1,BR:TNT Series  HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2431
+#EXTINF:-1,BR:TNT Series SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65815
+#EXTINF:-1,BR:Universal Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65816
+#EXTINF:-1,BR:Universal Channel HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2429
+#EXTINF:-1,BR:Universal Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65817
+#EXTINF:-1,BR:Warner Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65821
+#EXTINF:-1,BR:Warner Channel HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2450
+#EXTINF:-1,BR:Warner Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65822
+#EXTINF:-1,BR:Band Sports HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2524
+#EXTINF:-1,BR:Band Sports SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65672
+#EXTINF:-1,BR:Combate FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65681
+#EXTINF:-1,BR:Combate HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2517
+#EXTINF:-1,BR:Combate SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65682
+#EXTINF:-1,BR:Espn FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65712
+#EXTINF:-1,BR:ESPN HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2499
+#EXTINF:-1,BR:Espn SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65713
+#EXTINF:-1,BR:Espn Brasil FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65709
+#EXTINF:-1,BR:ESPN BRASIL HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2501
+#EXTINF:-1,BR:Espn Brasil SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65710
+#EXTINF:-1,BR:ESPN Extra HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2502
+#EXTINF:-1,BR:Espn Extra SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65711
+#EXTINF:-1,BR:FISH TV HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2520
+#EXTINF:-1,BR:Fish TV SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65714
+#EXTINF:-1,BR:Off HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2459
+#EXTINF:-1,BR:Off SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65772
+#EXTINF:-1,BR:Fox Sports 2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65724
+#EXTINF:-1,BR:Fox Sports 2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2490
+#EXTINF:-1,BR:Fox Sports 2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65725
+#EXTINF:-1,BR:Fox Sports FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65726
+#EXTINF:-1,BR:Fox Sports 1 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2489
+#EXTINF:-1,BR:Fox Sports SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65727
+#EXTINF:-1,BR:Sportv 3 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65791
+#EXTINF:-1,BR:Sport TV 3 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2444
+#EXTINF:-1,BR:Sportv 3 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65792
+#EXTINF:-1,BR:Sportv 2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65789
+#EXTINF:-1,BR:Sport TV 2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2445
+#EXTINF:-1,BR:Sportv 2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65790
+#EXTINF:-1,BR:Sportv FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65793
+#EXTINF:-1,BR:Sport TV 1 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2443
+#EXTINF:-1,BR:Sportv SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65794
+#EXTINF:-1,BR:PFC HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2498
+#EXTINF:-1,BR:WOOHOO HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2500
+#EXTINF:-1,BR:Woohoo SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65823
+#EXTINF:-1,BR:BIS HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2522
+#EXTINF:-1,BR:Mtv FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65760
+#EXTINF:-1,BR:MTV HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2467
+#EXTINF:-1,BR:Mtv SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65761
+#EXTINF:-1,BR:Multishow FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65762
+#EXTINF:-1,BR:Multishow HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2466
+#EXTINF:-1,BR:Multishow SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65763
+#EXTINF:-1,BR:Music Box HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2465
+#EXTINF:-1,BR:Music Box SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65764
+#EXTINF:-1,BR:VH1 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2523
+#EXTINF:-1,BR:VH1 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65818
+#EXTINF:-1,BR:Hbo FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65744
+#EXTINF:-1,BR:HBO HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2478
+#EXTINF:-1,BR:Hbo SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65748
+#EXTINF:-1,BR:Hbo 2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65741
+#EXTINF:-1,BR:HBO 2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2480
+#EXTINF:-1,BR:Hbo 2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65742
+#EXTINF:-1,BR:HBO Family HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2479
+#EXTINF:-1,BR:Hbo family SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65743
+#EXTINF:-1,BR:Hbo Mundi SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65745
+#EXTINF:-1,BR:Hbo Plus FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65746
+#EXTINF:-1,BR:HBO Plus HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2477
+#EXTINF:-1,BR:Hbo Plus SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65747
+#EXTINF:-1,BR:Hbo Signature FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65749
+#EXTINF:-1,BR:HBO Signature HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2476
+#EXTINF:-1,BR:Hbo Signature SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65750
+#EXTINF:-1,BR:Hbo Xtreme FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65751
+#EXTINF:-1,BR:Hbo Xtreme SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65752
+#EXTINF:-1,BR:Telecine Action FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65800
+#EXTINF:-1,BR:Telecine Action HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2439
+#EXTINF:-1,BR:Telecine Action SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65801
+#EXTINF:-1,BR:Telecine Cult FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65802
+#EXTINF:-1,BR:Telecine Cult HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2438
+#EXTINF:-1,BR:Telecine Cult SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65803
+#EXTINF:-1,BR:Telecine Fun FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65804
+#EXTINF:-1,BR:Telecine Fun HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2437
+#EXTINF:-1,BR:Telecine Fun SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65805
+#EXTINF:-1,BR:Telecine Pipoca FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65806
+#EXTINF:-1,BR:Telecine Pipoca HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2436
+#EXTINF:-1,BR:Telecine Pipoca SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65807
+#EXTINF:-1,BR:Telecine Premium FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65808
+#EXTINF:-1,BR:Telecine Premium HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2435
+#EXTINF:-1,BR:Telecine Premium SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65809
+#EXTINF:-1,BR:Telecine Touch FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65810
+#EXTINF:-1,BR:Telecine Touch HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2434
+#EXTINF:-1,BR:Telecine Touch SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65811
+#EXTINF:-1,BR:Premiere 2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65775
+#EXTINF:-1,BR:Premiere 2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2457
+#EXTINF:-1,BR:Premiere 2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65776
+#EXTINF:-1,BR:Premiere 3 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2456
+#EXTINF:-1,BR:Premiere 3 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65777
+#EXTINF:-1,BR:Premiere 4 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65778
+#EXTINF:-1,BR:Premiere 4 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2455
+#EXTINF:-1,BR:Premiere 4 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65779
+#EXTINF:-1,BR:Premiere 5 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65780
+#EXTINF:-1,BR:Premiere 5 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2454
+#EXTINF:-1,BR:Premiere 5 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65781
+#EXTINF:-1,BR:Premiere Clubes FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65782
+#EXTINF:-1,BR:Premiere Clubes HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2451
+#EXTINF:-1,BR:Premiere Clubes SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65783
+#EXTINF:-1,BR:Arte 1 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65665
+#EXTINF:-1,BR:Arte 1 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2528
+#EXTINF:-1,BR:Arte 1 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65666
+#EXTINF:-1,BR:comedy central FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65683
+#EXTINF:-1,BR:Comedy Central HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2516
+#EXTINF:-1,BR:comedy central SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65684
+#EXTINF:-1,BR:Discovery Home & Health FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65689
+#EXTINF:-1,BR:Discovery Home Health HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2512
+#EXTINF:-1,BR:Discovery Home & Health SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65690
+#EXTINF:-1,BR:E! HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2503
+#EXTINF:-1,BR:E! SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65708
+#EXTINF:-1,BR:Food Network FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65715
+#EXTINF:-1,BR:Food Network HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2495
+#EXTINF:-1,BR:Food Network SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65716
+#EXTINF:-1,BR:Fox Life HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2493
+#EXTINF:-1,BR:Fox Life SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65718
+#EXTINF:-1,BR:Mais Globosat
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2472
+#EXTINF:-1,BR:GNT HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2482
+#EXTINF:-1,BR:Gnt SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65738
+#EXTINF:-1,BR:Lifetime HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2473
+#EXTINF:-1,BR:Lifetime SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65757
+#EXTINF:-1,BR:Viva FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65819
+#EXTINF:-1,BR:VIVA HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2497
+#EXTINF:-1,BR:Viva SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65820
+#EXTINF:-1,BR:Animal Planet FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65663
+#EXTINF:-1,BR:Animal Planet HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2529
+#EXTINF:-1,BR:Animal Planet SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65664
+#EXTINF:-1,BR:Discovery Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65685
+#EXTINF:-1,BR:Discovery HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2514
+#EXTINF:-1,BR:Discovery Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65686
+#EXTINF:-1,BR:Discovery Civilization FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65687
+#EXTINF:-1,BR:Discovery Civilization HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2513
+#EXTINF:-1,BR:Discovery Civilization SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65688
+#EXTINF:-1,BR:Discovery Science FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65693
+#EXTINF:-1,BR:Discovery Science HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2510
+#EXTINF:-1,BR:Discovery Science SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65694
+#EXTINF:-1,BR:Discovery Theater FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65695
+#EXTINF:-1,BR:Discovery Theater HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2509
+#EXTINF:-1,BR:Discovery Theater SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65696
+#EXTINF:-1,BR:Discovery Turbo FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65698
+#EXTINF:-1,BR:Discovery Turbo HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2508
+#EXTINF:-1,BR:Discovery Turbo SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65699
+#EXTINF:-1,BR:Discovery World FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65700
+#EXTINF:-1,BR:Discovery World HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2507
+#EXTINF:-1,BR:Discovery World SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65701
+#EXTINF:-1,BR:Investigacao Discovery FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65755
+#EXTINF:-1,BR:Investigacao Discovery HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2474
+#EXTINF:-1,BR:Investigacao Discovery SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65756
+#EXTINF:-1,BR:Discovery TLC SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65697
+#EXTINF:-1,BR:History Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65753
+#EXTINF:-1,BR:History HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2475
+#EXTINF:-1,BR:History Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65754
+#EXTINF:-1,BR:H2 FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65739
+#EXTINF:-1,BR:H2 HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2481
+#EXTINF:-1,BR:H2 SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65740
+#EXTINF:-1,BR:NAT GEO HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2464
+#EXTINF:-1,BR:Nat Geo Wild FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65767
+#EXTINF:-1,BR:NAT GEO Wild HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2462
+#EXTINF:-1,BR:Nat Geo Wild SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65768
+#EXTINF:-1,BR:Baby TV HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2515
+#EXTINF:-1,BR:Baby tv SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65669
+#EXTINF:-1,BR:Boomerang FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65673
+#EXTINF:-1,BR:Boomerang HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2521
+#EXTINF:-1,BR:Boomerang SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65674
+#EXTINF:-1,BR:Cartoon Network FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65675
+#EXTINF:-1,BR:Cartoon Network HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2519
+#EXTINF:-1,BR:Cartoon Network SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65676
+#EXTINF:-1,BR:Disney Channel FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65702
+#EXTINF:-1,BR:Disney HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2506
+#EXTINF:-1,BR:Disney Channel SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65703
+#EXTINF:-1,BR:Disney JR FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65704
+#EXTINF:-1,BR:DISNEY JR HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2505
+#EXTINF:-1,BR:Disney JR SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65705
+#EXTINF:-1,BR:Disney XD FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65706
+#EXTINF:-1,BR:Disney XD HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2504
+#EXTINF:-1,BR:Disney XD SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65707
+#EXTINF:-1,BR:Discovery Kids FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65691
+#EXTINF:-1,BR:Discovery Kids HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2511
+#EXTINF:-1,BR:Discovery Kids SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65692
+#EXTINF:-1,BR:Gloobinho HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2483
+#EXTINF:-1,BR:Gloobinho SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65737
+#EXTINF:-1,BR:Gloob FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65735
+#EXTINF:-1,BR:Gloob SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65736
+#EXTINF:-1,BR:Nat Geo Kids FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65765
+#EXTINF:-1,BR:NAT GEO Kids HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2463
+#EXTINF:-1,BR:Nat Geo Kids SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65766
+#EXTINF:-1,BR:Nick JR FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65769
+#EXTINF:-1,BR:NICK JR HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2461
+#EXTINF:-1,BR:Nick JR SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65770
+#EXTINF:-1,BR:Nickelodeon HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2460
+#EXTINF:-1,BR:Nickelodeon SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65771
+#EXTINF:-1,BR:TV Ra Tim Bum
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2430
+#EXTINF:-1,BR:CNN Brasil FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65679
+#EXTINF:-1,BR:CNN BRASIL HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2453
+#EXTINF:-1,BR:CNN Brasil SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65680
+#EXTINF:-1,BR:Band News FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65670
+#EXTINF:-1,BR:Band News HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2525
+#EXTINF:-1,BR:Band News SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65671
+#EXTINF:-1,BR:Globo News FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65731
+#EXTINF:-1,BR:Globo News HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2487
+#EXTINF:-1,BR:Globo News SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65732
+#EXTINF:-1,BR:GLOBO RBS TV PORTO ALEGRE
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2486
+#EXTINF:-1,BR:Globo HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2484
+#EXTINF:-1,BR:Globo Brasilia SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65730
+#EXTINF:-1,BR:Globo RJ FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65733
+#EXTINF:-1,BR:Globo RJ HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2485
+#EXTINF:-1,BR:Globo RJ SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65734
+#EXTINF:-1,BR:Band HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2526
+#EXTINF:-1,BR:TV Record HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2496
+#EXTINF:-1,BR:Record
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2449
+#EXTINF:-1,BR:Rede TV HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2448
+#EXTINF:-1,BR:Rede TV SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65784
+#EXTINF:-1,BR:Sbt FHD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65785
+#EXTINF:-1,BR:SBT HD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2447
+#EXTINF:-1,BR:Sbt SD
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65786
+#EXTINF:-1,BR:Vai Que Cola 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66010
+#EXTINF:-1,BR:TOM E JERRY 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66009
+#EXTINF:-1,BR:Todo Mundo Odeia O Chris 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66008
+#EXTINF:-1,BR:VAI QUE COLA 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66007
+#EXTINF:-1,BR:Peppa Pig 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66006
+#EXTINF:-1,BR:Naruto 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66005
+#EXTINF:-1,BR:Homem Aranha 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66004
+#EXTINF:-1,BR:Galinha Pintadinha 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66003
+#EXTINF:-1,BR:Eu A Patroa E As Criancas 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66002
+#EXTINF:-1,BR:Chaves Desenho 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66001
+#EXTINF:-1,BR:Caverna Do Dragao 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66000
+#EXTINF:-1,BR:Cavaleiro Do Zodiaco 24H
+http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65999
+
+
+
 
 
 
