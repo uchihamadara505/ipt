@@ -1265,10 +1265,7 @@ http://silvertv.net:1997/Majdi/Majdi123/68594
 
 
 
-
-#EXTINF:-1 group-title="USA" ,WEATHER NATION  HD
-http://jockeriptv.com:8080/navaro/navaro/15377
-#EXTINF:-1,US: KCAL9 Los Angeles
+#EXTINF:-1 group-title="USA" ,US: KCAL9 Los Angeles
 http://ingrid.ltd:25461/Juan123456/Juan123456/86204
 #EXTINF:-1,US: CW 5 (KTLA) Los Ángeles
 http://ingrid.ltd:25461/Juan123456/Juan123456/86190
