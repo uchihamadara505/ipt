@@ -187,7 +187,7 @@ http://forceie.com:2082/sony123/sony123/291
 
 
 
-#EXTINF:-1 group-title="Canais Brasil 2" ,BR: A&E
+#EXTINF:-1 group-title="Canais Brasil 2 e Premiere" ,BR: A&E
 http://ingrid.ltd:25461/Juan123456/Juan123456/41359
 #EXTINF:-1,BR: AMC
 http://ingrid.ltd:25461/Juan123456/Juan123456/41358
@@ -469,6 +469,16 @@ http://ingrid.ltd:25461/Juan123456/Juan123456/41216
 http://ingrid.ltd:25461/Juan123456/Juan123456/41215
 #EXTINF:-1,BR: WOOHOO
 http://ingrid.ltd:25461/Juan123456/Juan123456/41214
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
 
 
   
@@ -1246,570 +1256,456 @@ http://silvertv.net:1997/Majdi/Majdi123/68593
 http://silvertv.net:1997/Majdi/Majdi123/68594
 
 
-#EXTINF:-1 group-title="Canais Brasil 4" ,BR:A&E FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65659
-#EXTINF:-1,BR:A&E HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2531
-#EXTINF:-1,BR:A&E SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65660
-#EXTINF:-1,BR:AMC FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65661
-#EXTINF:-1,BR:AMC HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2530
-#EXTINF:-1,BR:AMC SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65662
-#EXTINF:-1,BR:AXN FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65667
-#EXTINF:-1,BR:AXN HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2527
-#EXTINF:-1,BR:AXN SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65668
-#EXTINF:-1,BR:BBB 2020
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2452
-#EXTINF:-1,BR:Cinemax FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65677
-#EXTINF:-1,BR:Cinemax HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2518
-#EXTINF:-1,BR:Cinemax SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65678
-#EXTINF:-1,BR:Fox FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65717
-#EXTINF:-1,BR:Fox HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2494
-#EXTINF:-1,BR:Fox SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65723
-#EXTINF:-1,BR:Fox Premium 1 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65719
-#EXTINF:-1,BR:Fox Permium 1 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2492
-#EXTINF:-1,BR:Fox Premium 1 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65720
-#EXTINF:-1,BR:Fox Premium 2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65721
-#EXTINF:-1,BR:Fox Premium 2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2491
-#EXTINF:-1,BR:Fox Premium 2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65722
-#EXTINF:-1,BR:Fx FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65728
-#EXTINF:-1,BR:FX HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2488
-#EXTINF:-1,BR:Fx SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65729
-#EXTINF:-1,BR:Max
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2471
-#EXTINF:-1,BR:Max Prime
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2470
-#EXTINF:-1,BR:Max Up
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2469
-#EXTINF:-1,BR:Megapix FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65758
-#EXTINF:-1,BR:MegaPix HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2468
-#EXTINF:-1,BR:Megapix SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65759
-#EXTINF:-1,BR:Paramount Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65773
-#EXTINF:-1,BR:Paramount Channel HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2458
-#EXTINF:-1,BR:Paramount Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65774
-#EXTINF:-1,BR:Space FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65787
-#EXTINF:-1,BR:Space HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2446
-#EXTINF:-1,BR:Space SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65788
-#EXTINF:-1,BR:Studio Universal FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65795
-#EXTINF:-1,BR:Studio Universal HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2442
-#EXTINF:-1,BR:Studio Universal SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65796
-#EXTINF:-1,BR:Syfy FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65797
-#EXTINF:-1,BR:SYFY HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2441
-#EXTINF:-1,BR:Syfy SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65798
-#EXTINF:-1,BR:TLC HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2433
-#EXTINF:-1,BR:TBS HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2440
-#EXTINF:-1,BR:Tbs SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65799
-#EXTINF:-1,BR:TNT FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65812
-#EXTINF:-1,BR:TNT HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2432
-#EXTINF:-1,BR:TNT SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65813
-#EXTINF:-1,BR:TNT Series FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65814
-#EXTINF:-1,BR:TNT Series  HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2431
-#EXTINF:-1,BR:TNT Series SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65815
-#EXTINF:-1,BR:Universal Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65816
-#EXTINF:-1,BR:Universal Channel HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2429
-#EXTINF:-1,BR:Universal Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65817
-#EXTINF:-1,BR:Warner Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65821
-#EXTINF:-1,BR:Warner Channel HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2450
-#EXTINF:-1,BR:Warner Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65822
-#EXTINF:-1,BR:Band Sports HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2524
-#EXTINF:-1,BR:Band Sports SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65672
-#EXTINF:-1,BR:Combate FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65681
-#EXTINF:-1,BR:Combate HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2517
-#EXTINF:-1,BR:Combate SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65682
-#EXTINF:-1,BR:Espn FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65712
-#EXTINF:-1,BR:ESPN HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2499
-#EXTINF:-1,BR:Espn SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65713
-#EXTINF:-1,BR:Espn Brasil FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65709
-#EXTINF:-1,BR:ESPN BRASIL HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2501
-#EXTINF:-1,BR:Espn Brasil SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65710
-#EXTINF:-1,BR:ESPN Extra HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2502
-#EXTINF:-1,BR:Espn Extra SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65711
-#EXTINF:-1,BR:FISH TV HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2520
-#EXTINF:-1,BR:Fish TV SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65714
-#EXTINF:-1,BR:Off HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2459
-#EXTINF:-1,BR:Off SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65772
-#EXTINF:-1,BR:Fox Sports 2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65724
-#EXTINF:-1,BR:Fox Sports 2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2490
-#EXTINF:-1,BR:Fox Sports 2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65725
-#EXTINF:-1,BR:Fox Sports FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65726
-#EXTINF:-1,BR:Fox Sports 1 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2489
-#EXTINF:-1,BR:Fox Sports SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65727
-#EXTINF:-1,BR:Sportv 3 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65791
-#EXTINF:-1,BR:Sport TV 3 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2444
-#EXTINF:-1,BR:Sportv 3 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65792
-#EXTINF:-1,BR:Sportv 2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65789
-#EXTINF:-1,BR:Sport TV 2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2445
-#EXTINF:-1,BR:Sportv 2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65790
-#EXTINF:-1,BR:Sportv FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65793
-#EXTINF:-1,BR:Sport TV 1 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2443
-#EXTINF:-1,BR:Sportv SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65794
-#EXTINF:-1,BR:PFC HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2498
-#EXTINF:-1,BR:WOOHOO HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2500
-#EXTINF:-1,BR:Woohoo SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65823
-#EXTINF:-1,BR:BIS HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2522
-#EXTINF:-1,BR:Mtv FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65760
-#EXTINF:-1,BR:MTV HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2467
-#EXTINF:-1,BR:Mtv SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65761
-#EXTINF:-1,BR:Multishow FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65762
-#EXTINF:-1,BR:Multishow HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2466
-#EXTINF:-1,BR:Multishow SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65763
-#EXTINF:-1,BR:Music Box HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2465
-#EXTINF:-1,BR:Music Box SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65764
-#EXTINF:-1,BR:VH1 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2523
-#EXTINF:-1,BR:VH1 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65818
-#EXTINF:-1,BR:Hbo FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65744
-#EXTINF:-1,BR:HBO HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2478
-#EXTINF:-1,BR:Hbo SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65748
-#EXTINF:-1,BR:Hbo 2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65741
-#EXTINF:-1,BR:HBO 2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2480
-#EXTINF:-1,BR:Hbo 2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65742
-#EXTINF:-1,BR:HBO Family HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2479
-#EXTINF:-1,BR:Hbo family SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65743
-#EXTINF:-1,BR:Hbo Mundi SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65745
-#EXTINF:-1,BR:Hbo Plus FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65746
-#EXTINF:-1,BR:HBO Plus HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2477
-#EXTINF:-1,BR:Hbo Plus SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65747
-#EXTINF:-1,BR:Hbo Signature FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65749
-#EXTINF:-1,BR:HBO Signature HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2476
-#EXTINF:-1,BR:Hbo Signature SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65750
-#EXTINF:-1,BR:Hbo Xtreme FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65751
-#EXTINF:-1,BR:Hbo Xtreme SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65752
-#EXTINF:-1,BR:Telecine Action FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65800
-#EXTINF:-1,BR:Telecine Action HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2439
-#EXTINF:-1,BR:Telecine Action SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65801
-#EXTINF:-1,BR:Telecine Cult FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65802
-#EXTINF:-1,BR:Telecine Cult HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2438
-#EXTINF:-1,BR:Telecine Cult SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65803
-#EXTINF:-1,BR:Telecine Fun FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65804
-#EXTINF:-1,BR:Telecine Fun HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2437
-#EXTINF:-1,BR:Telecine Fun SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65805
-#EXTINF:-1,BR:Telecine Pipoca FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65806
-#EXTINF:-1,BR:Telecine Pipoca HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2436
-#EXTINF:-1,BR:Telecine Pipoca SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65807
-#EXTINF:-1,BR:Telecine Premium FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65808
-#EXTINF:-1,BR:Telecine Premium HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2435
-#EXTINF:-1,BR:Telecine Premium SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65809
-#EXTINF:-1,BR:Telecine Touch FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65810
-#EXTINF:-1,BR:Telecine Touch HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2434
-#EXTINF:-1,BR:Telecine Touch SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65811
-#EXTINF:-1,BR:Premiere 2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65775
-#EXTINF:-1,BR:Premiere 2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2457
-#EXTINF:-1,BR:Premiere 2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65776
-#EXTINF:-1,BR:Premiere 3 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2456
-#EXTINF:-1,BR:Premiere 3 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65777
-#EXTINF:-1,BR:Premiere 4 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65778
-#EXTINF:-1,BR:Premiere 4 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2455
-#EXTINF:-1,BR:Premiere 4 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65779
-#EXTINF:-1,BR:Premiere 5 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65780
-#EXTINF:-1,BR:Premiere 5 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2454
-#EXTINF:-1,BR:Premiere 5 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65781
-#EXTINF:-1,BR:Premiere Clubes FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65782
-#EXTINF:-1,BR:Premiere Clubes HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2451
-#EXTINF:-1,BR:Premiere Clubes SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65783
-#EXTINF:-1,BR:Arte 1 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65665
-#EXTINF:-1,BR:Arte 1 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2528
-#EXTINF:-1,BR:Arte 1 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65666
-#EXTINF:-1,BR:comedy central FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65683
-#EXTINF:-1,BR:Comedy Central HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2516
-#EXTINF:-1,BR:comedy central SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65684
-#EXTINF:-1,BR:Discovery Home & Health FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65689
-#EXTINF:-1,BR:Discovery Home Health HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2512
-#EXTINF:-1,BR:Discovery Home & Health SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65690
-#EXTINF:-1,BR:E! HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2503
-#EXTINF:-1,BR:E! SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65708
-#EXTINF:-1,BR:Food Network FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65715
-#EXTINF:-1,BR:Food Network HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2495
-#EXTINF:-1,BR:Food Network SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65716
-#EXTINF:-1,BR:Fox Life HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2493
-#EXTINF:-1,BR:Fox Life SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65718
-#EXTINF:-1,BR:Mais Globosat
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2472
-#EXTINF:-1,BR:GNT HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2482
-#EXTINF:-1,BR:Gnt SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65738
-#EXTINF:-1,BR:Lifetime HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2473
-#EXTINF:-1,BR:Lifetime SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65757
-#EXTINF:-1,BR:Viva FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65819
-#EXTINF:-1,BR:VIVA HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2497
-#EXTINF:-1,BR:Viva SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65820
-#EXTINF:-1,BR:Animal Planet FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65663
-#EXTINF:-1,BR:Animal Planet HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2529
-#EXTINF:-1,BR:Animal Planet SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65664
-#EXTINF:-1,BR:Discovery Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65685
-#EXTINF:-1,BR:Discovery HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2514
-#EXTINF:-1,BR:Discovery Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65686
-#EXTINF:-1,BR:Discovery Civilization FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65687
-#EXTINF:-1,BR:Discovery Civilization HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2513
-#EXTINF:-1,BR:Discovery Civilization SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65688
-#EXTINF:-1,BR:Discovery Science FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65693
-#EXTINF:-1,BR:Discovery Science HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2510
-#EXTINF:-1,BR:Discovery Science SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65694
-#EXTINF:-1,BR:Discovery Theater FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65695
-#EXTINF:-1,BR:Discovery Theater HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2509
-#EXTINF:-1,BR:Discovery Theater SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65696
-#EXTINF:-1,BR:Discovery Turbo FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65698
-#EXTINF:-1,BR:Discovery Turbo HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2508
-#EXTINF:-1,BR:Discovery Turbo SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65699
-#EXTINF:-1,BR:Discovery World FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65700
-#EXTINF:-1,BR:Discovery World HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2507
-#EXTINF:-1,BR:Discovery World SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65701
-#EXTINF:-1,BR:Investigacao Discovery FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65755
-#EXTINF:-1,BR:Investigacao Discovery HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2474
-#EXTINF:-1,BR:Investigacao Discovery SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65756
-#EXTINF:-1,BR:Discovery TLC SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65697
-#EXTINF:-1,BR:History Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65753
-#EXTINF:-1,BR:History HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2475
-#EXTINF:-1,BR:History Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65754
-#EXTINF:-1,BR:H2 FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65739
-#EXTINF:-1,BR:H2 HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2481
-#EXTINF:-1,BR:H2 SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65740
-#EXTINF:-1,BR:NAT GEO HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2464
-#EXTINF:-1,BR:Nat Geo Wild FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65767
-#EXTINF:-1,BR:NAT GEO Wild HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2462
-#EXTINF:-1,BR:Nat Geo Wild SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65768
-#EXTINF:-1,BR:Baby TV HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2515
-#EXTINF:-1,BR:Baby tv SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65669
-#EXTINF:-1,BR:Boomerang FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65673
-#EXTINF:-1,BR:Boomerang HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2521
-#EXTINF:-1,BR:Boomerang SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65674
-#EXTINF:-1,BR:Cartoon Network FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65675
-#EXTINF:-1,BR:Cartoon Network HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2519
-#EXTINF:-1,BR:Cartoon Network SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65676
-#EXTINF:-1,BR:Disney Channel FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65702
-#EXTINF:-1,BR:Disney HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2506
-#EXTINF:-1,BR:Disney Channel SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65703
-#EXTINF:-1,BR:Disney JR FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65704
-#EXTINF:-1,BR:DISNEY JR HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2505
-#EXTINF:-1,BR:Disney JR SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65705
-#EXTINF:-1,BR:Disney XD FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65706
-#EXTINF:-1,BR:Disney XD HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2504
-#EXTINF:-1,BR:Disney XD SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65707
-#EXTINF:-1,BR:Discovery Kids FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65691
-#EXTINF:-1,BR:Discovery Kids HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2511
-#EXTINF:-1,BR:Discovery Kids SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65692
-#EXTINF:-1,BR:Gloobinho HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2483
-#EXTINF:-1,BR:Gloobinho SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65737
-#EXTINF:-1,BR:Gloob FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65735
-#EXTINF:-1,BR:Gloob SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65736
-#EXTINF:-1,BR:Nat Geo Kids FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65765
-#EXTINF:-1,BR:NAT GEO Kids HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2463
-#EXTINF:-1,BR:Nat Geo Kids SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65766
-#EXTINF:-1,BR:Nick JR FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65769
-#EXTINF:-1,BR:NICK JR HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2461
-#EXTINF:-1,BR:Nick JR SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65770
-#EXTINF:-1,BR:Nickelodeon HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2460
-#EXTINF:-1,BR:Nickelodeon SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65771
-#EXTINF:-1,BR:TV Ra Tim Bum
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2430
-#EXTINF:-1,BR:CNN Brasil FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65679
-#EXTINF:-1,BR:CNN BRASIL HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2453
-#EXTINF:-1,BR:CNN Brasil SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65680
-#EXTINF:-1,BR:Band News FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65670
-#EXTINF:-1,BR:Band News HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2525
-#EXTINF:-1,BR:Band News SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65671
-#EXTINF:-1,BR:Globo News FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65731
-#EXTINF:-1,BR:Globo News HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2487
-#EXTINF:-1,BR:Globo News SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65732
-#EXTINF:-1,BR:GLOBO RBS TV PORTO ALEGRE
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2486
-#EXTINF:-1,BR:Globo HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2484
-#EXTINF:-1,BR:Globo Brasilia SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65730
-#EXTINF:-1,BR:Globo RJ FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65733
-#EXTINF:-1,BR:Globo RJ HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2485
-#EXTINF:-1,BR:Globo RJ SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65734
-#EXTINF:-1,BR:Band HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2526
-#EXTINF:-1,BR:TV Record HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2496
-#EXTINF:-1,BR:Record
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2449
-#EXTINF:-1,BR:Rede TV HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2448
-#EXTINF:-1,BR:Rede TV SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65784
-#EXTINF:-1,BR:Sbt FHD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65785
-#EXTINF:-1,BR:SBT HD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/2447
-#EXTINF:-1,BR:Sbt SD
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65786
-#EXTINF:-1,BR:Vai Que Cola 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66010
-#EXTINF:-1,BR:TOM E JERRY 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66009
-#EXTINF:-1,BR:Todo Mundo Odeia O Chris 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66008
-#EXTINF:-1,BR:VAI QUE COLA 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66007
-#EXTINF:-1,BR:Peppa Pig 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66006
-#EXTINF:-1,BR:Naruto 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66005
-#EXTINF:-1,BR:Homem Aranha 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66004
-#EXTINF:-1,BR:Galinha Pintadinha 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66003
-#EXTINF:-1,BR:Eu A Patroa E As Criancas 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66002
-#EXTINF:-1,BR:Chaves Desenho 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66001
-#EXTINF:-1,BR:Caverna Do Dragao 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/66000
-#EXTINF:-1,BR:Cavaleiro Do Zodiaco 24H
-http://c2.abcnew.site:8880/jnpZTeAjgY/yAYXEZaTLd/65999
+
+
+---------------------------------------------------------------------------------------------
 
 
 
 
+
+#EXTINF:-1 group-title="USA" ,USA:23 ABC (KERO)
+http://4k-sat.com:8000/Nasri/1234/37219
+#EXTINF:-1,USA:24/7 Retro TV
+http://4k-sat.com:8000/Nasri/1234/37220
+#EXTINF:-1,USA:30A Investment Pitch
+http://4k-sat.com:8000/Nasri/1234/37221
+#EXTINF:-1,USA:30A Music
+http://4k-sat.com:8000/Nasri/1234/37222
+#EXTINF:-1,USA:30A Sidewalks
+http://4k-sat.com:8000/Nasri/1234/37223
+#EXTINF:-1,USA:30A TV
+http://4k-sat.com:8000/Nasri/1234/37224
+#EXTINF:-1,USA:3ABN KIDS TV
+http://4k-sat.com:8000/Nasri/1234/37225
+#EXTINF:-1,USA:3ABN Latino
+http://4k-sat.com:8000/Nasri/1234/37226
+#EXTINF:-1,USA:3News Now (KMTV-TV)
+http://4k-sat.com:8000/Nasri/1234/37227
+#EXTINF:-1,USA:7News Boston (WHDH)
+http://4k-sat.com:8000/Nasri/1234/37228
+#EXTINF:-1,USA:ABC 7 Sarasota FL (WWSB)
+http://4k-sat.com:8000/Nasri/1234/37229
+#EXTINF:-1,USA:ABC 9 Chattanooga TN (WTVC)
+http://4k-sat.com:8000/Nasri/1234/37230
+#EXTINF:-1,USA:ABC News Digital 1
+http://4k-sat.com:8000/Nasri/1234/37231
+#EXTINF:-1,USA:ABC News Digital 2
+http://4k-sat.com:8000/Nasri/1234/37232
+#EXTINF:-1,USA:ABC News Digital 3
+http://4k-sat.com:8000/Nasri/1234/37233
+#EXTINF:-1,USA:ABC News Digital 4
+http://4k-sat.com:8000/Nasri/1234/37234
+#EXTINF:-1,USA:ABC News Digital 5
+http://4k-sat.com:8000/Nasri/1234/37235
+#EXTINF:-1,USA:ABC News Digital 6
+http://4k-sat.com:8000/Nasri/1234/37236
+#EXTINF:-1,USA:ABC News Digital 7
+http://4k-sat.com:8000/Nasri/1234/37237
+#EXTINF:-1,USA:ABC News Digital 9
+http://4k-sat.com:8000/Nasri/1234/37238
+#EXTINF:-1,USA:Action News Jax (WJAX-TV)
+http://4k-sat.com:8000/Nasri/1234/37239
+#EXTINF:-1,USA:Action Sports 4U
+http://4k-sat.com:8000/Nasri/1234/37240
+#EXTINF:-1,USA:AKC TV
+http://4k-sat.com:8000/Nasri/1234/37241
+#EXTINF:-1,USA:Al Horreya TV
+http://4k-sat.com:8000/Nasri/1234/37242
+#EXTINF:-1,USA:Al Hurra
+http://4k-sat.com:8000/Nasri/1234/37243
+#EXTINF:-1,USA:Aliento Vision
+http://4k-sat.com:8000/Nasri/1234/37244
+#EXTINF:-1,USA:America's Funniest Videos
+http://4k-sat.com:8000/Nasri/1234/37245
+#EXTINF:-1,USA:American Classic Network
+http://4k-sat.com:8000/Nasri/1234/37246
+#EXTINF:-1,USA:American Horrors
+http://4k-sat.com:8000/Nasri/1234/37247
+#EXTINF:-1,USA:AMG TV
+http://4k-sat.com:8000/Nasri/1234/37248
+#EXTINF:-1,USA:Apple Sauce TV
+http://4k-sat.com:8000/Nasri/1234/37249
+#EXTINF:-1,USA:Atlanta Channel
+http://4k-sat.com:8000/Nasri/1234/37250
+#EXTINF:-1,USA:Beach TV (30A)
+http://4k-sat.com:8000/Nasri/1234/37251
+#EXTINF:-1,USA:Beach TV (CSULB)
+http://4k-sat.com:8000/Nasri/1234/37252
+#EXTINF:-1,USA:Beach TV (Panama City)
+http://4k-sat.com:8000/Nasri/1234/37253
+#EXTINF:-1,USA:Beach TV (Pawleys Island)
+http://4k-sat.com:8000/Nasri/1234/37254
+#EXTINF:-1,USA:Better Health TV
+http://4k-sat.com:8000/Nasri/1234/37255
+#EXTINF:-1,USA:Better Life TV
+http://4k-sat.com:8000/Nasri/1234/37256
+#EXTINF:-1,USA:Better Nature TV
+http://4k-sat.com:8000/Nasri/1234/37257
+#EXTINF:-1,USA:Bible Explorations
+http://4k-sat.com:8000/Nasri/1234/37258
+#EXTINF:-1,USA:Black Widow TV
+http://4k-sat.com:8000/Nasri/1234/37259
+#EXTINF:-1,USA:BlazeTV
+http://4k-sat.com:8000/Nasri/1234/37260
+#EXTINF:-1,USA:Bloomberg
+http://4k-sat.com:8000/Nasri/1234/37261
+#EXTINF:-1,USA:Bloomberg TV Asia
+http://4k-sat.com:8000/Nasri/1234/37262
+#EXTINF:-1,USA:Bloomberg TV Asia Live Event
+http://4k-sat.com:8000/Nasri/1234/37263
+#EXTINF:-1,USA:Bloomberg TV EMEA Live Event
+http://4k-sat.com:8000/Nasri/1234/37264
+#EXTINF:-1,USA:Bloomberg TV Europe
+http://4k-sat.com:8000/Nasri/1234/37265
+#EXTINF:-1,USA:Bloomberg TV Live Event
+http://4k-sat.com:8000/Nasri/1234/37266
+#EXTINF:-1,USA:Blush Romance TV
+http://4k-sat.com:8000/Nasri/1234/37267
+#EXTINF:-1,USA:Boston 25 News (WFXT)
+http://4k-sat.com:8000/Nasri/1234/37268
+#EXTINF:-1,USA:Bowie TV
+http://4k-sat.com:8000/Nasri/1234/37269
+#EXTINF:-1,USA:Brut.
+http://4k-sat.com:8000/Nasri/1234/37270
+#EXTINF:-1,USA:Buffalo TV
+http://4k-sat.com:8000/Nasri/1234/37271
+#EXTINF:-1,USA:BUTV10 (Boston University)
+http://4k-sat.com:8000/Nasri/1234/37272
+#EXTINF:-1,USA:Buzzr
+http://4k-sat.com:8000/Nasri/1234/37273
+#EXTINF:-1,USA:C-Span
+http://4k-sat.com:8000/Nasri/1234/37274
+#EXTINF:-1,USA:C-Span 2
+http://4k-sat.com:8000/Nasri/1234/37275
+#EXTINF:-1,USA:C-Span 3
+http://4k-sat.com:8000/Nasri/1234/37276
+#EXTINF:-1,USA:California Music Channel
+http://4k-sat.com:8000/Nasri/1234/37277
+#EXTINF:-1,USA:CBN Español
+http://4k-sat.com:8000/Nasri/1234/37278
+#EXTINF:-1,USA:CBN News
+http://4k-sat.com:8000/Nasri/1234/37279
+#EXTINF:-1,USA:CBS
+http://4k-sat.com:8000/Nasri/1234/37280
+#EXTINF:-1,USA:CBS 9 Washington DC (WUSA-HD)
+http://4k-sat.com:8000/Nasri/1234/37281
+#EXTINF:-1,USA:CBS46 (WGCL-TV)
+http://4k-sat.com:8000/Nasri/1234/37282
+#EXTINF:-1,USA:CBSN
+http://4k-sat.com:8000/Nasri/1234/37283
+#EXTINF:-1,USA:CC-TV (Charlotte County)
+http://4k-sat.com:8000/Nasri/1234/37284
+#EXTINF:-1,USA:CCX1
+http://4k-sat.com:8000/Nasri/1234/37285
+#EXTINF:-1,USA:CCX3
+http://4k-sat.com:8000/Nasri/1234/37286
+#EXTINF:-1,USA:Cerritos TV3
+http://4k-sat.com:8000/Nasri/1234/37287
+#EXTINF:-1,USA:CGTV
+http://4k-sat.com:8000/Nasri/1234/37288
+#EXTINF:-1,USA:Cheddar Big News
+http://4k-sat.com:8000/Nasri/1234/37289
+#EXTINF:-1,USA:Christian Youth Channel
+http://4k-sat.com:8000/Nasri/1234/37290
+#EXTINF:-1,USA:Classic Arts Showcase
+http://4k-sat.com:8000/Nasri/1234/37291
+#EXTINF:-1,USA:Classic TV 4U
+http://4k-sat.com:8000/Nasri/1234/37292
+#EXTINF:-1,USA:CMC-USA
+http://4k-sat.com:8000/Nasri/1234/37293
+#EXTINF:-1,USA:CNBC Arabiya
+http://4k-sat.com:8000/Nasri/1234/37294
+#EXTINF:-1,USA:CNBC TV18
+http://4k-sat.com:8000/Nasri/1234/37295
+#EXTINF:-1,USA:ConTV
+http://4k-sat.com:8000/Nasri/1234/37296
+#EXTINF:-1,USA:CSat TV
+http://4k-sat.com:8000/Nasri/1234/37297
+#EXTINF:-1,USA:CSUDH TV (Dominguez Hills)
+http://4k-sat.com:8000/Nasri/1234/37298
+#EXTINF:-1,USA:CT-N Court Feed
+http://4k-sat.com:8000/Nasri/1234/37299
+#EXTINF:-1,USA:CT-N Live Stream 2
+http://4k-sat.com:8000/Nasri/1234/37300
+#EXTINF:-1,USA:CTN
+http://4k-sat.com:8000/Nasri/1234/37301
+#EXTINF:-1,USA:DC Council Channel
+http://4k-sat.com:8000/Nasri/1234/37302
+#EXTINF:-1,USA:Denver 8 TV
+http://4k-sat.com:8000/Nasri/1234/37303
+#EXTINF:-1,USA:Divine Vision
+http://4k-sat.com:8000/Nasri/1234/37304
+#EXTINF:-1,USA:Documentaries 4U
+http://4k-sat.com:8000/Nasri/1234/37305
+#EXTINF:-1,USA:Dream TV
+http://4k-sat.com:8000/Nasri/1234/37306
+#EXTINF:-1,USA:Escambia County TV
+http://4k-sat.com:8000/Nasri/1234/37307
+#EXTINF:-1,USA:Fail Army
+http://4k-sat.com:8000/Nasri/1234/37308
+#EXTINF:-1,USA:Fairfax Public Access
+http://4k-sat.com:8000/Nasri/1234/37309
+#EXTINF:-1,USA:Faith & Life TV
+http://4k-sat.com:8000/Nasri/1234/37310
+#EXTINF:-1,USA:Folk TV
+http://4k-sat.com:8000/Nasri/1234/37311
+#EXTINF:-1,USA:FOX 10 Phoenix AZ (KSAZ-TV)
+http://4k-sat.com:8000/Nasri/1234/37312
+#EXTINF:-1,USA:FOX 19 Newport KY (WXIX-TV)
+http://4k-sat.com:8000/Nasri/1234/37313
+#EXTINF:-1,USA:FOX 23 Tulsa OK (KOKI-TV)
+http://4k-sat.com:8000/Nasri/1234/37314
+#EXTINF:-1,USA:FOX 28 Savannah GA (WTGS)
+http://4k-sat.com:8000/Nasri/1234/37315
+#EXTINF:-1,USA:FOX 31 Denver CO (KDVR)
+http://4k-sat.com:8000/Nasri/1234/37316
+#EXTINF:-1,USA:FOX 4 Kansas City MO (WDAF-TV)
+http://4k-sat.com:8000/Nasri/1234/37317
+#EXTINF:-1,USA:FOX 40 Sacramento CA (KTXL)
+http://4k-sat.com:8000/Nasri/1234/37318
+#EXTINF:-1,USA:FOX 8 Cleveland
+http://4k-sat.com:8000/Nasri/1234/37319
+#EXTINF:-1,USA:FOX 8 Cleveland OH (WJW)
+http://4k-sat.com:8000/Nasri/1234/37320
+#EXTINF:-1,USA: AMC 
+http://4k-sat.com:8000/Nasri/1234/37321
+#EXTINF:-1,USA: Animal Planet
+http://4k-sat.com:8000/Nasri/1234/37322
+#EXTINF:-1,USA: CW
+http://4k-sat.com:8000/Nasri/1234/37323
+#EXTINF:-1,USA: Discovery Channel
+http://4k-sat.com:8000/Nasri/1234/37324
+#EXTINF:-1,USA: Discovery Science
+http://4k-sat.com:8000/Nasri/1234/37325
+#EXTINF:-1,USA: Disney Junior
+http://4k-sat.com:8000/Nasri/1234/37326
+#EXTINF:-1,USA: Disney XD
+http://4k-sat.com:8000/Nasri/1234/37327
+#EXTINF:-1,USA: DIY Network HD
+http://4k-sat.com:8000/Nasri/1234/37328
+#EXTINF:-1,USA: Food Network 
+http://4k-sat.com:8000/Nasri/1234/37329
+#EXTINF:-1,USA: FX
+http://4k-sat.com:8000/Nasri/1234/37330
+#EXTINF:-1,USA:FXX
+http://4k-sat.com:8000/Nasri/1234/37331
+#EXTINF:-1,USA:Hallmark 
+http://4k-sat.com:8000/Nasri/1234/37332
+#EXTINF:-1,USA: HGTV 
+http://4k-sat.com:8000/Nasri/1234/37333
+#EXTINF:-1,USA: History
+http://4k-sat.com:8000/Nasri/1234/37334
+#EXTINF:-1,USA: MLB Network
+http://4k-sat.com:8000/Nasri/1234/37335
+#EXTINF:-1,USA: MSG Network
+http://4k-sat.com:8000/Nasri/1234/37336
+#EXTINF:-1,USA: RNtv
+http://4k-sat.com:8000/Nasri/1234/37337
+#EXTINF:-1,USA: NFL Network 
+http://4k-sat.com:8000/Nasri/1234/37338
+#EXTINF:-1,USA: Nickelodeon
+http://4k-sat.com:8000/Nasri/1234/37339
+#EXTINF:-1,USA: People Tv
+http://4k-sat.com:8000/Nasri/1234/37340
+#EXTINF:-1,USA: SYFY
+http://4k-sat.com:8000/Nasri/1234/37341
+#EXTINF:-1,USA: TBS East
+http://4k-sat.com:8000/Nasri/1234/37342
+#EXTINF:-1,USA: USA Network
+http://4k-sat.com:8000/Nasri/1234/37343
+#EXTINF:-1,USA: MSNBC
+http://4k-sat.com:8000/Nasri/1234/37344
+#EXTINF:-1,USA: Discovery Investigation
+http://4k-sat.com:8000/Nasri/1234/37345
+#EXTINF:-1,USA: Comedy Central
+http://4k-sat.com:8000/Nasri/1234/37346
+#EXTINF:-1,USA: NHL Network
+http://4k-sat.com:8000/Nasri/1234/37347
+#EXTINF:-1,USA: NBA
+http://4k-sat.com:8000/Nasri/1234/37348
+#EXTINF:-1,USA: Paramount Network
+http://4k-sat.com:8000/Nasri/1234/37349
+#EXTINF:-1,USA: WSVI Sport
+http://4k-sat.com:8000/Nasri/1234/37350
+#EXTINF:-1,USA: Box Hits
+http://4k-sat.com:8000/Nasri/1234/37351
+#EXTINF:-1,USA: Folk Tv
+http://4k-sat.com:8000/Nasri/1234/37352
+#EXTINF:-1,USA: NBC 15
+http://4k-sat.com:8000/Nasri/1234/37353
+#EXTINF:-1,USA: CBN
+http://4k-sat.com:8000/Nasri/1234/37354
+#EXTINF:-1,USA: TCT
+http://4k-sat.com:8000/Nasri/1234/37355
+#EXTINF:-1,USA: NOTV
+http://4k-sat.com:8000/Nasri/1234/37356
+#EXTINF:-1,USA: WGN
+http://4k-sat.com:8000/Nasri/1234/37357
+#EXTINF:-1,USA: CBSN Live
+http://4k-sat.com:8000/Nasri/1234/37358
+#EXTINF:-1,USA: Weather Nation
+http://4k-sat.com:8000/Nasri/1234/37359
+#EXTINF:-1,USA: ESPN 1
+http://4k-sat.com:8000/Nasri/1234/37361
+#EXTINF:-1,USA: Outdoor Cooking
+http://4k-sat.com:8000/Nasri/1234/37362
+#EXTINF:-1,USA: National Geo Wild
+http://4k-sat.com:8000/Nasri/1234/37363
+#EXTINF:-1,USA: Atlanta Channel
+http://4k-sat.com:8000/Nasri/1234/37364
+#EXTINF:-1,USA: CGTN News
+http://4k-sat.com:8000/Nasri/1234/37365
+#EXTINF:-1,USA: CNBC Arabia
+http://4k-sat.com:8000/Nasri/1234/37366
+#EXTINF:-1,USA: NBC 11
+http://4k-sat.com:8000/Nasri/1234/37367
+#EXTINF:-1,USA: AMG
+http://4k-sat.com:8000/Nasri/1234/37368
+#EXTINF:-1,USA: Blaze
+http://4k-sat.com:8000/Nasri/1234/37369
+#EXTINF:-1,USA: Buzzr Tv
+http://4k-sat.com:8000/Nasri/1234/37370
+#EXTINF:-1,USA: CBS Washington
+http://4k-sat.com:8000/Nasri/1234/37371
+#EXTINF:-1,USA: Cheddar Big News
+http://4k-sat.com:8000/Nasri/1234/37372
+#EXTINF:-1,USA: CNBC 6
+http://4k-sat.com:8000/Nasri/1234/37373
+#EXTINF:-1,USA: Contv
+http://4k-sat.com:8000/Nasri/1234/37374
+#EXTINF:-1,USA: Cozi Tv
+http://4k-sat.com:8000/Nasri/1234/37375
+#EXTINF:-1,USA: Docubox
+http://4k-sat.com:8000/Nasri/1234/37376
+#EXTINF:-1,USA: ET Live
+http://4k-sat.com:8000/Nasri/1234/37377
+#EXTINF:-1,USA: Fight Time
+http://4k-sat.com:8000/Nasri/1234/37378
+#EXTINF:-1,USA: FOX 10
+http://4k-sat.com:8000/Nasri/1234/37379
+#EXTINF:-1,USA: FOX 19
+http://4k-sat.com:8000/Nasri/1234/37380
+#EXTINF:-1,USA: FOX 23
+http://4k-sat.com:8000/Nasri/1234/37381
+#EXTINF:-1,USA: FOX 4
+http://4k-sat.com:8000/Nasri/1234/37382
+#EXTINF:-1,USA: FOX 6
+http://4k-sat.com:8000/Nasri/1234/37383
+#EXTINF:-1,USA: FOX 8 
+http://4k-sat.com:8000/Nasri/1234/37384
+#EXTINF:-1,USA: Law & Crime
+http://4k-sat.com:8000/Nasri/1234/37385
+#EXTINF:-1,USA: Law & Crime Network
+http://4k-sat.com:8000/Nasri/1234/37386
+#EXTINF:-1,USA: NBC 13
+http://4k-sat.com:8000/Nasri/1234/37387
+#EXTINF:-1,USA: NBC 38
+http://4k-sat.com:8000/Nasri/1234/37388
+#EXTINF:-1,USA: Newsmax 4?
+http://4k-sat.com:8000/Nasri/1234/37389
+#EXTINF:-1,USA: Newsnet
+http://4k-sat.com:8000/Nasri/1234/37390
+#EXTINF:-1,USA: NTV Nefoundland
+http://4k-sat.com:8000/Nasri/1234/37391
+#EXTINF:-1,USA: Pop Tv
+http://4k-sat.com:8000/Nasri/1234/37392
+#EXTINF:-1,USA: Tastemade
+http://4k-sat.com:8000/Nasri/1234/37393
+#EXTINF:-1,USA: Tennis Channel
+http://4k-sat.com:8000/Nasri/1234/37394
+#EXTINF:-1,USA: TMZ
+http://4k-sat.com:8000/Nasri/1234/37395
+#EXTINF:-1,USA: ABC News 4?
+http://4k-sat.com:8000/Nasri/1234/37396
+#EXTINF:-1,USA: CNN
+http://4k-sat.com:8000/Nasri/1234/37397
+#EXTINF:-1,USA: NBC 18
+http://4k-sat.com:8000/Nasri/1234/37398
+#EXTINF:-1,USA: Tennis Channel +1
+http://4k-sat.com:8000/Nasri/1234/37399
+#EXTINF:-1,USA: Docurama 4?
+http://4k-sat.com:8000/Nasri/1234/37400
+#EXTINF:-1,USA: Outdoor Channel
+http://4k-sat.com:8000/Nasri/1234/37401
+#EXTINF:-1,USA: Monarch Tv
+http://4k-sat.com:8000/Nasri/1234/37402
+#EXTINF:-1,USA: Disney Channel
+http://4k-sat.com:8000/Nasri/1234/37403
+#EXTINF:-1,USA: Crime & Investigation
+http://4k-sat.com:8000/Nasri/1234/37404
+#EXTINF:-1,USA: Discovery Turbo
+http://4k-sat.com:8000/Nasri/1234/37405
+#EXTINF:-1,USA: PBS America
+http://4k-sat.com:8000/Nasri/1234/37406
+#EXTINF:-1,USA: Magic Tv
+http://4k-sat.com:8000/Nasri/1234/37407
+#EXTINF:-1,USA: The Box
+http://4k-sat.com:8000/Nasri/1234/37408
+#EXTINF:-1,USA: CBS Seatlle
+http://4k-sat.com:8000/Nasri/1234/37409
+#EXTINF:-1,USA: CBS Ohio
+http://4k-sat.com:8000/Nasri/1234/37410
+#EXTINF:-1,USA: CBS Jacksonville
+http://4k-sat.com:8000/Nasri/1234/37411
+#EXTINF:-1,USA: RT News
+http://4k-sat.com:8000/Nasri/1234/37412
+#EXTINF:-1,USA: TLC
+http://4k-sat.com:8000/Nasri/1234/37413
+#EXTINF:-1,USA: Warner Tv
+http://4k-sat.com:8000/Nasri/1234/37414
+#EXTINF:-1,USA: WWE Network
+http://4k-sat.com:8000/Nasri/1234/37415
+#EXTINF:-1,USA: HBCU Game Day
+http://4k-sat.com:8000/Nasri/1234/37416
+#EXTINF:-1,USA: Orange Tv
+http://4k-sat.com:8000/Nasri/1234/37417
+#EXTINF:-1,USA: ABC
+http://4k-sat.com:8000/Nasri/1234/37418
+#EXTINF:-1,USA: A&E
+http://4k-sat.com:8000/Nasri/1234/37419
+#EXTINF:-1,USA: HBO
+http://4k-sat.com:8000/Nasri/1234/37420
+#EXTINF:-1,USA: HBO Signature
+http://4k-sat.com:8000/Nasri/1234/37421
+#EXTINF:-1,USA: HBO Comedy
+http://4k-sat.com:8000/Nasri/1234/37422
+#EXTINF:-1,USA: HBO Family
+http://4k-sat.com:8000/Nasri/1234/37423
+#EXTINF:-1,USA: Fox News
+http://4k-sat.com:8000/Nasri/1234/37424
+#EXTINF:-1,USA: MTV 
+http://4k-sat.com:8000/Nasri/1234/37425
+#EXTINF:-1,USA: Bravo
+http://4k-sat.com:8000/Nasri/1234/37426
+#EXTINF:-1,USA: Showtime 1 
+http://4k-sat.com:8000/Nasri/1234/37427
+#EXTINF:-1,USA: Showtime 2
+http://4k-sat.com:8000/Nasri/1234/37428
+#EXTINF:-1,USA: Showtime Family
+http://4k-sat.com:8000/Nasri/1234/37429
+#EXTINF:-1,USA: Starz Cinema 1
+http://4k-sat.com:8000/Nasri/1234/37430
+#EXTINF:-1,USA: Starz Cinema 2
+http://4k-sat.com:8000/Nasri/1234/37431
+#EXTINF:-1,USA: Starz Comedy
+http://4k-sat.com:8000/Nasri/1234/37432
+#EXTINF:-1,USA: Starz Edge
+http://4k-sat.com:8000/Nasri/1234/37433
+#EXTINF:-1,USA: Starz Encore
+http://4k-sat.com:8000/Nasri/1234/37434
+#EXTINF:-1,USA: Starz In Black
+http://4k-sat.com:8000/Nasri/1234/37436
+#EXTINF:-1,USA: AHC
+http://4k-sat.com:8000/Nasri/1234/37437
+#EXTINF:-1,USA: Game Show Network
+http://4k-sat.com:8000/Nasri/1234/37438
+
+
+
+
+
+---------------------------------------------------------------------------------------------
 
 
 
