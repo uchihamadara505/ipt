@@ -785,11 +785,7 @@ http://kstv.xyz:8080/Ray/1234/46525
 
 
 
-#EXTINF:-1 group-title="USA" ,US: KCAL9 Los Angeles
-http://ingrid.ltd:25461/Juan123456/Juan123456/86204
-#EXTINF:-1,===== USA Entertainment =====
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83764
-#EXTINF:-1,A & E                          
+#EXTINF:-1 group-title="USA" ,A & E                          
 http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83765
 #EXTINF:-1,ABC                        
 http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83766
