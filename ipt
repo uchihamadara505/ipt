@@ -1,777 +1,1370 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais Brasil" ,CANAL OFF FHD ¹ 
-http://forceie.com:2082/sony123/sony123/57483
-#EXTINF:-1,CANAL OFF FHD ² 
-http://forceie.com:2082/sony123/sony123/31180
-#EXTINF:-1,CANAL OFF HD ²
-http://forceie.com:2082/sony123/sony123/7943
-#EXTINF:-1,CANAL OFF SD ¹
-http://forceie.com:2082/sony123/sony123/7942
-#EXTINF:-1,GLOBO FLOARIANOPOLIS HD ¹
-http://forceie.com:2082/sony123/sony123/86584
-#EXTINF:-1,GLOBO FLORIANOPOLIS FHD ¹
-#EXTM3U
-#EXTINF:-1,BR: FOX SPORTS HD 2                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80758
-#EXTINF:-1,BR: Band Sports FHD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80759
-#EXTINF:-1,BR: COMBATE FHD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80760
-#EXTINF:-1,BR: COMEDY FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80761
-#EXTINF:-1,BR: Fox Sports FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80762
-#EXTINF:-1,BR: Fox Sports FHD 2                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80763
-#EXTINF:-1,BR: SPORTV FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80764
-#EXTINF:-1,BR: Sportv FHD 2                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80765
-#EXTINF:-1,BR: Sportv FHD 3                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80766
-#EXTINF:-1,BR: PREMIER  1                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80767
-#EXTINF:-1,BR: PREMIER 2 FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80768
-#EXTINF:-1,BR: PREMIER 3 FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80769
-#EXTINF:-1,BR: PREMIER 4 FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80770
-#EXTINF:-1,BR: ESPN EXTRA FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80771
-#EXTINF:-1,BR: PREMIER FHD 5                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80772
-#EXTINF:-1,BR: PREMIER FHD 6                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80773
-#EXTINF:-1,BR: RED BULL TV  FHD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80774
-#EXTINF:-1,BR: ESPN FHD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80775
-#EXTINF:-1,BR: Fox Sports SD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80776
-#EXTINF:-1,BR: Combate SD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80777
-#EXTINF:-1,BR: sportv 2 sd                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80778
-#EXTINF:-1,BR: band sports sd                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80779
-#EXTINF:-1,BR: sportv 3 sd                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80780
-#EXTINF:-1,BR: premier 4 sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80781
-#EXTINF:-1,BR: premier 7 sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80782
-#EXTINF:-1,BR: premier 1 sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80783
-#EXTINF:-1,BR: ESPN BRASIL HD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80784
-#EXTINF:-1,BR: ESPN 2 HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80785
-#EXTINF:-1,BR: ESPN EXTRA HD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80786
-#EXTINF:-1,BR: PREMIER HD 1                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80787
-#EXTINF:-1,BR: PREMIER HD 4                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80788
-#EXTINF:-1,BR: PREMIER HD 2                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80789
-#EXTINF:-1,BR: PREMIER HD 3                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80790
-#EXTINF:-1,BR: PREMIER HD 5                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80791
-#EXTINF:-1,BR: PREMIER HD 6                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80792
-#EXTINF:-1,BR: Sportv HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80793
-#EXTINF:-1,BR: Sportv HD 2                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80794
-#EXTINF:-1,BR: SPORTV HD 3                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80795
-#EXTINF:-1,BR: BAND SPORTS HD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80796
-#EXTINF:-1,BR: ALL SPORTS HD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80797
-#EXTINF:-1,BR: Fox Sports 2 HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80798
-#EXTINF:-1,BR: ESPN HD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80799
-#EXTINF:-1,BR: BAND FHD dual audio                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80800
-#EXTINF:-1,BR: Band News FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80801
-#EXTINF:-1,BR: Record FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80802
-#EXTINF:-1,BR: Record News FHD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80803
-#EXTINF:-1,BR: GLOOB FHD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80804
-#EXTINF:-1,BR: Sbt  sp FHD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80805
-#EXTINF:-1,BR: MAIS GLOBO SAT FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80806
-#EXTINF:-1,BR: GLOBO HD 2 RJ dual audio             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80807
-#EXTINF:-1,BR: GLOBO tv cambugi                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80808
-#EXTINF:-1,BR: GLOBO VERDES MARES HD                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80809
-#EXTINF:-1,BR: GLOBO MINAS HD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80810
-#EXTINF:-1,BR: GLOBO MINAS SD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80811
-#EXTINF:-1,BR: GLOBO NORDESTE FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80812
-#EXTINF:-1,BR: GLOBO FHD  sp                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80813
-#EXTINF:-1,BR: GLOBO BRASILIA SD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80814
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS SD               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80815
-#EXTINF:-1,BR: GLOBO EPTV RIBEIRAO PRETO SD         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80816
-#EXTINF:-1,BR: GLOBO EPTV SAO CARLOS SD             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80817
-#EXTINF:-1,BR: GLOBO HD SP                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80818
-#EXTINF:-1,BR: GLOBO INTER TV CABUGI SD             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80819
-#EXTINF:-1,BR: GLOBO NEWS FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80820
-#EXTINF:-1,BR: GLOBO NORDESTE SD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80821
-#EXTINF:-1,BR: GLOBO REDE AMAZONICA MANAUS SD       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80822
-#EXTINF:-1,BR: GLOBO RJ SD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80823
-#EXTINF:-1,BR: GLOBO RPC TV CURITIBA HD             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80824
-#EXTINF:-1,BR: GLOBO TV ANHANGUERA GOIANIA SD       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80825
-#EXTINF:-1,BR: GLOBO TV BAHIA SD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80826
-#EXTINF:-1,BR: GLOBO TV CENTRO AMERICA CUIABA SD    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80827
-#EXTINF:-1,BR: GLOBO TV LIBERAL BELEM SD            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80828
-#EXTINF:-1,BR: GLOBO TV TEM BAURU SD                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80829
-#EXTINF:-1,BR: GLOBO TV TEM SOROCABA SD             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80830
-#EXTINF:-1,BR: GLOBO TV TRIBUNA SANTOS SD           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80831
-#EXTINF:-1,BR: GLOBO TV VANGUARDA S. J. DOS CAMPOS SPOS SD
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80832
-#EXTINF:-1,BR: GLOBO BRASILIA HD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80833
-#EXTINF:-1,BR: GLOBO TV VERDES MARES SD             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80834
-#EXTINF:-1,BR: GLOBO FHD GOIAS                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80835
-#EXTINF:-1,BR: GLOBO RJ HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80836
-#EXTINF:-1,BR: GLOBO VERDES FHD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80837
-#EXTINF:-1,BR: GLOBO VERDES MARES HD                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80838
-#EXTINF:-1,BR: GLOBO NSC FLORIANOPOLIS FHD          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80839
-#EXTINF:-1,BR: GLOBO NSC FLORIANOPOLIS HD           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80840
-#EXTINF:-1,BR: globo rbs porto alegre sd            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80841
-#EXTINF:-1,BR: GLOBO RBS FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80842
-#EXTINF:-1,BR: GLOBO RBS HD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80843
-#EXTINF:-1,BR: REDE TV SD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80844
-#EXTINF:-1,BR: sbt parana sd                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80845
-#EXTINF:-1,BR: RECORD HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80846
-#EXTINF:-1,BR: Sbt sp HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80847
-#EXTINF:-1,BR: sbt sp sd                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80848
-#EXTINF:-1,BR: BAND NEWS HD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80849
-#EXTINF:-1,BR: A&E FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80850
-#EXTINF:-1,BR: AXN FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80851
-#EXTINF:-1,BR: FOX FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80852
-#EXTINF:-1,BR: FOX LIFE FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80853
-#EXTINF:-1,BR: Fox Premium FHD 1                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80854
-#EXTINF:-1,BR: FOX PREMIUM FHD 2 dual audio         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80855
-#EXTINF:-1,BR: Hbo 2 FHD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80856
-#EXTINF:-1,BR: Hbo FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80857
-#EXTINF:-1,BR: HBO PLUS FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80858
-#EXTINF:-1,BR: MAX PRIME FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80859
-#EXTINF:-1,BR: WARNER CHANNEL FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80860
-#EXTINF:-1,BR: STUDIO UNIVERSAL FHD H265 dual audio io
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80861
-#EXTINF:-1,BR: TNT SERIES FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80862
-#EXTINF:-1,BR: Telecine Touch FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80863
-#EXTINF:-1,BR: Telecine Premium FHD                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80864
-#EXTINF:-1,BR: Telecine Pipoca  FHD                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80865
-#EXTINF:-1,BR: Telecine Fun FHD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80866
-#EXTINF:-1,BR: Telecine Action FHD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80867
-#EXTINF:-1,BR: ARTE 1 FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80868
-#EXTINF:-1,BR: CINEMAX FHD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80869
-#EXTINF:-1,BR: FX FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80870
-#EXTINF:-1,BR: HBO SIGNATURE FHD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80871
-#EXTINF:-1,BR: MAX FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80872
-#EXTINF:-1,BR: MAX FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80873
-#EXTINF:-1,BR: FILM ARTS FHD dual audio             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80874
-#EXTINF:-1,BR: HBO FAMILY FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80875
-#EXTINF:-1,BR: TNT FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80876
-#EXTINF:-1,BR: MAX UP FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80877
-#EXTINF:-1,BR: MEGA PIX FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80878
-#EXTINF:-1,BR: TELECINE CULT FHD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80879
-#EXTINF:-1,BR: UNIVERSAL CHANNEL FHD                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80880
-#EXTINF:-1,BR: AMC SD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80881
-#EXTINF:-1,BR: COMEDY SD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80882
-#EXTINF:-1,BR: MAX SD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80883
-#EXTINF:-1,BR: FISH TV SD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80884
-#EXTINF:-1,BR: FOX LIFE SD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80885
-#EXTINF:-1,BR: FX SD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80886
-#EXTINF:-1,BR: studio universal sd                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80887
-#EXTINF:-1,BR: a&e sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80888
-#EXTINF:-1,BR: axn sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80889
-#EXTINF:-1,BR: tcm sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80890
-#EXTINF:-1,BR: telecine action sd                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80891
-#EXTINF:-1,BR: cinemax sd                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80892
-#EXTINF:-1,BR: gnt sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80893
-#EXTINF:-1,BR: hbo 2 sd                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80894
-#EXTINF:-1,BR: hbo plus sd                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80895
-#EXTINF:-1,BR: paramount sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80896
-#EXTINF:-1,BR: hbo sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80897
-#EXTINF:-1,BR: nhk sd                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80898
-#EXTINF:-1,BR: filmes artes sd                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80899
-#EXTINF:-1,BR: food network sd                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80900
-#EXTINF:-1,BR: life time sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80901
-#EXTINF:-1,BR: max prime sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80902
-#EXTINF:-1,BR: FOX LIFE HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80903
-#EXTINF:-1,BR: Fox Premium 2 HD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80904
-#EXTINF:-1,BR: HBO  HD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80905
-#EXTINF:-1,BR: Hbo 2 HD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80906
-#EXTINF:-1,BR: HBO PLUS HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80907
-#EXTINF:-1,BR: Telecine Action HD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80908
-#EXTINF:-1,BR: Telecine Fun HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80909
-#EXTINF:-1,BR: Telecine Pipoca HD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80910
-#EXTINF:-1,BR: Telecine Premium HD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80911
-#EXTINF:-1,BR: Telecine Touch HD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80912
-#EXTINF:-1,BR: TLC HD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80913
-#EXTINF:-1,BR: TNT SERIES HD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80914
-#EXTINF:-1,BR: AXN HD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80915
-#EXTINF:-1,BR: AMC HD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80916
-#EXTINF:-1,BR: A&E HD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80917
-#EXTINF:-1,BR: ARTE 1 HD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80918
-#EXTINF:-1,BR: CANAL SONY HD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80919
-#EXTINF:-1,BR: CINEMAX HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80920
-#EXTINF:-1,BR: COMEDY HD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80921
-#EXTINF:-1,BR: TNT HD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80922
-#EXTINF:-1,BR: MAX PRIME HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80923
-#EXTINF:-1,BR: MEGA PIX HD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80924
-#EXTINF:-1,BR: TELECINE CULT HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80925
-#EXTINF:-1,BR: HBO SIGNATURE HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80926
-#EXTINF:-1,BR: AMC SD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80927
-#EXTINF:-1,BR: ANIMAL PLANET FHD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80928
-#EXTINF:-1,BR: Discovery Turbo FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80929
-#EXTINF:-1,BR: DISCOVERY THEATER FHD                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80930
-#EXTINF:-1,BR: DISCOVERY KIDS FHD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80931
-#EXTINF:-1,BR: DISCOVERY WORLD FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80932
-#EXTINF:-1,BR: DISNEY CHANNEL FHD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80933
-#EXTINF:-1,BR: FOOD NETWORK FHD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80934
-#EXTINF:-1,BR: DISCOVERY CHANNEL FHD                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80935
-#EXTINF:-1,BR: FISH TV FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80936
-#EXTINF:-1,BR: TV GAZETA FHD sp                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80937
-#EXTINF:-1,BR: ANIMAL PLANET SD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80938
-#EXTINF:-1,BR: HISTORY SD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80939
-#EXTINF:-1,BR: discovery channel sd                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80940
-#EXTINF:-1,BR: discovery h&h sd                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80941
-#EXTINF:-1,BR: natgeo wild sd                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80942
-#EXTINF:-1,BR: DISCOVERY TURBO HD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80943
-#EXTINF:-1,BR: HISTORY HD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80944
-#EXTINF:-1,BR: DISCOVERY CHANNEL HD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80945
-#EXTINF:-1,BR: DISCOVERY H&H HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80946
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80947
-#EXTINF:-1,BR: DISCOVERY THEATER HD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80948
-#EXTINF:-1,BR: DISCOVERY WORLD HD                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80949
-#EXTINF:-1,BR: DISNEY CHANNEL HD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80950
-#EXTINF:-1,BR: Cartoon Network FHD                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80951
-#EXTINF:-1,BR: NATGEO KIDS FHD dual audio            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80952
-#EXTINF:-1,BR: BOOMBERANG FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80953
-#EXTINF:-1,BR: DISNEY JR FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80954
-#EXTINF:-1,BR: DISNEY XD FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80955
-#EXTINF:-1,BR: NATGEO WILD FHD dual audio            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80956
-#EXTINF:-1,BR: NICK JR FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80957
-#EXTINF:-1,BR: PARAMOUNT FHD dual audio              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80958
-#EXTINF:-1,BR: NICKLODEON FHD dual audio             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80959
-#EXTINF:-1,BR: BABY TV SD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80960
-#EXTINF:-1,BR: boomberang sd                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80961
-#EXTINF:-1,BR: cartoon network sd                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80962
-#EXTINF:-1,BR: disney sd                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80963
-#EXTINF:-1,BR: nick jr sd                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80964
-#EXTINF:-1,BR: tooncast sd                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80965
-#EXTINF:-1,BR: BOOMBERANG HD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80966
-#EXTINF:-1,BR: DISCOVERY KIDS HD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80967
-#EXTINF:-1,BR: DISNEY JR HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80968
-#EXTINF:-1,BR: NICK  JR HD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80969
-#EXTINF:-1,BR: NATGEO KIDS HD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80970
-#EXTINF:-1,BR: DISNEY XD HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80971
-#EXTINF:-1,BR: TOONCAST HD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80972
-#EXTINF:-1,BR: NICK HD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80973
-#EXTINF:-1,BR: FOOD NETWORK HD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80974
-#EXTINF:-1,BR: NATGEO WILD HD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80975
-#EXTINF:-1,BR: MTV LIVE FHD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80976
-#EXTINF:-1,BR: DOG TV FHD                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80977
-#EXTINF:-1,BR: CANAL BRASIL FHD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80978
-#EXTINF:-1,BR: HISTORY FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80979
-#EXTINF:-1,BR: LIFE TIME FHD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80980
-#EXTINF:-1,BR: MTV FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80981
-#EXTINF:-1,BR: MULTISHOW  FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80982
-#EXTINF:-1,BR: SYFY FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80983
-#EXTINF:-1,BR: TBS FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80984
-#EXTINF:-1,BR: TV CULTURA FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80985
-#EXTINF:-1,BR: VH1 FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80986
-#EXTINF:-1,BR: GNT FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80987
-#EXTINF:-1,BR: LOVE NATURAL FHD dual audio           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80988
-#EXTINF:-1,BR: TLC FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80989
-#EXTINF:-1,BR: VIVA FHD                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80990
-#EXTINF:-1,BR: WOHOO FHD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80991
-#EXTINF:-1,BR: BIS FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80992
-#EXTINF:-1,BR: OFF FHD                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80993
-#EXTINF:-1,BR: ZOOMO FHD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80994
-#EXTINF:-1,BR: TRAVEL BOX FHD                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80995
-#EXTINF:-1,BR: TV NOVO TEMPO FHD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80996
-#EXTINF:-1,BR: TV RATIMBUM FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80997
-#EXTINF:-1,BR: GUIA FUTEBOL FHD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80998
-#EXTINF:-1,BR: IDEAL TV FHD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/80999
-#EXTINF:-1,BR: MEGA TV FHD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81000
-#EXTINF:-1,BR: REDE GOSPEL FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81001
-#EXTINF:-1,BR: SMITHSONIAN FHD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81002
-#EXTINF:-1,BR: BIS SD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81003
-#EXTINF:-1,BR: BOA VONTADE TV SD                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81004
-#EXTINF:-1,BR: CNN INTERNACIONAL SD                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81005
-#EXTINF:-1,BR: CANAL BRASIL SD                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81006
-#EXTINF:-1,BR: play tv sd                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81007
-#EXTINF:-1,BR: prime box sd                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81008
-#EXTINF:-1,BR: sic sd                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81009
-#EXTINF:-1,BR: DOG TV HD                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81010
-#EXTINF:-1,BR: MIAMI TV HD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81011
-#EXTINF:-1,BR: MTV HD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81012
-#EXTINF:-1,BR: MTV LIVE HD                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81013
-#EXTINF:-1,BR: TV CULTURA HD*                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81014
-#EXTINF:-1,BR: TV GAZETA HD                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81015
-#EXTINF:-1,BR: TV VITORIA ES HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81016
-#EXTINF:-1,BR: TV CULTURA SD                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81017
-#EXTINF:-1,BR: BIS HD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81018
-#EXTINF:-1,BR: RECORD PARANA HD                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81019
-#EXTINF:-1,BR: ID HD.                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/81020
+#EXTINF:-1 group-title="Canais Brasil" ,BR| a&amp;e sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99184
+#EXTINF:-1,BR| ALL SPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99367
+#EXTINF:-1,BR| AMC HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99372
+#EXTINF:-1,BR| AMC SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99162
+#EXTINF:-1,BR| ANIMAL PLANET 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99437
+#EXTINF:-1,BR| ANIMAL PLANET FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99023
+#EXTINF:-1,BR| ANIMAL PLANET HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99389
+#EXTINF:-1,BR| ANIMAL PLANET SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99170
+#EXTINF:-1,BR| ARTE 1 FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99063
+#EXTINF:-1,BR| ARTE 1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99374
+#EXTINF:-1,BR| AXN FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99024
+#EXTINF:-1,BR| AXN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99371
+#EXTINF:-1,BR| axn sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99185
+#EXTINF:-1,BR| BABY TV SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99163
+#EXTINF:-1,BR| BAND 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99429
+#EXTINF:-1,BR| BAND FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99025
+#EXTINF:-1,BR| Band Hd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99315
+#EXTINF:-1,BR| Band News FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99026
+#EXTINF:-1,BR| BAND NEWS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99375
+#EXTINF:-1,BR| BAND SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99164
+#EXTINF:-1,BR| Band Sports FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99027
+#EXTINF:-1,BR| BAND SPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99366
+#EXTINF:-1,BR| band sports sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99193
+#EXTINF:-1,BR| BIS FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99109
+#EXTINF:-1,BR| BIS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99370
+#EXTINF:-1,BR| BIS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99165
+#EXTINF:-1,BR| BLOOMBERG INTERNATIONAL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99133
+#EXTINF:-1,BR| BOA VONTADE TV SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99166
+#EXTINF:-1,BR| BOOMBERANG FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99064
+#EXTINF:-1,BR| BOOMBERANG HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99316
+#EXTINF:-1,BR| boomberang sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99211
+#EXTINF:-1,BR| CAMPEONATO CATARINENSE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99421
+#EXTINF:-1,BR| CANAL 26 ARGENTINA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99317
+#EXTINF:-1,BR| CANAL BRASIL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99065
+#EXTINF:-1,BR| CANAL BRASIL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99376
+#EXTINF:-1,BR| CANAL BRASIL SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99174
+#EXTINF:-1,BR| canal do boi sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99234
+#EXTINF:-1,BR| canal rural sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99235
+#EXTINF:-1,BR| CANAL SONY FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99089
+#EXTINF:-1,BR| CANAL SONY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99377
+#EXTINF:-1,BR| canal sony sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99240
+#EXTINF:-1,BR| CANÃAO NOVA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99186
+#EXTINF:-1,BR| CARTOON 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99440
+#EXTINF:-1,BR| CARTOON HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99378
+#EXTINF:-1,BR| Cartoon Network FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99028
+#EXTINF:-1,BR| cartoon network sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99212
+#EXTINF:-1,BR| CINE SKY 1
+http://nomorecable.xyz:80/amadeustr1117894/683819/99474
+#EXTINF:-1,BR| CINE SKY 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99475
+#EXTINF:-1,BR| CINE SKY 3
+http://nomorecable.xyz:80/amadeustr1117894/683819/99476
+#EXTINF:-1,BR| CINEMAX dual audio FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99066
+#EXTINF:-1,BR| CINEMAX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99379
+#EXTINF:-1,BR| cinemax sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99190
+#EXTINF:-1,BR| CNN BRASIL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99134
+#EXTINF:-1,BR| CNN BRASIL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99422
+#EXTINF:-1,BR| cnn brasil sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99310
+#EXTINF:-1,BR| CNN INTERNACIONAL SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99167
+#EXTINF:-1,BR| COMBATE 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99430
+#EXTINF:-1,BR| COMBATE FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99029
+#EXTINF:-1,BR| COMBATE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99380
+#EXTINF:-1,BR| Combate SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99175
+#EXTINF:-1,BR| COMEDY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99381
+#EXTINF:-1,BR| COMEDY SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99173
+#EXTINF:-1,BR| DAZN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99457
+#EXTINF:-1,BR| DISCOVERY CHANNEL 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99434
+#EXTINF:-1,BR| DISCOVERY CHANNEL FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99097
+#EXTINF:-1,BR| DISCOVERY CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99382
+#EXTINF:-1,BR| discovery channel sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99195
+#EXTINF:-1,BR| DISCOVERY H&amp;H FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99116
+#EXTINF:-1,BR| DISCOVERY H&amp;H HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99383
+#EXTINF:-1,BR| discovery h&amp;h sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99196
+#EXTINF:-1,BR| DISCOVERY KIDS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99068
+#EXTINF:-1,BR| DISCOVERY KIDS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99318
+#EXTINF:-1,BR| discovery kids sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99197
+#EXTINF:-1,BR| discovery science dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99250
+#EXTINF:-1,BR| DISCOVERY SCIENCE FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99103
+#EXTINF:-1,BR| DISCOVERY SCIENCE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99384
+#EXTINF:-1,BR| DISCOVERY THEATER FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99067
+#EXTINF:-1,BR| DISCOVERY THEATER FHD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99469
+#EXTINF:-1,BR| DISCOVERY THEATER HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99385
+#EXTINF:-1,BR| DISCOVERY THEATER HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99468
+#EXTINF:-1,BR| discovery theater sd dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99249
+#EXTINF:-1,BR| Discovery Turbo FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99030
+#EXTINF:-1,BR| DISCOVERY TURBO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99319
+#EXTINF:-1,BR| discovery world dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99252
+#EXTINF:-1,BR| DISCOVERY WORLD FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99069
+#EXTINF:-1,BR| DISCOVERY WORLD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99386
+#EXTINF:-1,BR| DISNEY CHANNEL FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99070
+#EXTINF:-1,BR| DISNEY CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99387
+#EXTINF:-1,BR| disney channel sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99305
+#EXTINF:-1,BR| DISNEY JR FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99071
+#EXTINF:-1,BR| DISNEY JR HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99320
+#EXTINF:-1,BR| DISNEY JR SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99168
+#EXTINF:-1,BR| disney sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99213
+#EXTINF:-1,BR| DISNEY XD FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99072
+#EXTINF:-1,BR| DISNEY XD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99369
+#EXTINF:-1,BR| disney xd sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99262
+#EXTINF:-1,BR| dw sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99261
+#EXTINF:-1,BR| ESPN  BRASIL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99321
+#EXTINF:-1,BR| ESPN 2 FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99031
+#EXTINF:-1,BR| ESPN 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99322
+#EXTINF:-1,BR| espn 2 sd dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99253
+#EXTINF:-1,BR| ESPN 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99444
+#EXTINF:-1,BR| espn brasil sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99214
+#EXTINF:-1,BR| espn extra dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99254
+#EXTINF:-1,BR| ESPN EXTRA FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99073
+#EXTINF:-1,BR| ESPN EXTRA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99323
+#EXTINF:-1,BR| ESPN FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99124
+#EXTINF:-1,BR| ESPN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99388
+#EXTINF:-1,BR| espn sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99258
+#EXTINF:-1,BR| EUROCHANNEL FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99128
+#EXTINF:-1,BR| FASHION FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99096
+#EXTINF:-1,BR| FASHION TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99394
+#EXTINF:-1,BR| FILM ARTS FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99095
+#EXTINF:-1,BR| filmes artes sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99215
+#EXTINF:-1,BR| FISH HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99393
+#EXTINF:-1,BR| FISH TV FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99100
+#EXTINF:-1,BR| FISH TV SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99177
+#EXTINF:-1,BR| FOOD NETWORK HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99402
+#EXTINF:-1,BR| food network sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99216
+#EXTINF:-1,BR| FOX 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99456
+#EXTINF:-1,BR| FOX FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99032
+#EXTINF:-1,BR| FOX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99413
+#EXTINF:-1,BR| FOX LIFE FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99033
+#EXTINF:-1,BR| FOX LIFE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99324
+#EXTINF:-1,BR| FOX LIFE SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99178
+#EXTINF:-1,BR| fox premium 1 dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99256
+#EXTINF:-1,BR| FOX PREMIUM 1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99414
+#EXTINF:-1,BR| FOX PREMIUM 1 HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99472
+#EXTINF:-1,BR| fox premium 2 dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99255
+#EXTINF:-1,BR| Fox Premium 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99325
+#EXTINF:-1,BR| Fox Premium FHD 1 dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99034
+#EXTINF:-1,BR| FOX PREMIUM FHD 2 dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99035
+#EXTINF:-1,BR| fox sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99217
+#EXTINF:-1,BR| FOX SPORTS 2 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99442
+#EXTINF:-1,BR| Fox Sports 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99368
+#EXTINF:-1,BR| FOX SPORTS 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99435
+#EXTINF:-1,BR| Fox Sports FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99036
+#EXTINF:-1,BR| Fox Sports FHD 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99037
+#EXTINF:-1,BR| FOX SPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99364
+#EXTINF:-1,BR| FOX SPORTS HD 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99022
+#EXTINF:-1,BR| Fox Sports SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99169
+#EXTINF:-1,BR| FX DUAL AUDIO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99416
+#EXTINF:-1,BR| FX FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99074
+#EXTINF:-1,BR| FX SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99179
+#EXTINF:-1,BR| GAZETA 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99450
+#EXTINF:-1,BR| gazeta sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99301
+#EXTINF:-1,BR| GLOBO 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99431
+#EXTINF:-1,BR| GLOBO BRASILIA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99147
+#EXTINF:-1,BR| GLOBO BRASILIA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99269
+#EXTINF:-1,BR| globo curitiba sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99288
+#EXTINF:-1,BR| GLOBO EPTV CAMPINAS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99274
+#EXTINF:-1,BR| GLOBO EPTV RIBEIRAO PRETO SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99275
+#EXTINF:-1,BR| GLOBO EPTV SAO CARLOS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99276
+#EXTINF:-1,BR| GLOBO FHD   sp
+http://nomorecable.xyz:80/amadeustr1117894/683819/99143
+#EXTINF:-1,BR| GLOBO HD 2 RJ dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99138
+#EXTINF:-1,BR| GLOBO HD SP
+http://nomorecable.xyz:80/amadeustr1117894/683819/99144
+#EXTINF:-1,BR| GLOBO INTER TV CABUGI SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99278
+#EXTINF:-1,BR| GLOBO MATO GROSSO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99156
+#EXTINF:-1,BR| GLOBO MATO GROSSO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99157
+#EXTINF:-1,BR| GLOBO MINAS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99154
+#EXTINF:-1,BR| GLOBO MINAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99141
+#EXTINF:-1,BR| GLOBO MINAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99155
+#EXTINF:-1,BR| GLOBO MINAS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99268
+#EXTINF:-1,BR| GLOBO NEWS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99145
+#EXTINF:-1,BR| GLOBO NEWS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99404
+#EXTINF:-1,BR| globo news sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99307
+#EXTINF:-1,BR| GLOBO NORDESTE FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99142
+#EXTINF:-1,BR| GLOBO NORDESTE SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99277
+#EXTINF:-1,BR| GLOBO NSC FLORIANOPOLIS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99150
+#EXTINF:-1,BR| GLOBO NSC FLORIANOPOLIS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99151
+#EXTINF:-1,BR| globo porto alegre sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99289
+#EXTINF:-1,BR| GLOBO RBS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99152
+#EXTINF:-1,BR| GLOBO RBS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99153
+#EXTINF:-1,BR| globo rbs porto alegre sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99286
+#EXTINF:-1,BR| GLOBO REDE AMAZONICA MANAUS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99279
+#EXTINF:-1,BR| GLOBO RJ FHD H.265
+http://nomorecable.xyz:80/amadeustr1117894/683819/99160
+#EXTINF:-1,BR| GLOBO RJ hd sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99314
+#EXTINF:-1,BR| GLOBO RJ SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99270
+#EXTINF:-1,BR| GLOBO RPC TV CURITIBA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99146
+#EXTINF:-1,BR| GLOBO sd GOIAS
+http://nomorecable.xyz:80/amadeustr1117894/683819/99313
+#EXTINF:-1,BR| globo sp sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99263
+#EXTINF:-1,BR| GLOBO TV ANHANGUERA GOIANIA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99271
+#EXTINF:-1,BR| GLOBO TV BAHIA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99280
+#EXTINF:-1,BR| GLOBO tv cambugi
+http://nomorecable.xyz:80/amadeustr1117894/683819/99139
+#EXTINF:-1,BR| GLOBO TV CENTRO AMERICA CUIABA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99281
+#EXTINF:-1,BR| GLOBO TV DIARIO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99161
+#EXTINF:-1,BR| GLOBO TV LIBERAL BELEM SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99282
+#EXTINF:-1,BR| GLOBO TV MIRANTE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99159
+#EXTINF:-1,BR| GLOBO TV MIRANTE MARANHAO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99158
+#EXTINF:-1,BR| GLOBO TV TEM BAURU SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99272
+#EXTINF:-1,BR| GLOBO TV TEM SOROCABA SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99273
+#EXTINF:-1,BR| GLOBO TV TRIBUNA SANTOS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99284
+#EXTINF:-1,BR| GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99283
+#EXTINF:-1,BR| GLOBO TV VERDES MARES SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99285
+#EXTINF:-1,BR| GLOBO VERDES FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99148
+#EXTINF:-1,BR| GLOBO VERDES MARES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99140
+#EXTINF:-1,BR| GLOBO VERDES MARES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99149
+#EXTINF:-1,BR| GLOOB FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99075
+#EXTINF:-1,BR| GLOOB HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99363
+#EXTINF:-1,BR| gloob sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99206
+#EXTINF:-1,BR| GNT FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99099
+#EXTINF:-1,BR| gnt sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99199
+#EXTINF:-1,BR| GUIA FUTEBOL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99117
+#EXTINF:-1,BR| H2 FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99038
+#EXTINF:-1,BR| H2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99410
+#EXTINF:-1,BR| h2 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99236
+#EXTINF:-1,BR| HBO   HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99328
+#EXTINF:-1,BR| HBO   PLUS HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99459
+#EXTINF:-1,BR| HBO  FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99127
+#EXTINF:-1,BR| HBO  HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99326
+#EXTINF:-1,BR| HBO  HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99460
+#EXTINF:-1,BR| Hbo 2 FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99039
+#EXTINF:-1,BR| Hbo 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99327
+#EXTINF:-1,BR| hbo 2 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99198
+#EXTINF:-1,BR| HBO 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99448
+#EXTINF:-1,BR| HBO FAMILY FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99101
+#EXTINF:-1,BR| HBO FAMILY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99415
+#EXTINF:-1,BR| hbo family sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99242
+#EXTINF:-1,BR| Hbo FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99040
+#EXTINF:-1,BR| HBO FHD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99462
+#EXTINF:-1,BR| HBO MUNDI dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99078
+#EXTINF:-1,BR| HBO MUNDI FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99130
+#EXTINF:-1,BR| HBO PLUS   FHD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99463
+#EXTINF:-1,BR| HBO PLUS   HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99461
+#EXTINF:-1,BR| HBO PLUS FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99041
+#EXTINF:-1,BR| hbo plus sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99200
+#EXTINF:-1,BR| HBO POP FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99132
+#EXTINF:-1,BR| hbo pop sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99308
+#EXTINF:-1,BR| hbo sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99207
+#EXTINF:-1,BR| HBO SIGNATURA HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99458
+#EXTINF:-1,BR| HBO SIGNATURE FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99076
+#EXTINF:-1,BR| HBO SIGNATURE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99405
+#EXTINF:-1,BR| hbo signature sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99241
+#EXTINF:-1,BR| HBO XTREAM 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99454
+#EXTINF:-1,BR| HBO XTREME FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99131
+#EXTINF:-1,BR| HGTV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99423
+#EXTINF:-1,BR| HISTORY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99329
+#EXTINF:-1,BR| HISTORY SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99171
+#EXTINF:-1,BR| ID HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99407
+#EXTINF:-1,BR| id sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99264
+#EXTINF:-1,BR| ideal sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99218
+#EXTINF:-1,BR| IDEAL TV FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99118
+#EXTINF:-1,BR| LIFE TIME FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99077
+#EXTINF:-1,BR| life time sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99219
+#EXTINF:-1,BR| LIVE 1 CP
+http://nomorecable.xyz:80/amadeustr1117894/683819/99420
+#EXTINF:-1,BR| LIVE 2 ES
+http://nomorecable.xyz:80/amadeustr1117894/683819/99409
+#EXTINF:-1,BR| LOVE NATURAL FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99102
+#EXTINF:-1,BR| MAIS GLOBO SAT FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99110
+#EXTINF:-1,BR| mais globo sat sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99210
+#EXTINF:-1,BR| MAX PRIME FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99042
+#EXTINF:-1,BR| MAX PRIME HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99391
+#EXTINF:-1,BR| max prime sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99220
+#EXTINF:-1,BR| MAX SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99176
+#EXTINF:-1,BR| MAX UP FHD  dublado
+http://nomorecable.xyz:80/amadeustr1117894/683819/99108
+#EXTINF:-1,BR| MAXPRIME HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99330
+#EXTINF:-1,BR| MEGA PIX FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99125
+#EXTINF:-1,BR| MEGA PIX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99395
+#EXTINF:-1,BR| MEGA TV FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99119
+#EXTINF:-1,BR| mega tv sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99266
+#EXTINF:-1,BR| MEGAPIX 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99441
+#EXTINF:-1,BR| MEGAPIX sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99192
+#EXTINF:-1,BR| MIAMI TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99331
+#EXTINF:-1,BR| MLB HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99332
+#EXTINF:-1,BR| MTV FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99079
+#EXTINF:-1,BR| MTV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99333
+#EXTINF:-1,BR| MTV LIVE FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99043
+#EXTINF:-1,BR| MTV LIVE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99334
+#EXTINF:-1,BR| mtv sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99265
+#EXTINF:-1,BR| MULTISHOW  FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99080
+#EXTINF:-1,BR| MULTISHOW 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99439
+#EXTINF:-1,BR| multishow sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99209
+#EXTINF:-1,BR| music box brazil sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99298
+#EXTINF:-1,BR| NATGEO 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99443
+#EXTINF:-1,BR| natgeo dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99257
+#EXTINF:-1,BR| NatGeo FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99044
+#EXTINF:-1,BR| NATGEO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99411
+#EXTINF:-1,BR| NATGEO KIDS FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99045
+#EXTINF:-1,BR| NATGEO KIDS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99392
+#EXTINF:-1,BR| natgeo kids sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99306
+#EXTINF:-1,BR| NATGEO WILD FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99081
+#EXTINF:-1,BR| NATGEO WILD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99408
+#EXTINF:-1,BR| natgeo wild sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99221
+#EXTINF:-1,BR| nhk sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99208
+#EXTINF:-1,BR| NHK WORLD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99365
+#EXTINF:-1,BR| NICK  JR HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99335
+#EXTINF:-1,BR| NICK HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99401
+#EXTINF:-1,BR| NICK JR FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99082
+#EXTINF:-1,BR| nick jr sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99222
+#EXTINF:-1,BR| NICKLODEON FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99123
+#EXTINF:-1,BR| nicklodeon sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99304
+#EXTINF:-1,BR| OFF FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99111
+#EXTINF:-1,BR| off sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99237
+#EXTINF:-1,BR| PARAMOUNT DUAL AUDIO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99417
+#EXTINF:-1,BR| PARAMOUNT FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99083
+#EXTINF:-1,BR| paramount sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99201
+#EXTINF:-1,BR| play tv sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99180
+#EXTINF:-1,BR| Playboy FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99060
+#EXTINF:-1,BR| Playboy HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99342
+#EXTINF:-1,BR| playboy sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99300
+#EXTINF:-1,BR| polishop sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99267
+#EXTINF:-1,BR| PORNO 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99451
+#EXTINF:-1,BR| premier 1 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99231
+#EXTINF:-1,BR| PREMIER 2 FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99057
+#EXTINF:-1,BR| premier 2 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99244
+#EXTINF:-1,BR| PREMIER 3 FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99058
+#EXTINF:-1,BR| premier 3 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99243
+#EXTINF:-1,BR| PREMIER 4 FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99059
+#EXTINF:-1,BR| premier 4 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99223
+#EXTINF:-1,BR| PREMIER 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99433
+#EXTINF:-1,BR| premier 5 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99245
+#EXTINF:-1,BR| premier 6 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99246
+#EXTINF:-1,BR| premier 7 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99224
+#EXTINF:-1,BR| premier 8 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99225
+#EXTINF:-1,BR| PREMIER CLUB FHD 1
+http://nomorecable.xyz:80/amadeustr1117894/683819/99056
+#EXTINF:-1,BR| PREMIER CLUBE HD 1
+http://nomorecable.xyz:80/amadeustr1117894/683819/99336
+#EXTINF:-1,BR| PREMIER FHD 5
+http://nomorecable.xyz:80/amadeustr1117894/683819/99084
+#EXTINF:-1,BR| PREMIER FHD 6
+http://nomorecable.xyz:80/amadeustr1117894/683819/99085
+#EXTINF:-1,BR| PREMIER FHD 7
+http://nomorecable.xyz:80/amadeustr1117894/683819/99098
+#EXTINF:-1,BR| PREMIER HD 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99338
+#EXTINF:-1,BR| PREMIER HD 3
+http://nomorecable.xyz:80/amadeustr1117894/683819/99339
+#EXTINF:-1,BR| PREMIER HD 4
+http://nomorecable.xyz:80/amadeustr1117894/683819/99337
+#EXTINF:-1,BR| PREMIER HD 5
+http://nomorecable.xyz:80/amadeustr1117894/683819/99340
+#EXTINF:-1,BR| PREMIER HD 6
+http://nomorecable.xyz:80/amadeustr1117894/683819/99341
+#EXTINF:-1,BR| premiere clubes sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99309
+#EXTINF:-1,BR| prime box sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99191
+#EXTINF:-1,BR| RECORD 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99432
+#EXTINF:-1,BR| Record FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99061
+#EXTINF:-1,BR| RECORD HD RJ
+http://nomorecable.xyz:80/amadeustr1117894/683819/99419
+#EXTINF:-1,BR| RECORD HD sp
+http://nomorecable.xyz:80/amadeustr1117894/683819/99343
+#EXTINF:-1,BR| RECORD MG HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99425
+#EXTINF:-1,BR| Record News FHD  &amp;
+http://nomorecable.xyz:80/amadeustr1117894/683819/99062
+#EXTINF:-1,BR| record news sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99303
+#EXTINF:-1,BR| RECORD PARANA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99406
+#EXTINF:-1,BR| record sp sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99290
+#EXTINF:-1,BR| RED BULL TV  FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99086
+#EXTINF:-1,BR| REDE GOSPEL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99120
+#EXTINF:-1,BR| rede gospel sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99205
+#EXTINF:-1,BR| REDE TV 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99447
+#EXTINF:-1,BR| REDE TV FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99129
+#EXTINF:-1,BR| REDE TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99418
+#EXTINF:-1,BR| REDE TV SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99172
+#EXTINF:-1,BR| REDETV 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99449
+#EXTINF:-1,BR| RIT SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99230
+#EXTINF:-1,BR| sbn sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99259
+#EXTINF:-1,BR| Sbt  sp FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99087
+#EXTINF:-1,BR| SBT 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99436
+#EXTINF:-1,BR| sbt parana sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99233
+#EXTINF:-1,BR| Sbt sp HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99344
+#EXTINF:-1,BR| sbt sp sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99181
+#EXTINF:-1,BR| SEXTREAM HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99403
+#EXTINF:-1,BR| SEXTREME SD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99194
+#EXTINF:-1,BR| Sexy Hot  HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99345
+#EXTINF:-1,BR| SEXY HOT FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99088
+#EXTINF:-1,BR| SHOP TIME HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99373
+#EXTINF:-1,BR| shoptime sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99291
+#EXTINF:-1,BR| sic sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99226
+#EXTINF:-1,BR| SKY NEWS FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99473
+#EXTINF:-1,BR| SMITHSONIAN FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99121
+#EXTINF:-1,BR| SMITHSONIAN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99424
+#EXTINF:-1,BR| SPACE 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99445
+#EXTINF:-1,BR| SPACE FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99054
+#EXTINF:-1,BR| SPACE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99412
+#EXTINF:-1,BR| space sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99239
+#EXTINF:-1,BR| sportv 2 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99182
+#EXTINF:-1,BR| sportv 3 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99202
+#EXTINF:-1,BR| SPORTV 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99438
+#EXTINF:-1,BR| sportv alternativo sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99227
+#EXTINF:-1,BR| SPORTV FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99053
+#EXTINF:-1,BR| Sportv FHD 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99055
+#EXTINF:-1,BR| Sportv HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99346
+#EXTINF:-1,BR| Sportv HD 2
+http://nomorecable.xyz:80/amadeustr1117894/683819/99347
+#EXTINF:-1,BR| SPORTV HD 3
+http://nomorecable.xyz:80/amadeustr1117894/683819/99348
+#EXTINF:-1,BR| sportv sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99297
+#EXTINF:-1,BR| studio universal sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99183
+#EXTINF:-1,BR| SYFY FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99090
+#EXTINF:-1,BR| SYFY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99400
+#EXTINF:-1,BR| syfy sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99228
+#EXTINF:-1,BR| TBS FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99091
+#EXTINF:-1,BR| TBS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99349
+#EXTINF:-1,BR| tbs sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99229
+#EXTINF:-1,BR| tcm sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99187
+#EXTINF:-1,BR| Telecine Action FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99052
+#EXTINF:-1,BR| Telecine Action HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99350
+#EXTINF:-1,BR| telecine action sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99188
+#EXTINF:-1,BR| TELECINE CULT FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99126
+#EXTINF:-1,BR| TELECINE CULT FHD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99467
+#EXTINF:-1,BR| TELECINE CULT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99399
+#EXTINF:-1,BR| TELECINE CULT HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99466
+#EXTINF:-1,BR| telecine cult sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99203
+#EXTINF:-1,BR| Telecine Fun FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99051
+#EXTINF:-1,BR| Telecine Fun HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99351
+#EXTINF:-1,BR| telecine fun sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99204
+#EXTINF:-1,BR| Telecine Pipoca  FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99050
+#EXTINF:-1,BR| TELECINE PIPOCA 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99455
+#EXTINF:-1,BR| telecine pipoca dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99251
+#EXTINF:-1,BR| Telecine Pipoca HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99352
+#EXTINF:-1,BR| TELECINE PREMIUM 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99446
+#EXTINF:-1,BR| Telecine Premium FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99049
+#EXTINF:-1,BR| TELECINE PREMIUM FHD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99465
+#EXTINF:-1,BR| Telecine Premium HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99353
+#EXTINF:-1,BR| TELECINE PREMIUM HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99464
+#EXTINF:-1,BR| telecine premium sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99248
+#EXTINF:-1,BR| Telecine Touch FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99048
+#EXTINF:-1,BR| Telecine Touch HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99354
+#EXTINF:-1,BR| telecine touch sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99247
+#EXTINF:-1,BR| TLC FHD dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99104
+#EXTINF:-1,BR| TLC HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99355
+#EXTINF:-1,BR| tlc sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99292
+#EXTINF:-1,BR| TNT 4K dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99452
+#EXTINF:-1,BR| tnt dual audio sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99287
+#EXTINF:-1,BR| TNT FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99105
+#EXTINF:-1,BR| TNT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99390
+#EXTINF:-1,BR| TNT SERIES 4K
+http://nomorecable.xyz:80/amadeustr1117894/683819/99453
+#EXTINF:-1,BR| TNT SERIES FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99047
+#EXTINF:-1,BR| TNT SERIES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99356
+#EXTINF:-1,BR| tnt series sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99238
+#EXTINF:-1,BR| TOONCAST HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99398
+#EXTINF:-1,BR| tooncast sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99232
+#EXTINF:-1,BR| TRAVEL BOX FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99113
+#EXTINF:-1,BR| tv aparecida sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99312
+#EXTINF:-1,BR| TV CULTURA FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99092
+#EXTINF:-1,BR| TV CULTURA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99357
+#EXTINF:-1,BR| tv cultura sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99260
+#EXTINF:-1,BR| TV EDUCAÃAO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99135
+#EXTINF:-1,BR| TV EDUCAÃAO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99426
+#EXTINF:-1,BR| TV GAZETA FHD sp
+http://nomorecable.xyz:80/amadeustr1117894/683819/99122
+#EXTINF:-1,BR| TV GAZETA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99358
+#EXTINF:-1,BR| tv justiÃ§a sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99293
+#EXTINF:-1,BR| tv mundial sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99311
+#EXTINF:-1,BR| TV NOVO TEMPO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99114
+#EXTINF:-1,BR| tv novo tempo sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99189
+#EXTINF:-1,BR| TV PAMPA RS  HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99359
+#EXTINF:-1,BR| tv ratibum sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99294
+#EXTINF:-1,BR| TV RATIMBUM FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99115
+#EXTINF:-1,BR| TV RATIMBUM HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99397
+#EXTINF:-1,BR| TV RECOMEÃO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99427
+#EXTINF:-1,BR| TV UNIVESP EDUCAÃAO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99137
+#EXTINF:-1,BR| TV UNIVESP EDUCAÃAO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99136
+#EXTINF:-1,BR| TV VITORIA ES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99360
+#EXTINF:-1,BR| UNIVERSAL CHANNEL FHD LEG
+http://nomorecable.xyz:80/amadeustr1117894/683819/99470
+#EXTINF:-1,BR| UNIVERSAL CHANNEL HD LEGENDADO
+http://nomorecable.xyz:80/amadeustr1117894/683819/99471
+#EXTINF:-1,BR| UNIVERSAL TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99428
+#EXTINF:-1,BR| Venus FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99093
+#EXTINF:-1,BR| VENUS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99362
+#EXTINF:-1,BR| venus sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99295
+#EXTINF:-1,BR| VH1 FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99094
+#EXTINF:-1,BR| vh1 sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99299
+#EXTINF:-1,BR| VIVA FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99106
+#EXTINF:-1,BR| viva sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99296
+#EXTINF:-1,BR| WARNER CHANNEL FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99046
+#EXTINF:-1,BR| Warner channel HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99361
+#EXTINF:-1,BR| WOHOO FHD  dual audio
+http://nomorecable.xyz:80/amadeustr1117894/683819/99107
+#EXTINF:-1,BR| woohoo sd
+http://nomorecable.xyz:80/amadeustr1117894/683819/99302
+#EXTINF:-1,BR| ZOOMO FHD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99112
+#EXTINF:-1,BR| ZOOMO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/99396
+#EXTINF:-1,BR | A Fazenda 11 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102155
+#EXTINF:-1,BR | A&amp;E HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102154
+#EXTINF:-1,BR | AMC HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102156
+#EXTINF:-1,BR | ANIMAL PLANET HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102157
+#EXTINF:-1,BR | ARTE 1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102158
+#EXTINF:-1,BR | AXN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102159
+#EXTINF:-1,BR | BABY TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102160
+#EXTINF:-1,BR | BAND NEWS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102161
+#EXTINF:-1,BR | BAND RJ HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102162
+#EXTINF:-1,BR | BAND SP HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102163
+#EXTINF:-1,BR | BAND SPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102164
+#EXTINF:-1,BR | BIS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102165
+#EXTINF:-1,BR | BOOMERANG HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102166
+#EXTINF:-1,BR | CARTOON NETWORK HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102167
+#EXTINF:-1,BR | CINEMAX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102168
+#EXTINF:-1,BR | COMBATE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102169
+#EXTINF:-1,BR | COMEDY CENTRAL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102170
+#EXTINF:-1,BR | CULTURA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102171
+#EXTINF:-1,BR | CURTA! HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102172
+#EXTINF:-1,BR | DAZN BRASIL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102173
+#EXTINF:-1,BR | DISCOVERY CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102174
+#EXTINF:-1,BR | DISCOVERY CIVILIZATION HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102175
+#EXTINF:-1,BR | DISCOVERY HOME &amp; HEALTH HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102176
+#EXTINF:-1,BR | DISCOVERY KIDS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102177
+#EXTINF:-1,BR | DISCOVERY SCIENCE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102178
+#EXTINF:-1,BR | DISCOVERY THEATER HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102179
+#EXTINF:-1,BR | DISCOVERY TLC HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102180
+#EXTINF:-1,BR | DISCOVERY TURBO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102181
+#EXTINF:-1,BR | DISCOVERY WORLD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102182
+#EXTINF:-1,BR | DISNEY CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102183
+#EXTINF:-1,BR | DISNEY JR HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102184
+#EXTINF:-1,BR | DISNEY XD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102185
+#EXTINF:-1,BR | E! HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102186
+#EXTINF:-1,BR | EI PLUS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102187
+#EXTINF:-1,BR | ESPN 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102188
+#EXTINF:-1,BR | ESPN BRASIL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102189
+#EXTINF:-1,BR | ESPN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102190
+#EXTINF:-1,BR | eSPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102191
+#EXTINF:-1,BR | FISH TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102192
+#EXTINF:-1,BR | FOOD NETWORK HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102193
+#EXTINF:-1,BR | FOX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102194
+#EXTINF:-1,BR | FOX LIFE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102195
+#EXTINF:-1,BR | FOX PREMIUM 1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102196
+#EXTINF:-1,BR | FOX PREMIUM 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102197
+#EXTINF:-1,BR | FOX SPORTS 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102198
+#EXTINF:-1,BR | FOX SPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102199
+#EXTINF:-1,BR | FX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102200
+#EXTINF:-1,BR | GINX eSPORTS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102201
+#EXTINF:-1,BR | GLOBO EPTV CAMPINAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102202
+#EXTINF:-1,BR | GLOBO MINAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102203
+#EXTINF:-1,BR | GLOBO NEWS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102204
+#EXTINF:-1,BR | GLOBO NSC TV FLORIANOPOLIS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102205
+#EXTINF:-1,BR | GLOBO RBS POA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102206
+#EXTINF:-1,BR | GLOBO RJ HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102207
+#EXTINF:-1,BR | GLOBO RPC TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102208
+#EXTINF:-1,BR | GLOBO SP HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102210
+#EXTINF:-1,BR | GLOBO TV RIO SUL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102211
+#EXTINF:-1,BR | GLOBOSAT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102209
+#EXTINF:-1,BR | GLOOB HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102212
+#EXTINF:-1,BR | GNT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102213
+#EXTINF:-1,BR | H2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102214
+#EXTINF:-1,BR | HBO 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102215
+#EXTINF:-1,BR | HBO FAMILY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102216
+#EXTINF:-1,BR | HBO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102217
+#EXTINF:-1,BR | HBO PLUS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102218
+#EXTINF:-1,BR | HBO SIGNATURE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102219
+#EXTINF:-1,BR | HISTORY CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102220
+#EXTINF:-1,BR | ID-INVESTIGACAO DISCOVERY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102221
+#EXTINF:-1,BR | LIFETIME HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102222
+#EXTINF:-1,BR | MAX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102223
+#EXTINF:-1,BR | MAX PRIME HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102224
+#EXTINF:-1,BR | MAX UP HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102225
+#EXTINF:-1,BR | MEGAPIX HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102226
+#EXTINF:-1,BR | MTV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102227
+#EXTINF:-1,BR | MTV LIVE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102228
+#EXTINF:-1,BR | MULTISHOW HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102229
+#EXTINF:-1,BR | NATGEO KIDS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102230
+#EXTINF:-1,BR | NATGEO WILD HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102231
+#EXTINF:-1,BR | NATIONAL GEOGRAPHIC HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102232
+#EXTINF:-1,BR | NBA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102233
+#EXTINF:-1,BR | NICK JR HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102235
+#EXTINF:-1,BR | NICKELODEON HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102234
+#EXTINF:-1,BR | OFF HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102236
+#EXTINF:-1,BR | PARAMOUNT CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102237
+#EXTINF:-1,BR | PLAYKIDS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102238
+#EXTINF:-1,BR | PREMIERE 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102239
+#EXTINF:-1,BR | PREMIERE 3 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102240
+#EXTINF:-1,BR | PREMIERE 4 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102241
+#EXTINF:-1,BR | PREMIERE 5 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102242
+#EXTINF:-1,BR | PREMIERE CLUBES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102243
+#EXTINF:-1,BR | RECORD CAMPINAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102244
+#EXTINF:-1,BR | RECORD NEWS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102245
+#EXTINF:-1,BR | RECORD NORDESTE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102246
+#EXTINF:-1,BR | RECORD RJ HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102247
+#EXTINF:-1,BR | RECORD SP HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102248
+#EXTINF:-1,BR | REDE TV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102249
+#EXTINF:-1,BR | REDE VIDA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102250
+#EXTINF:-1,BR | SBT GOIAS HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102251
+#EXTINF:-1,BR | SBT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102252
+#EXTINF:-1,BR | SBT NORDESTE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102254
+#EXTINF:-1,BR | SBT RJ HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102253
+#EXTINF:-1,BR | SONY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102255
+#EXTINF:-1,BR | SPACE HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102256
+#EXTINF:-1,BR | SPORTV 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102257
+#EXTINF:-1,BR | SPORTV 3 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102258
+#EXTINF:-1,BR | SPORTV HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102259
+#EXTINF:-1,BR | STUDIO UNIVERSAL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102260
+#EXTINF:-1,BR | SYFY HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102261
+#EXTINF:-1,BR | TELECINE ACTION HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102262
+#EXTINF:-1,BR | TELECINE CULT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102263
+#EXTINF:-1,BR | TELECINE FUN HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102264
+#EXTINF:-1,BR | TELECINE PIPOCA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102265
+#EXTINF:-1,BR | TELECINE PREMIUM HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102266
+#EXTINF:-1,BR | TELECINE TOUCH HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102267
+#EXTINF:-1,BR | TNT HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102268
+#EXTINF:-1,BR | TNT SERIES HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102269
+#EXTINF:-1,BR | TOONCAST HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102270
+#EXTINF:-1,BR | TV APARECIDA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102271
+#EXTINF:-1,BR | TV CINE 1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102272
+#EXTINF:-1,BR | TV CINE 2 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102273
+#EXTINF:-1,BR | TV CINE 3 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102274
+#EXTINF:-1,BR | TV CINE 4 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102275
+#EXTINF:-1,BR | UNIVERSAL CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102276
+#EXTINF:-1,BR | VH1 HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102277
+#EXTINF:-1,BR | VIVA HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102278
+#EXTINF:-1,BR | WARNER CHANNEL HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102279
+#EXTINF:-1,BR | WOOHOO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102280
+#EXTINF:-1,BR | ZOOMOO HD
+http://nomorecable.xyz:80/amadeustr1117894/683819/102281
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Canais Brasil 2" ,BRASIL | AXN  HD
-http://kstv.xyz:8080/Ray/1234/46412
-#EXTINF:-1,BRASIL | AMC  HD
-http://kstv.xyz:8080/Ray/1234/46413
-#EXTINF:-1,BRASIL | ANIMAL PLANET  HD
-http://kstv.xyz:8080/Ray/1234/46414
-#EXTINF:-1,BRASIL | ARTE 1  HD
-http://kstv.xyz:8080/Ray/1234/46415
-#EXTINF:-1,BRASIL | BABY TV  HD
-http://kstv.xyz:8080/Ray/1234/46416
-#EXTINF:-1,BRASIL | BAND CAMPINAS  HD
-http://kstv.xyz:8080/Ray/1234/46417
-#EXTINF:-1,BRASIL | BAND NEWS  HD
-http://kstv.xyz:8080/Ray/1234/46418
-#EXTINF:-1,BRASIL | BAND SPORTS  HD
-http://kstv.xyz:8080/Ray/1234/46419
-#EXTINF:-1,BRASIL | BIS  HD
-http://kstv.xyz:8080/Ray/1234/46420
-#EXTINF:-1,BRASIL | BOOMERANG  HD
-http://kstv.xyz:8080/Ray/1234/46421
-#EXTINF:-1,BRASIL | CANAL BRASIL  HD
-http://kstv.xyz:8080/Ray/1234/46422
-#EXTINF:-1,BRASIL | CANC  HD
-http://kstv.xyz:8080/Ray/1234/46423
-#EXTINF:-1,BRASIL | CARTOON NETWORK  HD
-http://kstv.xyz:8080/Ray/1234/46424
-#EXTINF:-1,BRASIL | CINEMAX  HD
-http://kstv.xyz:8080/Ray/1234/46425
-#EXTINF:-1,BRASIL | CNT  HD
-http://kstv.xyz:8080/Ray/1234/46426
-#EXTINF:-1,BRASIL | COMBATE  HD
-http://kstv.xyz:8080/Ray/1234/46427
-#EXTINF:-1,BRASIL | COMEDY CENTRAL  HD
-http://kstv.xyz:8080/Ray/1234/46428
-#EXTINF:-1,BRASIL | CULTURA  HD
-http://kstv.xyz:8080/Ray/1234/46429
-#EXTINF:-1,BRASIL | CURTA!  HD
-http://kstv.xyz:8080/Ray/1234/46430
-#EXTINF:-1,BRASIL | CURTA!  HD
-http://kstv.xyz:8080/Ray/1234/46431
-#EXTINF:-1,BRASIL | DISCOVERY CHANNEL  HD
-http://kstv.xyz:8080/Ray/1234/46432
-#EXTINF:-1,BRASIL | DISCOVERY CIVILIZATION  HD
-http://kstv.xyz:8080/Ray/1234/46433
-#EXTINF:-1,BRASIL | DISCOVERY HOME & HEALTH  HD
-http://kstv.xyz:8080/Ray/1234/46434
-#EXTINF:-1,BRASIL | DISCOVERY KIDS  HD
-http://kstv.xyz:8080/Ray/1234/46435
-#EXTINF:-1,BRASIL | DISCOVERY SCIENCE  HD
-http://kstv.xyz:8080/Ray/1234/46436
-#EXTINF:-1,BRASIL | DISCOVERY THEATER  HD
-http://kstv.xyz:8080/Ray/1234/46437
-#EXTINF:-1,BRASIL | DISCOVERY TLC  HD
-http://kstv.xyz:8080/Ray/1234/46438
-#EXTINF:-1,BRASIL | DISCOVERY TURBO  HD
-http://kstv.xyz:8080/Ray/1234/46439
-#EXTINF:-1,BRASIL | DISCOVERY WORLD  HD
-http://kstv.xyz:8080/Ray/1234/46440
-#EXTINF:-1,BRASIL | DISNEY CHANNEL  HD
-http://kstv.xyz:8080/Ray/1234/46441
-#EXTINF:-1,BRASIL | DISNEY JR  HD
-http://kstv.xyz:8080/Ray/1234/46442
-#EXTINF:-1,BRASIL | DISNEY XD  HD
-http://kstv.xyz:8080/Ray/1234/46443
-#EXTINF:-1,BRASIL | E!  HD
-http://kstv.xyz:8080/Ray/1234/46444
-#EXTINF:-1,BRASIL | ESPN  HD
-http://kstv.xyz:8080/Ray/1234/46445
-#EXTINF:-1,BRASIL | ESPN 2  HD
-http://kstv.xyz:8080/Ray/1234/46446
-#EXTINF:-1,BRASIL | ESPN BRASIL  HD
-http://kstv.xyz:8080/Ray/1234/46447
-#EXTINF:-1,BRASIL | FISH TV  HD
-http://kstv.xyz:8080/Ray/1234/46448
-#EXTINF:-1,BRASIL | FOOD NETWORK  HD
-http://kstv.xyz:8080/Ray/1234/46449
-#EXTINF:-1,BRASIL | FOX  HD
-http://kstv.xyz:8080/Ray/1234/46450
-#EXTINF:-1,BRASIL | FOX LIFE  HD
-http://kstv.xyz:8080/Ray/1234/46451
-#EXTINF:-1,BRASIL | FOX PREMIUM 1  HD
-http://kstv.xyz:8080/Ray/1234/46452
-#EXTINF:-1,BRASIL | FOX SPORTS  HD
-http://kstv.xyz:8080/Ray/1234/46453
-#EXTINF:-1,BRASIL | FOX SPORTS 2  HD
-http://kstv.xyz:8080/Ray/1234/46454
-#EXTINF:-1,BRASIL | FUTURA  HD
-http://kstv.xyz:8080/Ray/1234/46455
-#EXTINF:-1,BRASIL | FX  HD
-http://kstv.xyz:8080/Ray/1234/46456
-#EXTINF:-1,BRASIL | GLOBO BRASILIA  HD
-http://kstv.xyz:8080/Ray/1234/46457
-#EXTINF:-1,BRASIL | GLOBO CUIABA  HD
-http://kstv.xyz:8080/Ray/1234/46458
-#EXTINF:-1,BRASIL | GLOBO EPTV RIBEIR  HD
-http://kstv.xyz:8080/Ray/1234/46459
-#EXTINF:-1,BRASIL | GLOBO EPTV RIBEIRÃO PRETO  HD
-http://kstv.xyz:8080/Ray/1234/46460
-#EXTINF:-1,BRASIL | GLOBO EPTV SAO CARLOS  HD
-http://kstv.xyz:8080/Ray/1234/46461
-#EXTINF:-1,BRASIL | GLOBO INTERNACIONAL  HD
-http://kstv.xyz:8080/Ray/1234/46462
-#EXTINF:-1,BRASIL | GLOBO NEWS  HD
-http://kstv.xyz:8080/Ray/1234/46463
-#EXTINF:-1,BRASIL | GLOBO NORDESTE  HD
-http://kstv.xyz:8080/Ray/1234/46464
-#EXTINF:-1,BRASIL | GLOBO RIBEIR  HD
-http://kstv.xyz:8080/Ray/1234/46465
-#EXTINF:-1,BRASIL | GLOBO RJ  HD
-http://kstv.xyz:8080/Ray/1234/46466
-#EXTINF:-1,BRASIL | GLOBO RPC TV  HD
-http://kstv.xyz:8080/Ray/1234/46467
-#EXTINF:-1,BRASIL | GLOBO SP  HD
-http://kstv.xyz:8080/Ray/1234/46468
-#EXTINF:-1,BRASIL | GLOBO TV TRIBUNA SANTOS  HD
-http://kstv.xyz:8080/Ray/1234/46469
-#EXTINF:-1,BRASIL | GLOBOSAT  HD
-http://kstv.xyz:8080/Ray/1234/46470
-#EXTINF:-1,BRASIL | GLOOB  HD
-http://kstv.xyz:8080/Ray/1234/46471
-#EXTINF:-1,BRASIL | GNT  HD
-http://kstv.xyz:8080/Ray/1234/46472
-#EXTINF:-1,BRASIL | H2  HD
-http://kstv.xyz:8080/Ray/1234/46473
-#EXTINF:-1,BRASIL | HBO  HD
-http://kstv.xyz:8080/Ray/1234/46474
-#EXTINF:-1,BRASIL | HBO 2  HD
-http://kstv.xyz:8080/Ray/1234/46475
-#EXTINF:-1,BRASIL | HISTORY CHANNEL  HD
-http://kstv.xyz:8080/Ray/1234/46476
-#EXTINF:-1,BRASIL | INVESTIGA  HD
-http://kstv.xyz:8080/Ray/1234/46477
-#EXTINF:-1,BRASIL | LIFETIME  HD
-http://kstv.xyz:8080/Ray/1234/46478
-#EXTINF:-1,BRASIL | MAX PRIME  HD
-http://kstv.xyz:8080/Ray/1234/46479
-#EXTINF:-1,BRASIL | MAX UP  HD
-http://kstv.xyz:8080/Ray/1234/46480
-#EXTINF:-1,BRASIL | MEGAPIX  HD
-http://kstv.xyz:8080/Ray/1234/46481
-#EXTINF:-1,BRASIL | MUSIC BOX BRAZIL  HD
-http://kstv.xyz:8080/Ray/1234/46482
-#EXTINF:-1,BRASIL | NATGEO WILD  HD
-http://kstv.xyz:8080/Ray/1234/46483
-#EXTINF:-1,BRASIL | NATIONAL GEOGRAPHIC  HD
-http://kstv.xyz:8080/Ray/1234/46484
-#EXTINF:-1,BRASIL | NICK JR  HD
-http://kstv.xyz:8080/Ray/1234/46485
-#EXTINF:-1,BRASIL | NICKELODEON  HD
-http://kstv.xyz:8080/Ray/1234/46486
-#EXTINF:-1,BRASIL | OFF  HD
-http://kstv.xyz:8080/Ray/1234/46487
-#EXTINF:-1,BRASIL | PARAMOUNT CHANNEL   HD
-http://kstv.xyz:8080/Ray/1234/46488
-#EXTINF:-1,BRASIL | PREMIERE 1  HD
-http://kstv.xyz:8080/Ray/1234/46489
-#EXTINF:-1,BRASIL | PREMIERE 1  HD
-http://kstv.xyz:8080/Ray/1234/46490
-#EXTINF:-1,BRASIL | PREMIERE 2  HD
-http://kstv.xyz:8080/Ray/1234/46491
-#EXTINF:-1,BRASIL | PREMIERE 3  HD
-http://kstv.xyz:8080/Ray/1234/46492
-#EXTINF:-1,BRASIL | PREMIERE 4  HD
-http://kstv.xyz:8080/Ray/1234/46493
-#EXTINF:-1,BRASIL | PREMIERE CLUBES  HD
-http://kstv.xyz:8080/Ray/1234/46494
-#EXTINF:-1,BRASIL | RECORD  HD
-http://kstv.xyz:8080/Ray/1234/46495
-#EXTINF:-1,BRASIL | RECORD AMAZONAS  HD
-http://kstv.xyz:8080/Ray/1234/46496
-#EXTINF:-1,BRASIL | RECORD CAMPINAS  HD
-http://kstv.xyz:8080/Ray/1234/46497
-#EXTINF:-1,BRASIL | RECORD MG  HD
-http://kstv.xyz:8080/Ray/1234/46498
-#EXTINF:-1,BRASIL | RECORD NORDESTE  HD
-http://kstv.xyz:8080/Ray/1234/46499
-#EXTINF:-1,BRASIL | RECORD SP  HD
-http://kstv.xyz:8080/Ray/1234/46500
-#EXTINF:-1,BRASIL | REDE FAMILIA  HD
-http://kstv.xyz:8080/Ray/1234/46501
-#EXTINF:-1,BRASIL | REDE TV  HD
-http://kstv.xyz:8080/Ray/1234/46502
-#EXTINF:-1,BRASIL | REDE VIDA  HD
-http://kstv.xyz:8080/Ray/1234/46503
-#EXTINF:-1,BRASIL | SONY  HD
-http://kstv.xyz:8080/Ray/1234/46504
-#EXTINF:-1,BRASIL | SPACE  HD
-http://kstv.xyz:8080/Ray/1234/46505
-#EXTINF:-1,BRASIL | SPORTV  HD
-http://kstv.xyz:8080/Ray/1234/46506
-#EXTINF:-1,BRASIL | SPORTV 2  HD
-http://kstv.xyz:8080/Ray/1234/46507
-#EXTINF:-1,BRASIL | SPORTV 3  HD
-http://kstv.xyz:8080/Ray/1234/46508
-#EXTINF:-1,BRASIL | STUDIO UNIVERSAL  HD
-http://kstv.xyz:8080/Ray/1234/46509
-#EXTINF:-1,BRASIL | SYFY  HD
-http://kstv.xyz:8080/Ray/1234/46510
-#EXTINF:-1,BRASIL | TBS  HD
-http://kstv.xyz:8080/Ray/1234/46511
-#EXTINF:-1,BRASIL | TCM  HD
-http://kstv.xyz:8080/Ray/1234/46512
-#EXTINF:-1,BRASIL | TELECINE ACTION  HD
-http://kstv.xyz:8080/Ray/1234/46513
-#EXTINF:-1,BRASIL | TELECINE CULT  HD
-http://kstv.xyz:8080/Ray/1234/46514
-#EXTINF:-1,BRASIL | TELECINE FUN  HD
-http://kstv.xyz:8080/Ray/1234/46515
-#EXTINF:-1,BRASIL | TELECINE PREMIUM  HD
-http://kstv.xyz:8080/Ray/1234/46516
-#EXTINF:-1,BRASIL | TELECINE TOUCH  HD
-http://kstv.xyz:8080/Ray/1234/46517
-#EXTINF:-1,BRASIL | TNT  HD
-http://kstv.xyz:8080/Ray/1234/46518
-#EXTINF:-1,BRASIL | TNT SERIES  HD
-http://kstv.xyz:8080/Ray/1234/46519
-#EXTINF:-1,BRASIL | Tooncast  HD
-http://kstv.xyz:8080/Ray/1234/46520
-#EXTINF:-1,BRASIL | TV GAZETA  HD
-http://kstv.xyz:8080/Ray/1234/46521
-#EXTINF:-1,BRASIL | VH1  HD
-http://kstv.xyz:8080/Ray/1234/46522
-#EXTINF:-1,BRASIL | VIVA  HD
-http://kstv.xyz:8080/Ray/1234/46523
-#EXTINF:-1,BRASIL | WARNER CHANNEL  HD
-http://kstv.xyz:8080/Ray/1234/46524
-#EXTINF:-1,BRASIL | WOOHOO  HD
-http://kstv.xyz:8080/Ray/1234/46525
-
+#EXTINF:-1 group-title="Canais Brasil 2" ,BR| A E HD
+http://dream4k.co:8080/Beki/8420697372/32136
+#EXTINF:-1,BR| AMC HD
+http://dream4k.co:8080/Beki/8420697372/32137
+#EXTINF:-1,BR| ANIMAL PLANET HD
+http://dream4k.co:8080/Beki/8420697372/32138
+#EXTINF:-1,BR| AXN HD
+http://dream4k.co:8080/Beki/8420697372/32139
+#EXTINF:-1,BR| BAND HD
+http://dream4k.co:8080/Beki/8420697372/32140
+#EXTINF:-1,BR| BAND NEWS HD
+http://dream4k.co:8080/Beki/8420697372/32141
+#EXTINF:-1,BR| BAND SPORTS HD
+http://dream4k.co:8080/Beki/8420697372/32142
+#EXTINF:-1,BR| TV Geral
+http://dream4k.co:8080/Beki/8420697372/32143
+#EXTINF:-1,BR| BOOMERANG HD
+http://dream4k.co:8080/Beki/8420697372/32144
+#EXTINF:-1,BR| CARTOON HD
+http://dream4k.co:8080/Beki/8420697372/32145
+#EXTINF:-1,BR| CINEMAX HD
+http://dream4k.co:8080/Beki/8420697372/32146
+#EXTINF:-1,BR| COMBATE HD
+http://dream4k.co:8080/Beki/8420697372/32147
+#EXTINF:-1,BR| COMEDY CENTRAL HD
+http://dream4k.co:8080/Beki/8420697372/32148
+#EXTINF:-1,BR| DISCOVERY CIVILIZATION HD
+http://dream4k.co:8080/Beki/8420697372/32149
+#EXTINF:-1,BR| DISCOVERY H H HD
+http://dream4k.co:8080/Beki/8420697372/32150
+#EXTINF:-1,BR| DISCOVERY HD
+http://dream4k.co:8080/Beki/8420697372/32151
+#EXTINF:-1,BR| DISCOVERY KIDS HD
+http://dream4k.co:8080/Beki/8420697372/32152
+#EXTINF:-1,BR| DISCOVERY SCIENCE HD
+http://dream4k.co:8080/Beki/8420697372/32153
+#EXTINF:-1,BR| DISCOVERY THEATHER HD
+http://dream4k.co:8080/Beki/8420697372/32154
+#EXTINF:-1,BR| DISCOVERY TURBO HD
+http://dream4k.co:8080/Beki/8420697372/32155
+#EXTINF:-1,BR| DISCOVERY WORLD HD
+http://dream4k.co:8080/Beki/8420697372/32156
+#EXTINF:-1,BR| DISNEY CHANNEL HD
+http://dream4k.co:8080/Beki/8420697372/32157
+#EXTINF:-1,BR| DISNEY JUNIOR HD
+http://dream4k.co:8080/Beki/8420697372/32158
+#EXTINF:-1,BR| DISNEY XD HD
+http://dream4k.co:8080/Beki/8420697372/32159
+#EXTINF:-1,BR| E HD
+http://dream4k.co:8080/Beki/8420697372/32160
+#EXTINF:-1,BR| ESPN   HD
+http://dream4k.co:8080/Beki/8420697372/32161
+#EXTINF:-1,BR| ESPN BR HD
+http://dream4k.co:8080/Beki/8420697372/32162
+#EXTINF:-1,BR| ESPN INTERNACIONAL HD
+http://dream4k.co:8080/Beki/8420697372/32163
+#EXTINF:-1,BR| GLOBO NORDESTE HD
+http://dream4k.co:8080/Beki/8420697372/32164
+#EXTINF:-1,BR| Rede New
+http://dream4k.co:8080/Beki/8420697372/32165
+#EXTINF:-1,BR| FOOD NETWORK HD
+http://dream4k.co:8080/Beki/8420697372/32166
+#EXTINF:-1,BR| FOX HD
+http://dream4k.co:8080/Beki/8420697372/32167
+#EXTINF:-1,BR| FOX LIFE HD
+http://dream4k.co:8080/Beki/8420697372/32168
+#EXTINF:-1,BR| FOX PREMIUM HD
+http://dream4k.co:8080/Beki/8420697372/32169
+#EXTINF:-1,BR| FOX SPORTS 2 HD
+http://dream4k.co:8080/Beki/8420697372/32170
+#EXTINF:-1,BR| FOX SPORTS HD
+http://dream4k.co:8080/Beki/8420697372/32171
+#EXTINF:-1,BR| FX HD
+http://dream4k.co:8080/Beki/8420697372/32172
+#EXTINF:-1,BR| GLOBO NEWS HD
+http://dream4k.co:8080/Beki/8420697372/32173
+#EXTINF:-1,BR| GLOBO TV HD
+http://dream4k.co:8080/Beki/8420697372/32174
+#EXTINF:-1,BR| GNT HD
+http://dream4k.co:8080/Beki/8420697372/32175
+#EXTINF:-1,BR| H2 HD
+http://dream4k.co:8080/Beki/8420697372/32176
+#EXTINF:-1,BR| HBO FAMILY HD
+http://dream4k.co:8080/Beki/8420697372/32177
+#EXTINF:-1,BR| HBO HD
+http://dream4k.co:8080/Beki/8420697372/32178
+#EXTINF:-1,BR| HBO PLUS HD
+http://dream4k.co:8080/Beki/8420697372/32179
+#EXTINF:-1,BR| HBO SIGNATURE HD
+http://dream4k.co:8080/Beki/8420697372/32180
+#EXTINF:-1,BR| HBO2 HD
+http://dream4k.co:8080/Beki/8420697372/32181
+#EXTINF:-1,BR| HISTORY HD
+http://dream4k.co:8080/Beki/8420697372/32182
+#EXTINF:-1,BR| ID HD
+http://dream4k.co:8080/Beki/8420697372/32183
+#EXTINF:-1,BR| LIFETIME HD
+http://dream4k.co:8080/Beki/8420697372/32184
+#EXTINF:-1,BR| LOVE NATURE HD1
+http://dream4k.co:8080/Beki/8420697372/32185
+#EXTINF:-1,BR|  GLOBO EPTV CAMPINAS HD
+http://dream4k.co:8080/Beki/8420697372/32186
+#EXTINF:-1,BR| MAX HD
+http://dream4k.co:8080/Beki/8420697372/32187
+#EXTINF:-1,BR| MAX PRIME HD
+http://dream4k.co:8080/Beki/8420697372/32188
+#EXTINF:-1,BR| MAX UP HD
+http://dream4k.co:8080/Beki/8420697372/32189
+#EXTINF:-1,BR| MEGAPIX HD
+http://dream4k.co:8080/Beki/8420697372/32190
+#EXTINF:-1,BR| MTV HD
+http://dream4k.co:8080/Beki/8420697372/32191
+#EXTINF:-1,BR| MTV LIVE HD
+http://dream4k.co:8080/Beki/8420697372/32192
+#EXTINF:-1,BR| Sony
+http://dream4k.co:8080/Beki/8420697372/32193
+#EXTINF:-1,BR| NATGEO HD
+http://dream4k.co:8080/Beki/8420697372/32194
+#EXTINF:-1,BR| NATGEO KIDS HD
+http://dream4k.co:8080/Beki/8420697372/32195
+#EXTINF:-1,BR| NATGEO WILD HD
+http://dream4k.co:8080/Beki/8420697372/32196
+#EXTINF:-1,BR| NICK HD
+http://dream4k.co:8080/Beki/8420697372/32197
+#EXTINF:-1,BR| NICK JR HD
+http://dream4k.co:8080/Beki/8420697372/32198
+#EXTINF:-1,BR| OFF HD
+http://dream4k.co:8080/Beki/8420697372/32199
+#EXTINF:-1,BR| PARAMOUNT HD
+http://dream4k.co:8080/Beki/8420697372/32200
+#EXTINF:-1,BR| PREMIERE 2 HD
+http://dream4k.co:8080/Beki/8420697372/32201
+#EXTINF:-1,BR| PREMIERE 3 HD
+http://dream4k.co:8080/Beki/8420697372/32202
+#EXTINF:-1,BR| PREMIERE 4 HD
+http://dream4k.co:8080/Beki/8420697372/32203
+#EXTINF:-1,BR| PREMIERE 5 HD
+http://dream4k.co:8080/Beki/8420697372/32204
+#EXTINF:-1,BR| PREMIERE 6 HD
+http://dream4k.co:8080/Beki/8420697372/32205
+#EXTINF:-1,BR| PREMIERE 7 HD
+http://dream4k.co:8080/Beki/8420697372/32206
+#EXTINF:-1,BR| PREMIERE CLUBES HD
+http://dream4k.co:8080/Beki/8420697372/32207
+#EXTINF:-1,BR| RECORD HD
+http://dream4k.co:8080/Beki/8420697372/32208
+#EXTINF:-1,BR| RECORD NEWS HD
+http://dream4k.co:8080/Beki/8420697372/32209
+#EXTINF:-1,BR| REDE 21
+http://dream4k.co:8080/Beki/8420697372/32210
+#EXTINF:-1,BR| REDE TV HD
+http://dream4k.co:8080/Beki/8420697372/32211
+#EXTINF:-1,BR| REDE VIDA
+http://dream4k.co:8080/Beki/8420697372/32212
+#EXTINF:-1,BR| SBT HD
+http://dream4k.co:8080/Beki/8420697372/32213
+#EXTINF:-1,BR| SONY  HD
+http://dream4k.co:8080/Beki/8420697372/32214
+#EXTINF:-1,BR| SPACE HD
+http://dream4k.co:8080/Beki/8420697372/32215
+#EXTINF:-1,BR| SPORT TV 3 HD
+http://dream4k.co:8080/Beki/8420697372/32216
+#EXTINF:-1,BR| SPORTV 2 HD
+http://dream4k.co:8080/Beki/8420697372/32217
+#EXTINF:-1,BR| SPORTV HD
+http://dream4k.co:8080/Beki/8420697372/32218
+#EXTINF:-1,BR| STUDIO UNIVERSAL HD
+http://dream4k.co:8080/Beki/8420697372/32219
+#EXTINF:-1,BR| SYFY HD
+http://dream4k.co:8080/Beki/8420697372/32220
+#EXTINF:-1,BR| TELECINE ACTION HD
+http://dream4k.co:8080/Beki/8420697372/32221
+#EXTINF:-1,BR| TELECINE CULT HD
+http://dream4k.co:8080/Beki/8420697372/32222
+#EXTINF:-1,BR| TELECINE FUN HD
+http://dream4k.co:8080/Beki/8420697372/32223
+#EXTINF:-1,BR| TELECINE PIPOCA HD
+http://dream4k.co:8080/Beki/8420697372/32224
+#EXTINF:-1,BR| TELECINE PREMIUM HD
+http://dream4k.co:8080/Beki/8420697372/32225
+#EXTINF:-1,BR| TELECINE TOUCH HD
+http://dream4k.co:8080/Beki/8420697372/32226
+#EXTINF:-1,BR| TLC HD
+http://dream4k.co:8080/Beki/8420697372/32227
+#EXTINF:-1,BR| TNT HD
+http://dream4k.co:8080/Beki/8420697372/32228
+#EXTINF:-1,BR| UNIVERSAL CHANNEL HD
+http://dream4k.co:8080/Beki/8420697372/32229
+#EXTINF:-1,BR| VIVA HD
+http://dream4k.co:8080/Beki/8420697372/32230
+#EXTINF:-1,BR| WARNER CHANNEL HD
+http://dream4k.co:8080/Beki/8420697372/32231
+#EXTINF:-1,BR| WOOHOO HD
+http://dream4k.co:8080/Beki/8420697372/32232
 
 
 
@@ -785,452 +1378,302 @@ http://kstv.xyz:8080/Ray/1234/46525
 
 
 
-#EXTINF:-1 group-title="USA" ,A & E                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83765
-#EXTINF:-1,ABC                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83766
-#EXTINF:-1,AMC                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83767
-#EXTINF:-1,Antenna                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83768
-#EXTINF:-1,BET Her                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83769
-#EXTINF:-1,Bet East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83770
-#EXTINF:-1,Bounce TV                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83771
-#EXTINF:-1,Bravo East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83772
-#EXTINF:-1,CBS                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83773
-#EXTINF:-1,CW                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83774
-#EXTINF:-1,Comedy Central East              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83775
-#EXTINF:-1,Comet                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83776
-#EXTINF:-1,Cooking Channel                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83777
-#EXTINF:-1,Cozi                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83778
-#EXTINF:-1,E! East                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83779
-#EXTINF:-1,E! West                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83780
-#EXTINF:-1,FX East                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83781
-#EXTINF:-1,FX West                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83782
-#EXTINF:-1,FXM                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83783
-#EXTINF:-1,FXX East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83784
-#EXTINF:-1,FXX West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83785
-#EXTINF:-1,FYI                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83786
-#EXTINF:-1,Food Network East             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83787
-#EXTINF:-1,Fox                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83788
-#EXTINF:-1,Fox Life              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83789
-#EXTINF:-1,Freeform East             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83790
-#EXTINF:-1,Freeform West             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83791
-#EXTINF:-1,Fusion                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83792
-#EXTINF:-1,Gameshow Network                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83793
-#EXTINF:-1,Grit TV                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83794
-#EXTINF:-1,HLN                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83795
-#EXTINF:-1,Hallmark Channel               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83796
-#EXTINF:-1,Hallmark Drama                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83797
-#EXTINF:-1,Hallmark Movie & Mysteries      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83798
-#EXTINF:-1,HALLMARK EAST
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83799
-#EXTINF:-1,INSP                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83800
-#EXTINF:-1,ION                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83801
-#EXTINF:-1,Lifetime                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83802
-#EXTINF:-1,MY RDC                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83803
-#EXTINF:-1,My 24                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83804
-#EXTINF:-1,NBC                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83805
-#EXTINF:-1,OWN                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83806
-#EXTINF:-1,Outdoor                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83807
-#EXTINF:-1,Outside TV                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83808
-#EXTINF:-1,Oxygen East                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83809
-#EXTINF:-1,Oxygen West                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83810
-#EXTINF:-1,PBS                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83811
-#EXTINF:-1,Paramount Network               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83812
-#EXTINF:-1,QVC                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83813
-#EXTINF:-1,Revolt                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83814
-#EXTINF:-1,Spike                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83815
-#EXTINF:-1,Syfy East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83816
-#EXTINF:-1,Syfy West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83817
-#EXTINF:-1,TBN   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83818
-#EXTINF:-1,TBS East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83819
-#EXTINF:-1,TLC East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83820
-#EXTINF:-1,TLC West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83821
-#EXTINF:-1,TNT East                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83822
-#EXTINF:-1,TNT West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83823
-#EXTINF:-1,TV Land East                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83824
-#EXTINF:-1,TV One            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83825
-#EXTINF:-1,Tastemade                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83826
-#EXTINF:-1,The Weather Channel           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83827
-#EXTINF:-1,TruTV East                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83828
-#EXTINF:-1,TruTV West                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83829
-#EXTINF:-1,Network East                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83830
-#EXTINF:-1, Network West                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83831
-#EXTINF:-1,Viceland                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83832
-#EXTINF:-1,WE TV                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83833
-#EXTINF:-1,POP                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83834
-#EXTINF:-1,HGTV West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83835
-#EXTINF:-1,TBS West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83836
-#EXTINF:-1,HGTV East                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83837
-#EXTINF:-1,AXS TV                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83838
-#EXTINF:-1,REELZ                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83839
-#EXTINF:-1,Weather Nation      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83840
-#EXTINF:-1,Slice TV                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83841
-#EXTINF:-1,Get TV                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83842
-#EXTINF:-1,Food Network West              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83843
-#EXTINF:-1,People TV                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83844
-#EXTINF:-1,Comedy Dynamics                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83845
-#EXTINF:-1,Dog TV                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83846
-#EXTINF:-1,Zoom                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83847
-#EXTINF:-1,TV Land West                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83848
-#EXTINF:-1,Travel Channel West                                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83849
-#EXTINF:-1,BET West                                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83850
-#EXTINF:-1,BET Soul                                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83851
-#EXTINF:-1,Bravo West                                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83852
-#EXTINF:-1,Comedy Central West                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83853
-#EXTINF:-1,===== USA MOvies =====
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83911
-#EXTINF:-1,Action Max                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83912
-#EXTINF:-1,Cinemax East                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83913
-#EXTINF:-1,Cinemax West                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83914
-#EXTINF:-1,EPIX Hits                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83915
-#EXTINF:-1,Epix 2                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83916
-#EXTINF:-1,HBO 2                                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83917
-#EXTINF:-1,HBO Comedy                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83918
-#EXTINF:-1,HBO East                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83919
-#EXTINF:-1,HBO Family                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83920
-#EXTINF:-1,HBO West                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83921
-#EXTINF:-1,HBO Signature                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83922
-#EXTINF:-1,HBO Zone                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83923
-#EXTINF:-1,More Max                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83924
-#EXTINF:-1,Lifetime Movie Network                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83925
-#EXTINF:-1,Showtime East                                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83926
-#EXTINF:-1,Showtime Extreme                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83927
-#EXTINF:-1,Showtime West                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83928
-#EXTINF:-1,Showtime Showcase               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83929
-#EXTINF:-1,Sony Movie Channel                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83930
-#EXTINF:-1,Starz Comedy                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83931
-#EXTINF:-1,Starz East                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83932
-#EXTINF:-1,Starz Edge                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83933
-#EXTINF:-1,Starz Encore                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83934
-#EXTINF:-1,Starz Encore East               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83935
-#EXTINF:-1,Starz Encore Family            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83936
-#EXTINF:-1,Starz Encore Suspence        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83937
-#EXTINF:-1,Starz Encore Western         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83938
-#EXTINF:-1,Starz Kids & Family              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83939
-#EXTINF:-1,Starz In Black                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83940
-#EXTINF:-1,Starz West                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83941
-#EXTINF:-1,Sundance                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83942
-#EXTINF:-1,TCM                                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83943
-#EXTINF:-1,EPIX 3                                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83944
-#EXTINF:-1,EPIX                                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83945
-#EXTINF:-1,Showtime Family Zone         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83946
-#EXTINF:-1,EPIX DRIVE-IN                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83947
-#EXTINF:-1,OUTERMAX                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83948
-#EXTINF:-1,Showtime Beyond                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83949
-#EXTINF:-1,Showtime Women                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83950
-#EXTINF:-1,Showtime Next                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83951
-#EXTINF:-1,Starz Encore Action                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83952
-#EXTINF:-1,Showtime 2                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83953
-#EXTINF:-1,Cinefest                                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83954
-#EXTINF:-1,HDNet Movies                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83955
-#EXTINF:-1,MoviePlex                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83956
-#EXTINF:-1,Lone Star Classics                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83957
-#EXTINF:-1,RetroPlex                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83958
-#EXTINF:-1,Starz Classics                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83959
-#EXTINF:-1,PixL                                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83960
-#EXTINF:-1,===== USA Documentaries =====
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83738
-#EXTINF:-1,WGN 9                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83739
-#EXTINF:-1,American Heroes                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83740
-#EXTINF:-1,Animal Planet East                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83741
-#EXTINF:-1,Animal Planet West                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83742
-#EXTINF:-1,DIY Network                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83743
-#EXTINF:-1,Decades                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83744
-#EXTINF:-1,Destination America                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83745
-#EXTINF:-1,Discovery East                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83746
-#EXTINF:-1,Discovery West                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83747
-#EXTINF:-1,Discovery Family                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83748
-#EXTINF:-1,Discovery Life                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83749
-#EXTINF:-1,Discovery Science        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83750
-#EXTINF:-1,Investigation Discovery                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83751
-#EXTINF:-1,Discovery Velocity      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83752
-#EXTINF:-1,Law & Crime                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83753
-#EXTINF:-1,Motor Trend                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83754
-#EXTINF:-1,Nat Geo East                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83755
-#EXTINF:-1,Nat Geo West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83756
-#EXTINF:-1,Nat Geo Wild                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83757
-#EXTINF:-1,Smithsonian Channel East            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83758
-#EXTINF:-1,Travel Channel East                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83759
-#EXTINF:-1,Science                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83760
-#EXTINF:-1,Smithsonian Channel West           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83761
-#EXTINF:-1,Nature Vision                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83762
-#EXTINF:-1,History                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83763
-#EXTINF:-1,===== USA Kids =====
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83854
-#EXTINF:-1,Baby TV                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83855
-#EXTINF:-1,Boomerang                                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83856
-#EXTINF:-1,CBS POP                                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83857
-#EXTINF:-1,Cartoon Network East                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83858
-#EXTINF:-1,Cartoon Network West                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83859
-#EXTINF:-1,Disney Channel East                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83860
-#EXTINF:-1,Disney Channel West                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83861
-#EXTINF:-1,Disney Jr East                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83862
-#EXTINF:-1,Disney Jr Pacific                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83863
-#EXTINF:-1,Disney XD                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83864
-#EXTINF:-1,Nick Jr East                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83865
-#EXTINF:-1,Nickelodeon East                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83866
-#EXTINF:-1,Nick Music                                
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83867
-#EXTINF:-1,Nick Toons                              
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83868
-#EXTINF:-1,PBS Kids                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83869
-#EXTINF:-1,Sprout                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83870
-#EXTINF:-1,Teen Nick                               
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83871
-#EXTINF:-1,Universal Kids                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83872
-#EXTINF:-1,Baby First TV                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83873
-#EXTINF:-1,Nick JR West                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83874
-#EXTINF:-1,Nickelodeon West                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83875
-#EXTINF:-1,===== USA Music =====
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83876
-#EXTINF:-1,USA-CMT                                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83877
-#EXTINF:-1,El Rey Network                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83878
-#EXTINF:-1,Fuse                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83879
-#EXTINF:-1,MTV                                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83880
-#EXTINF:-1,MTV 2 East                                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83881
-#EXTINF:-1,VH1 East                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83882
-#EXTINF:-1,VH1 Classic                                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83883
-#EXTINF:-1,BET Jams                                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83884
-#EXTINF:-1,VH1 West                                         
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83885
-#EXTINF:-1,MTV 2 West                                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83886
-#EXTINF:-1,Hit List                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83887
-#EXTINF:-1,Hip-Hop/R&B                                     
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83888
-#EXTINF:-1,Teen Beats                                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83889
-#EXTINF:-1,Today s Country                                 
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83890
-#EXTINF:-1,Alternative       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83891
-#EXTINF:-1,Pop Latino                                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83892
-#EXTINF:-1,R&B & Soul                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83893
-#EXTINF:-1,Rap                                             
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83894
-#EXTINF:-1,Dance/EDM                                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83895
-#EXTINF:-1,Musica Urbana                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83896
-#EXTINF:-1,Indie                                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83897
-#EXTINF:-1,Kidz Only!                                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83898
-#EXTINF:-1,Mexicana                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83899
-#EXTINF:-1,Pop & Country                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83900
-#EXTINF:-1,Pop Hits                                        
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83901
-#EXTINF:-1,Tropicales                                      
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83902
-#EXTINF:-1,Rock                                            
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83903
-#EXTINF:-1,Metal                                           
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83904
-#EXTINF:-1,90 s                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83905
-#EXTINF:-1,Rap 2K                                          
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83906
-#EXTINF:-1,Throwback Jamz                                  
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83907
-#EXTINF:-1,Brits + Hits                                    
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83908
-#EXTINF:-1,Toddler Tunes                                   
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83909
-#EXTINF:-1,Y2K                       
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/83910
-
-
+#EXTINF:-1 group-title="USA" ,US: ESPN 1 FHD
+http://beyondstreamz.net:25461/Ouiga/779393/35926
+#EXTINF:-1,US: ESPN DEPORTES FHD
+http://beyondstreamz.net:25461/Ouiga/779393/35930
+#EXTINF:-1,US: ESPN News HD
+http://beyondstreamz.net:25461/Ouiga/779393/35931
+#EXTINF:-1,US: ESPN News
+http://beyondstreamz.net:25461/Ouiga/779393/35932
+#EXTINF:-1,US: ESPN U HD
+http://beyondstreamz.net:25461/Ouiga/779393/35933
+#EXTINF:-1,US: 5 STARMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37169
+#EXTINF:-1,US: ACTIONMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37170
+#EXTINF:-1,US: CINEMAX EAST
+http://beyondstreamz.net:25461/Ouiga/779393/37171
+#EXTINF:-1,US: CINEMAX WEST
+http://beyondstreamz.net:25461/Ouiga/779393/37172
+#EXTINF:-1,US: MOREMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37173
+#EXTINF:-1,US: OUTERMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37174
+#EXTINF:-1,US: THRILLERMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37175
+#EXTINF:-1,US: EPIX
+http://beyondstreamz.net:25461/Ouiga/779393/37176
+#EXTINF:-1,US: EPIX DRIVEIN
+http://beyondstreamz.net:25461/Ouiga/779393/37177
+#EXTINF:-1,US: EPIX HITS
+http://beyondstreamz.net:25461/Ouiga/779393/37178
+#EXTINF:-1,US: EPIX2
+http://beyondstreamz.net:25461/Ouiga/779393/37179
+#EXTINF:-1,US: SHOWTIME EXTREME
+http://beyondstreamz.net:25461/Ouiga/779393/37180
+#EXTINF:-1,US: SHOWTIME BEYOND
+http://beyondstreamz.net:25461/Ouiga/779393/37181
+#EXTINF:-1,US: STARZ WEST
+http://beyondstreamz.net:25461/Ouiga/779393/37182
+#EXTINF:-1,US: SHOWTIME EAST
+http://beyondstreamz.net:25461/Ouiga/779393/37183
+#EXTINF:-1,US: SHOWTIME WEST
+http://beyondstreamz.net:25461/Ouiga/779393/37184
+#EXTINF:-1,US: STARZENCORE WESTERNS
+http://beyondstreamz.net:25461/Ouiga/779393/37185
+#EXTINF:-1,US: STARZENCORE SUSPENSE
+http://beyondstreamz.net:25461/Ouiga/779393/37186
+#EXTINF:-1,US: STARZENCORE FAMILY
+http://beyondstreamz.net:25461/Ouiga/779393/37187
+#EXTINF:-1,US: STARZENCORE CLASSIC
+http://beyondstreamz.net:25461/Ouiga/779393/37188
+#EXTINF:-1,US: STARZENCORE ACTION
+http://beyondstreamz.net:25461/Ouiga/779393/37190
+#EXTINF:-1,US: STARZENCORE
+http://beyondstreamz.net:25461/Ouiga/779393/37191
+#EXTINF:-1,US: STARZ KIDS&FAMILY
+http://beyondstreamz.net:25461/Ouiga/779393/37192
+#EXTINF:-1,US: STARZ IN BLACK
+http://beyondstreamz.net:25461/Ouiga/779393/37193
+#EXTINF:-1,US: STARZ EDGE
+http://beyondstreamz.net:25461/Ouiga/779393/37194
+#EXTINF:-1,US: SHOWTIME WOMEN
+http://beyondstreamz.net:25461/Ouiga/779393/37195
+#EXTINF:-1,US: STARZ COMEDY
+http://beyondstreamz.net:25461/Ouiga/779393/37196
+#EXTINF:-1,US: STARZ EAST
+http://beyondstreamz.net:25461/Ouiga/779393/37197
+#EXTINF:-1,US: SHOWTIME SHOWCASE
+http://beyondstreamz.net:25461/Ouiga/779393/37198
+#EXTINF:-1,US: SHOWTIME NEXT
+http://beyondstreamz.net:25461/Ouiga/779393/37199
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE
+http://beyondstreamz.net:25461/Ouiga/779393/37200
+#EXTINF:-1,US: HBO ZONE
+http://beyondstreamz.net:25461/Ouiga/779393/37201
+#EXTINF:-1,US: HBO WEST
+http://beyondstreamz.net:25461/Ouiga/779393/37202
+#EXTINF:-1,US: HBO COMEDY
+http://beyondstreamz.net:25461/Ouiga/779393/37203
+#EXTINF:-1,US: HBO SIGNATURE
+http://beyondstreamz.net:25461/Ouiga/779393/37204
+#EXTINF:-1,US: HBO FAMILY
+http://beyondstreamz.net:25461/Ouiga/779393/37205
+#EXTINF:-1,US: GOLF CHANNEL
+http://beyondstreamz.net:25461/Ouiga/779393/37700
+#EXTINF:-1,US: AT&T SPORTSNET
+http://beyondstreamz.net:25461/Ouiga/779393/37718
+#EXTINF:-1,US: STADIUM 3
+http://beyondstreamz.net:25461/Ouiga/779393/37728
+#EXTINF:-1,US: A&E
+http://beyondstreamz.net:25461/Ouiga/779393/39670
+#EXTINF:-1,US: AMC
+http://beyondstreamz.net:25461/Ouiga/779393/39672
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+http://beyondstreamz.net:25461/Ouiga/779393/39673
+#EXTINF:-1,US: ANIMAL PLANET
+http://beyondstreamz.net:25461/Ouiga/779393/39675
+#EXTINF:-1,US: ANTENNA TV
+http://beyondstreamz.net:25461/Ouiga/779393/39677
+#EXTINF:-1,US: ASPIRE
+http://beyondstreamz.net:25461/Ouiga/779393/39678
+#EXTINF:-1,US: AWE
+http://beyondstreamz.net:25461/Ouiga/779393/39679
+#EXTINF:-1,US: AXS TV
+http://beyondstreamz.net:25461/Ouiga/779393/39681
+#EXTINF:-1,US: BABY FIRST
+http://beyondstreamz.net:25461/Ouiga/779393/39682
+#EXTINF:-1,US: BBC AMERICA
+http://beyondstreamz.net:25461/Ouiga/779393/39683
+#EXTINF:-1,US: BET EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39684
+#EXTINF:-1,US: BET WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39685
+#EXTINF:-1,US: BET HER
+http://beyondstreamz.net:25461/Ouiga/779393/39687
+#EXTINF:-1,US: BET JAMS
+http://beyondstreamz.net:25461/Ouiga/779393/39688
+#EXTINF:-1,US: BET SOUL
+http://beyondstreamz.net:25461/Ouiga/779393/39689
+#EXTINF:-1,US: BLOOMBERG
+http://beyondstreamz.net:25461/Ouiga/779393/39690
+#EXTINF:-1,US: BOOMERANG
+http://beyondstreamz.net:25461/Ouiga/779393/39692
+#EXTINF:-1,US: BOUNCE
+http://beyondstreamz.net:25461/Ouiga/779393/39693
+#EXTINF:-1,US: BRAVO EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39694
+#EXTINF:-1,US: BRAVO WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39695
+#EXTINF:-1,US: BUZZR
+http://beyondstreamz.net:25461/Ouiga/779393/39697
+#EXTINF:-1,US: CARTOON NETWORK EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39698
+#EXTINF:-1,US: CARTOON NETWORK WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39699
+#EXTINF:-1,US: CHEDDAR BUSINESS
+http://beyondstreamz.net:25461/Ouiga/779393/39700
+#EXTINF:-1,US: CHEDDAR NEWS
+http://beyondstreamz.net:25461/Ouiga/779393/39701
+#EXTINF:-1,US: CMT
+http://beyondstreamz.net:25461/Ouiga/779393/39704
+#EXTINF:-1,US: CNBC
+http://beyondstreamz.net:25461/Ouiga/779393/39705
+#EXTINF:-1,US: CNBC WORLD
+http://beyondstreamz.net:25461/Ouiga/779393/39706
+#EXTINF:-1,US: CNN
+http://beyondstreamz.net:25461/Ouiga/779393/39707
+#EXTINF:-1,US: COMEDY CENTRAL EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39708
+#EXTINF:-1,US: COMET
+http://beyondstreamz.net:25461/Ouiga/779393/39710
+#EXTINF:-1,US: COOKING CHANNEL
+http://beyondstreamz.net:25461/Ouiga/779393/39711
+#EXTINF:-1,US: COZI TV
+http://beyondstreamz.net:25461/Ouiga/779393/39712
+#EXTINF:-1,US: DESTINATION AMERICA
+http://beyondstreamz.net:25461/Ouiga/779393/39713
+#EXTINF:-1,US: DISCOVERY CHANNEL HD
+http://beyondstreamz.net:25461/Ouiga/779393/39714
+#EXTINF:-1,US: DISCOVERY FAMILY
+http://beyondstreamz.net:25461/Ouiga/779393/39715
+#EXTINF:-1,US: DISCOVERY ID EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39716
+#EXTINF:-1,US: DISCOVERY LIFE
+http://beyondstreamz.net:25461/Ouiga/779393/39718
+#EXTINF:-1,US: DISNEY CHANNEL EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39719
+#EXTINF:-1,US: DISNEY CHANNEL WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39720
+#EXTINF:-1,US: DISNEY JR EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39721
+#EXTINF:-1,US: DISNEY XD EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39722
+#EXTINF:-1,US: DIY NETWORK
+http://beyondstreamz.net:25461/Ouiga/779393/39724
+#EXTINF:-1,US: E! ENTERTAINMENT EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39725
+#EXTINF:-1,US: E! ENTERTAINMENT WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39726
+#EXTINF:-1,US: ELREY NETWORK
+http://beyondstreamz.net:25461/Ouiga/779393/39727
+#EXTINF:-1,US: FOOD NETWORK EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39728
+#EXTINF:-1,US: FREEFORM EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39730
+#EXTINF:-1,US: FUSE
+http://beyondstreamz.net:25461/Ouiga/779393/39731
+#EXTINF:-1,US: FUSION
+http://beyondstreamz.net:25461/Ouiga/779393/39732
+#EXTINF:-1,US: FX EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39733
+#EXTINF:-1,US: FXM
+http://beyondstreamz.net:25461/Ouiga/779393/39735
+#EXTINF:-1,US: FXX EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39736
+#EXTINF:-1,US: FYI
+http://beyondstreamz.net:25461/Ouiga/779393/39737
+#EXTINF:-1,US: GRIT
+http://beyondstreamz.net:25461/Ouiga/779393/39738
+#EXTINF:-1,US: Game Show Network
+http://beyondstreamz.net:25461/Ouiga/779393/39739
+#EXTINF:-1,US: HBO EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39743
+#EXTINF:-1,US: HGTV EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39744
+#EXTINF:-1,US: HGTV WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39745
+#EXTINF:-1,US: HISTORY CHANNEL
+http://beyondstreamz.net:25461/Ouiga/779393/39746
+#EXTINF:-1,US: HLN
+http://beyondstreamz.net:25461/Ouiga/779393/39747
+#EXTINF:-1,US: HSN
+http://beyondstreamz.net:25461/Ouiga/779393/39748
+#EXTINF:-1,US: IFC
+http://beyondstreamz.net:25461/Ouiga/779393/39749
+#EXTINF:-1,US: INSP
+http://beyondstreamz.net:25461/Ouiga/779393/39751
+#EXTINF:-1,US: LAW AND CRIME
+http://beyondstreamz.net:25461/Ouiga/779393/39752
+#EXTINF:-1,US: LMN
+http://beyondstreamz.net:25461/Ouiga/779393/39754
+#EXTINF:-1,US: MTV CLASSIC
+http://beyondstreamz.net:25461/Ouiga/779393/39759
+#EXTINF:-1,US: MTV LIVE
+http://beyondstreamz.net:25461/Ouiga/779393/39761
+#EXTINF:-1,US: MTV U
+http://beyondstreamz.net:25461/Ouiga/779393/39763
+#EXTINF:-1,US: NAT GEO WILD
+http://beyondstreamz.net:25461/Ouiga/779393/39764
+#EXTINF:-1,US: NATIONAL GEOGRAPHIC EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39765
+#EXTINF:-1,US: NECN
+http://beyondstreamz.net:25461/Ouiga/779393/39766
+#EXTINF:-1,US: NEWSY
+http://beyondstreamz.net:25461/Ouiga/779393/39767
+#EXTINF:-1,US: NICK JR EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39768
+#EXTINF:-1,US: NICKELODEON EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39769
+#EXTINF:-1,US: NICK MUSIC
+http://beyondstreamz.net:25461/Ouiga/779393/39771
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://beyondstreamz.net:25461/Ouiga/779393/39773
+#EXTINF:-1,US: OXYGEN EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39777
+#EXTINF:-1,US: OXYGEN WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39778
+#EXTINF:-1,US: PEOPLE TV
+http://beyondstreamz.net:25461/Ouiga/779393/39781
+#EXTINF:-1,US: REVOLT
+http://beyondstreamz.net:25461/Ouiga/779393/39785
+#EXTINF:-1,US: SCIENCE
+http://beyondstreamz.net:25461/Ouiga/779393/39786
+#EXTINF:-1,US: SMITHSONIAN EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39787
+#EXTINF:-1,US: SMITHSONIAN WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39788
+#EXTINF:-1,US: START TV
+http://beyondstreamz.net:25461/Ouiga/779393/39789
+#EXTINF:-1,US: TASTEMADE
+http://beyondstreamz.net:25461/Ouiga/779393/39793
+#EXTINF:-1,US: TBS WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39795
+#EXTINF:-1,US: TEENNICK
+http://beyondstreamz.net:25461/Ouiga/779393/39797
+#EXTINF:-1,US: TLC EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39798
+#EXTINF:-1,US: TNT WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39801
+#EXTINF:-1,US: TRAVEL CHANNEL EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39802
+#EXTINF:-1,US: TRAVEL CHANNEL WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39803
+#EXTINF:-1,US: TRUTV WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39805
+#EXTINF:-1,US: TV LAND EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39806
+#EXTINF:-1,US: UNIVERSAL KIDS EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39809
+#EXTINF:-1,US: USA NETWORK EAST
+http://beyondstreamz.net:25461/Ouiga/779393/39810
+#EXTINF:-1,US: USA NETWORK WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39811
+#EXTINF:-1,US: VH1 WEST
+http://beyondstreamz.net:25461/Ouiga/779393/39813
+#EXTINF:-1,US: WEATHER CHANNEL
+http://beyondstreamz.net:25461/Ouiga/779393/39815
+#EXTINF:-1,US: W W E
+http://beyondstreamz.net:25461/Ouiga/779393/39816
+#EXTINF:-1,US: ION TV
+http://beyondstreamz.net:25461/Ouiga/779393/39832
+#EXTINF:-1,US: SNY HD
+http://beyondstreamz.net:25461/Ouiga/779393/39833
+#EXTINF:-1,US: WILLOW CRICKET
+http://beyondstreamz.net:25461/Ouiga/779393/39834
+#EXTINF:-1,US: CMT
+http://beyondstreamz.net:25461/Ouiga/779393/39835
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
